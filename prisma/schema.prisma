@@ -1,0 +1,21 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["referentialIntegrity"]
+}
+
+datasource db {
+  provider             = "mysql"
+  url                  = env("DATABASE_URL")
+  referentialIntegrity = "prisma"
+}
+
+model Pokemon {
+  id      Int     @id @default(autoincrement())
+  name    String
+  type1   String
+  type2   String?
+  hp      Int
+  attack  Int
+  defense Int
+  speed   Int
+}
