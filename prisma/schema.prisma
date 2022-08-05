@@ -18,4 +18,7 @@ model Pokemon {
   attack  Int
   defense Int
   speed   Int
+  total   Int
+  spAtt   Int
+  spDef   Int
 }

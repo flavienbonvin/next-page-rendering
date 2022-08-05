@@ -5,6 +5,9 @@ const Home: NextPage = () => {
   return (
     <div>
       <p>Hello</p>
+      <Link href="/ssg" passHref>
+        <a>SSG</a>
+      </Link>
     </div>
   );
 };
