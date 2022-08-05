@@ -2,6 +2,7 @@ import { ChakraProvider, Container, Heading, Text } from "@chakra-ui/react"
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetStaticProps } from "next/types"
 import PokemonGrid from "../../components/chakra/PokemonsGrid"
+import Meta from "../../components/Meta"
 
 interface Props {
   pokemons: Pokemon[]
@@ -10,9 +11,12 @@ interface Props {
 
 const ISR = ({ pokemons, date }: Props) => {
   return (
-    <ChakraProvider>
-      <Page pokemons={pokemons} date={date} />
-    </ChakraProvider>
+    <>
+      <Meta title="Pokedex with Chara and ISR" />
+      <ChakraProvider>
+        <Page pokemons={pokemons} date={date} />
+      </ChakraProvider>
+    </>
   )
 }
 

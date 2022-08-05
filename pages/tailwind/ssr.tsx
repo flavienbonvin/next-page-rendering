@@ -1,5 +1,6 @@
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetServerSideProps } from "next/types"
+import Meta from "../../components/Meta"
 
 interface Props {
   pokemons: Pokemon[]
@@ -8,6 +9,7 @@ interface Props {
 const SSR = ({ pokemons }: Props) => {
   return (
     <>
+      <Meta title="Pokedex with Tailwind and SSR" />
       <p>SSR</p>
     </>
   )

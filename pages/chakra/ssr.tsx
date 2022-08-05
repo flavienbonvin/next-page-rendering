@@ -2,6 +2,7 @@ import { ChakraProvider, Container, Heading } from "@chakra-ui/react"
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetServerSideProps } from "next/types"
 import PokemonGrid from "../../components/chakra/PokemonsGrid"
+import Meta from "../../components/Meta"
 
 interface Props {
   pokemons: Pokemon[]
@@ -9,9 +10,12 @@ interface Props {
 
 const SSR = ({ pokemons }: Props) => {
   return (
-    <ChakraProvider>
-      <Page pokemons={pokemons} />
-    </ChakraProvider>
+    <>
+      <Meta title="Pokedex with Chara and SSR" />
+      <ChakraProvider>
+        <Page pokemons={pokemons} />
+      </ChakraProvider>
+    </>
   )
 }
 

@@ -1,5 +1,6 @@
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetStaticProps } from "next/types"
+import Meta from "../../components/Meta"
 
 interface Props {
   pokemons: Pokemon[]
@@ -9,6 +10,7 @@ interface Props {
 const ISR = ({ pokemons, date }: Props) => {
   return (
     <>
+      <Meta title="Pokedex with Tailwind and ISR" />
       <p>ISR</p>
       <p>Last build: {date}</p>
     </>
