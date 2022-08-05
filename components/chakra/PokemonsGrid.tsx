@@ -8,7 +8,7 @@ interface Props {
 
 const PokemonGrid = ({ pokemons }: Props) => {
   return (
-    <SimpleGrid minChildWidth="300px" spacing={10}>
+    <SimpleGrid minChildWidth="300px" spacing={10} mb={20}>
       {pokemons.map((pokemon) => (
         <PokemonCard pokemon={pokemon} key={pokemon.id} />
       ))}

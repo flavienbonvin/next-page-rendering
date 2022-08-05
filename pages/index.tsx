@@ -11,26 +11,7 @@ import {
 const Home: NextPage = () => {
   return (
     <div>
-      <p>Hello</p>
-      <Link href={ROUTE_TAIL_SSG} passHref>
-        <a>SSG Tailwind</a>
-      </Link>
-      <Link href={ROUTE_TAIL_SSR} passHref>
-        <a>SSR Tailwind</a>
-      </Link>
-      <Link href={ROUTE_TAIL_ISR} passHref>
-        <a>ISR Tailwind</a>
-      </Link>
-
-      <Link href={ROUTE_CHAKRA_SSR} passHref>
-        <a>SSG Chakra</a>
-      </Link>
-      <Link href={ROUTE_CHAKRA_SSR} passHref>
-        <a>SSR Chakra</a>
-      </Link>
-      <Link href={ROUTE_CHAKRA_ISR} passHref>
-        <a>ISR Chakra</a>
-      </Link>
+      <h1>Hello</h1>
     </div>
   )
 }
