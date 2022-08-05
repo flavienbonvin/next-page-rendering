@@ -20,6 +20,7 @@ export default async function handler(
   pokemons.forEach((pokemon: any) => {
     if (pokemon.generation !== 1) return
     const {
+      id,
       name,
       type1,
       type2,
@@ -32,9 +33,10 @@ export default async function handler(
       total,
     } = pokemon as JsonPokemon
 
-    const sprite = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.id}.png`
+    const sprite = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${id}.png`
 
     data.push({
+      number: id,
       name,
       type1,
       type2: type2 ?? null,
@@ -49,6 +51,7 @@ export default async function handler(
     })
   })
 
+  await prisma.pokemon.deleteMany()
   await prisma.pokemon.createMany({ data: data })
 
   res.status(200).send("sucessfully finished")
