@@ -8,7 +8,7 @@ interface Props {
 const SSR = ({ pokemons }: Props) => {
   return (
     <>
-      <p>SSG</p>
+      <p>SSR</p>
     </>
   )
 }

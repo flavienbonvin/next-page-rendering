@@ -1,5 +1,7 @@
+import { ChakraProvider, Container, Heading } from "@chakra-ui/react"
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetStaticProps } from "next/types"
+import PokemonGrid from "../../components/chakra/PokemonsGrid"
 
 interface Props {
   pokemons: Pokemon[]
@@ -7,9 +9,18 @@ interface Props {
 
 const SSG = ({ pokemons }: Props) => {
   return (
-    <>
-      <p>SSG</p>
-    </>
+    <ChakraProvider>
+      <Page pokemons={pokemons} />
+    </ChakraProvider>
+  )
+}
+
+const Page = ({ pokemons }: Props) => {
+  return (
+    <Container pt={3} maxW="container.xl">
+      <Heading pb={8}>Pokemon list</Heading>
+      <PokemonGrid pokemons={pokemons} />
+    </Container>
   )
 }
 

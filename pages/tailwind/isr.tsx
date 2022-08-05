@@ -1,25 +1,28 @@
 import { Pokemon, PrismaClient } from "@prisma/client"
-import type { GetServerSideProps } from "next/types"
+import type { GetStaticProps } from "next/types"
 
 interface Props {
   pokemons: Pokemon[]
+  date: string
 }
 
-const ISR = ({ pokemons }: Props) => {
+const ISR = ({ pokemons, date }: Props) => {
   return (
     <>
-      <p>SSG</p>
+      <p>ISR</p>
+      <p>Last build: {date}</p>
     </>
   )
 }
 
-export const getServerSideProps: GetServerSideProps = async () => {
+export const getStaticProps: GetStaticProps = async () => {
   const client = new PrismaClient()
 
   const pokemons = await client.pokemon.findMany()
 
   return {
-    props: { pokemons },
+    props: { pokemons, date: new Date().toLocaleString() },
+    revalidate: 10,
   }
 }
 
