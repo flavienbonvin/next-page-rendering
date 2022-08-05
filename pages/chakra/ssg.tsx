@@ -1,8 +1,8 @@
-import { Pokemon, PrismaClient } from "@prisma/client";
-import type { GetStaticProps } from "next/types";
+import { Pokemon, PrismaClient } from "@prisma/client"
+import type { GetStaticProps } from "next/types"
 
 interface Props {
-  pokemons: Pokemon[];
+  pokemons: Pokemon[]
 }
 
 const SSG = ({ pokemons }: Props) => {
@@ -10,17 +10,17 @@ const SSG = ({ pokemons }: Props) => {
     <>
       <p>SSG</p>
     </>
-  );
-};
+  )
+}
 
 export const getStaticProps: GetStaticProps = async () => {
-  const client = new PrismaClient();
+  const client = new PrismaClient()
 
-  const pokemons = await client.pokemon.findMany();
+  const pokemons = await client.pokemon.findMany()
 
   return {
     props: { pokemons },
-  };
-};
+  }
+}
 
-export default SSG;
+export default SSG

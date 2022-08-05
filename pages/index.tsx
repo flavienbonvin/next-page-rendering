@@ -1,12 +1,12 @@
-import type { NextPage } from "next";
-import Link from "next/link";
+import type { NextPage } from "next"
+import Link from "next/link"
 import {
   ROUTE_CHAKRA_ISR,
   ROUTE_CHAKRA_SSR,
   ROUTE_TAIL_ISR,
   ROUTE_TAIL_SSG,
   ROUTE_TAIL_SSR,
-} from "../constants/routes";
+} from "../constants/routes"
 
 const Home: NextPage = () => {
   return (
@@ -32,7 +32,7 @@ const Home: NextPage = () => {
         <a>ISR Chakra</a>
       </Link>
     </div>
-  );
-};
+  )
+}
 
-export default Home;
+export default Home
