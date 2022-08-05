@@ -5,7 +5,7 @@ interface Props {
 }
 
 const Meta = ({ title }: Props) => {
-  const img = "meta_iamge.png"
+  const img = "/meta_iamge.png"
   const desc =
     "Simple project that shows how NextJS data fetching strategies has an effect on performance"
 
