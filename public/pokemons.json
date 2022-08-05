@@ -1,6 +1,6 @@
 [
   {
-    "ID": 1,
+    "id": 1,
     "name": "Bulbasaur",
     "form": "",
     "type1": "Grass",
@@ -15,7 +15,7 @@
     "generation": 1
   },
   {
-    "ID": 2,
+    "id": 2,
     "name": "Ivysaur",
     "form": "",
     "type1": "Grass",
@@ -30,7 +30,7 @@
     "generation": 1
   },
   {
-    "ID": 3,
+    "id": 3,
     "name": "Venusaur",
     "form": "",
     "type1": "Grass",
@@ -45,7 +45,7 @@
     "generation": 1
   },
   {
-    "ID": 4,
+    "id": 4,
     "name": "Charmander",
     "form": "",
     "type1": "Fire",
@@ -60,7 +60,7 @@
     "generation": 1
   },
   {
-    "ID": 5,
+    "id": 5,
     "name": "Charmeleon",
     "form": "",
     "type1": "Fire",
@@ -75,7 +75,7 @@
     "generation": 1
   },
   {
-    "ID": 6,
+    "id": 6,
     "name": "Charizard",
     "form": "",
     "type1": "Fire",
@@ -90,7 +90,7 @@
     "generation": 1
   },
   {
-    "ID": 7,
+    "id": 7,
     "name": "Squirtle",
     "form": "",
     "type1": "Water",
@@ -105,7 +105,7 @@
     "generation": 1
   },
   {
-    "ID": 8,
+    "id": 8,
     "name": "Wartortle",
     "form": "",
     "type1": "Water",
@@ -120,7 +120,7 @@
     "generation": 1
   },
   {
-    "ID": 9,
+    "id": 9,
     "name": "Blastoise",
     "form": "",
     "type1": "Water",
@@ -135,7 +135,7 @@
     "generation": 1
   },
   {
-    "ID": 10,
+    "id": 10,
     "name": "Caterpie",
     "form": "",
     "type1": "Bug",
@@ -150,7 +150,7 @@
     "generation": 1
   },
   {
-    "ID": 11,
+    "id": 11,
     "name": "Metapod",
     "form": "",
     "type1": "Bug",
@@ -165,7 +165,7 @@
     "generation": 1
   },
   {
-    "ID": 12,
+    "id": 12,
     "name": "Butterfree",
     "form": "",
     "type1": "Bug",
@@ -180,7 +180,7 @@
     "generation": 1
   },
   {
-    "ID": 13,
+    "id": 13,
     "name": "Weedle",
     "form": "",
     "type1": "Bug",
@@ -195,7 +195,7 @@
     "generation": 1
   },
   {
-    "ID": 14,
+    "id": 14,
     "name": "Kakuna",
     "form": "",
     "type1": "Bug",
@@ -210,7 +210,7 @@
     "generation": 1
   },
   {
-    "ID": 15,
+    "id": 15,
     "name": "Beedrill",
     "form": "",
     "type1": "Bug",
@@ -225,7 +225,7 @@
     "generation": 1
   },
   {
-    "ID": 16,
+    "id": 16,
     "name": "Pidgey",
     "form": "",
     "type1": "Normal",
@@ -240,7 +240,7 @@
     "generation": 1
   },
   {
-    "ID": 17,
+    "id": 17,
     "name": "Pidgeotto",
     "form": "",
     "type1": "Normal",
@@ -255,7 +255,7 @@
     "generation": 1
   },
   {
-    "ID": 18,
+    "id": 18,
     "name": "Pidgeot",
     "form": "",
     "type1": "Normal",
@@ -270,7 +270,7 @@
     "generation": 1
   },
   {
-    "ID": 19,
+    "id": 19,
     "name": "Rattata",
     "form": "",
     "type1": "Normal",
@@ -285,7 +285,7 @@
     "generation": 1
   },
   {
-    "ID": 20,
+    "id": 20,
     "name": "Raticate",
     "form": "",
     "type1": "Normal",
@@ -300,7 +300,7 @@
     "generation": 1
   },
   {
-    "ID": 21,
+    "id": 21,
     "name": "Spearow",
     "form": "",
     "type1": "Normal",
@@ -315,7 +315,7 @@
     "generation": 1
   },
   {
-    "ID": 22,
+    "id": 22,
     "name": "Fearow",
     "form": "",
     "type1": "Normal",
@@ -330,7 +330,7 @@
     "generation": 1
   },
   {
-    "ID": 23,
+    "id": 23,
     "name": "Ekans",
     "form": "",
     "type1": "Poison",
@@ -345,7 +345,7 @@
     "generation": 1
   },
   {
-    "ID": 24,
+    "id": 24,
     "name": "Arbok",
     "form": "",
     "type1": "Poison",
@@ -360,7 +360,7 @@
     "generation": 1
   },
   {
-    "ID": 25,
+    "id": 25,
     "name": "Pikachu",
     "form": "",
     "type1": "Electric",
@@ -375,7 +375,7 @@
     "generation": 1
   },
   {
-    "ID": 26,
+    "id": 26,
     "name": "Raichu",
     "form": "",
     "type1": "Electric",
@@ -390,7 +390,7 @@
     "generation": 1
   },
   {
-    "ID": 27,
+    "id": 27,
     "name": "Sandshrew",
     "form": "",
     "type1": "Ground",
@@ -405,7 +405,7 @@
     "generation": 1
   },
   {
-    "ID": 28,
+    "id": 28,
     "name": "Sandslash",
     "form": "",
     "type1": "Ground",
@@ -420,7 +420,7 @@
     "generation": 1
   },
   {
-    "ID": 29,
+    "id": 29,
     "name": "Nidoran",
     "form": "Female",
     "type1": "Poison",
@@ -435,7 +435,7 @@
     "generation": 1
   },
   {
-    "ID": 30,
+    "id": 30,
     "name": "Nidorina",
     "form": "",
     "type1": "Poison",
@@ -450,7 +450,7 @@
     "generation": 1
   },
   {
-    "ID": 31,
+    "id": 31,
     "name": "Nidoqueen",
     "form": "",
     "type1": "Poison",
@@ -465,7 +465,7 @@
     "generation": 1
   },
   {
-    "ID": 32,
+    "id": 32,
     "name": "Nidoran",
     "form": "Male",
     "type1": "Poison",
@@ -480,7 +480,7 @@
     "generation": 1
   },
   {
-    "ID": 33,
+    "id": 33,
     "name": "Nidorino",
     "form": "",
     "type1": "Poison",
@@ -495,7 +495,7 @@
     "generation": 1
   },
   {
-    "ID": 34,
+    "id": 34,
     "name": "Nidoking",
     "form": "",
     "type1": "Poison",
@@ -510,7 +510,7 @@
     "generation": 1
   },
   {
-    "ID": 35,
+    "id": 35,
     "name": "Clefairy",
     "form": "",
     "type1": "Fairy",
@@ -525,7 +525,7 @@
     "generation": 1
   },
   {
-    "ID": 36,
+    "id": 36,
     "name": "Clefable",
     "form": "",
     "type1": "Fairy",
@@ -540,7 +540,7 @@
     "generation": 1
   },
   {
-    "ID": 37,
+    "id": 37,
     "name": "Vulpix",
     "form": "",
     "type1": "Fire",
@@ -555,7 +555,7 @@
     "generation": 1
   },
   {
-    "ID": 38,
+    "id": 38,
     "name": "Ninetales",
     "form": "",
     "type1": "Fire",
@@ -570,7 +570,7 @@
     "generation": 1
   },
   {
-    "ID": 39,
+    "id": 39,
     "name": "Jigglypuff",
     "form": "",
     "type1": "Normal",
@@ -585,7 +585,7 @@
     "generation": 1
   },
   {
-    "ID": 40,
+    "id": 40,
     "name": "Wigglytuff",
     "form": "",
     "type1": "Normal",
@@ -600,7 +600,7 @@
     "generation": 1
   },
   {
-    "ID": 41,
+    "id": 41,
     "name": "Zubat",
     "form": "",
     "type1": "Poison",
@@ -615,7 +615,7 @@
     "generation": 1
   },
   {
-    "ID": 42,
+    "id": 42,
     "name": "Golbat",
     "form": "",
     "type1": "Poison",
@@ -630,7 +630,7 @@
     "generation": 1
   },
   {
-    "ID": 43,
+    "id": 43,
     "name": "Oddish",
     "form": "",
     "type1": "Grass",
@@ -645,7 +645,7 @@
     "generation": 1
   },
   {
-    "ID": 44,
+    "id": 44,
     "name": "Gloom",
     "form": "",
     "type1": "Grass",
@@ -660,7 +660,7 @@
     "generation": 1
   },
   {
-    "ID": 45,
+    "id": 45,
     "name": "Vileplume",
     "form": "",
     "type1": "Grass",
@@ -675,7 +675,7 @@
     "generation": 1
   },
   {
-    "ID": 46,
+    "id": 46,
     "name": "Paras",
     "form": "",
     "type1": "Bug",
@@ -690,7 +690,7 @@
     "generation": 1
   },
   {
-    "ID": 47,
+    "id": 47,
     "name": "Parasect",
     "form": "",
     "type1": "Bug",
@@ -705,7 +705,7 @@
     "generation": 1
   },
   {
-    "ID": 48,
+    "id": 48,
     "name": "Venonat",
     "form": "",
     "type1": "Bug",
@@ -720,7 +720,7 @@
     "generation": 1
   },
   {
-    "ID": 49,
+    "id": 49,
     "name": "Venomoth",
     "form": "",
     "type1": "Bug",
@@ -735,7 +735,7 @@
     "generation": 1
   },
   {
-    "ID": 50,
+    "id": 50,
     "name": "Diglett",
     "form": "",
     "type1": "Ground",
@@ -750,7 +750,7 @@
     "generation": 1
   },
   {
-    "ID": 51,
+    "id": 51,
     "name": "Dugtrio",
     "form": "",
     "type1": "Ground",
@@ -765,7 +765,7 @@
     "generation": 1
   },
   {
-    "ID": 52,
+    "id": 52,
     "name": "Meowth",
     "form": "",
     "type1": "Normal",
@@ -780,7 +780,7 @@
     "generation": 1
   },
   {
-    "ID": 53,
+    "id": 53,
     "name": "Persian",
     "form": "",
     "type1": "Normal",
@@ -795,7 +795,7 @@
     "generation": 1
   },
   {
-    "ID": 54,
+    "id": 54,
     "name": "Psyduck",
     "form": "",
     "type1": "Water",
@@ -810,7 +810,7 @@
     "generation": 1
   },
   {
-    "ID": 55,
+    "id": 55,
     "name": "Golduck",
     "form": "",
     "type1": "Water",
@@ -825,7 +825,7 @@
     "generation": 1
   },
   {
-    "ID": 56,
+    "id": 56,
     "name": "Mankey",
     "form": "",
     "type1": "Fighting",
@@ -840,7 +840,7 @@
     "generation": 1
   },
   {
-    "ID": 57,
+    "id": 57,
     "name": "Primeape",
     "form": "",
     "type1": "Fighting",
@@ -855,7 +855,7 @@
     "generation": 1
   },
   {
-    "ID": 58,
+    "id": 58,
     "name": "Growlithe",
     "form": "",
     "type1": "Fire",
@@ -870,7 +870,7 @@
     "generation": 1
   },
   {
-    "ID": 59,
+    "id": 59,
     "name": "Arcanine",
     "form": "",
     "type1": "Fire",
@@ -885,7 +885,7 @@
     "generation": 1
   },
   {
-    "ID": 60,
+    "id": 60,
     "name": "Poliwag",
     "form": "",
     "type1": "Water",
@@ -900,7 +900,7 @@
     "generation": 1
   },
   {
-    "ID": 61,
+    "id": 61,
     "name": "Poliwhirl",
     "form": "",
     "type1": "Water",
@@ -915,7 +915,7 @@
     "generation": 1
   },
   {
-    "ID": 62,
+    "id": 62,
     "name": "Poliwrath",
     "form": "",
     "type1": "Water",
@@ -930,7 +930,7 @@
     "generation": 1
   },
   {
-    "ID": 63,
+    "id": 63,
     "name": "Abra",
     "form": "",
     "type1": "Psychic",
@@ -945,7 +945,7 @@
     "generation": 1
   },
   {
-    "ID": 64,
+    "id": 64,
     "name": "Kadabra",
     "form": "",
     "type1": "Psychic",
@@ -960,7 +960,7 @@
     "generation": 1
   },
   {
-    "ID": 65,
+    "id": 65,
     "name": "Alakazam",
     "form": "",
     "type1": "Psychic",
@@ -975,7 +975,7 @@
     "generation": 1
   },
   {
-    "ID": 66,
+    "id": 66,
     "name": "Machop",
     "form": "",
     "type1": "Fighting",
@@ -990,7 +990,7 @@
     "generation": 1
   },
   {
-    "ID": 67,
+    "id": 67,
     "name": "Machoke",
     "form": "",
     "type1": "Fighting",
@@ -1005,7 +1005,7 @@
     "generation": 1
   },
   {
-    "ID": 68,
+    "id": 68,
     "name": "Machamp",
     "form": "",
     "type1": "Fighting",
@@ -1020,7 +1020,7 @@
     "generation": 1
   },
   {
-    "ID": 69,
+    "id": 69,
     "name": "Bellsprout",
     "form": "",
     "type1": "Grass",
@@ -1035,7 +1035,7 @@
     "generation": 1
   },
   {
-    "ID": 70,
+    "id": 70,
     "name": "Weepinbell",
     "form": "",
     "type1": "Grass",
@@ -1050,7 +1050,7 @@
     "generation": 1
   },
   {
-    "ID": 71,
+    "id": 71,
     "name": "Victreebel",
     "form": "",
     "type1": "Grass",
@@ -1065,7 +1065,7 @@
     "generation": 1
   },
   {
-    "ID": 72,
+    "id": 72,
     "name": "Tentacool",
     "form": "",
     "type1": "Water",
@@ -1080,7 +1080,7 @@
     "generation": 1
   },
   {
-    "ID": 73,
+    "id": 73,
     "name": "Tentacruel",
     "form": "",
     "type1": "Water",
@@ -1095,7 +1095,7 @@
     "generation": 1
   },
   {
-    "ID": 74,
+    "id": 74,
     "name": "Geodude",
     "form": "",
     "type1": "Rock",
@@ -1110,7 +1110,7 @@
     "generation": 1
   },
   {
-    "ID": 75,
+    "id": 75,
     "name": "Graveler",
     "form": "",
     "type1": "Rock",
@@ -1125,7 +1125,7 @@
     "generation": 1
   },
   {
-    "ID": 76,
+    "id": 76,
     "name": "Golem",
     "form": "",
     "type1": "Rock",
@@ -1140,7 +1140,7 @@
     "generation": 1
   },
   {
-    "ID": 77,
+    "id": 77,
     "name": "Ponyta",
     "form": "",
     "type1": "Fire",
@@ -1155,7 +1155,7 @@
     "generation": 1
   },
   {
-    "ID": 78,
+    "id": 78,
     "name": "Rapidash",
     "form": "",
     "type1": "Fire",
@@ -1170,7 +1170,7 @@
     "generation": 1
   },
   {
-    "ID": 79,
+    "id": 79,
     "name": "Slowpoke",
     "form": "",
     "type1": "Water",
@@ -1185,7 +1185,7 @@
     "generation": 1
   },
   {
-    "ID": 80,
+    "id": 80,
     "name": "Slowbro",
     "form": "",
     "type1": "Water",
@@ -1200,7 +1200,7 @@
     "generation": 1
   },
   {
-    "ID": 81,
+    "id": 81,
     "name": "Magnemite",
     "form": "",
     "type1": "Electric",
@@ -1215,7 +1215,7 @@
     "generation": 1
   },
   {
-    "ID": 82,
+    "id": 82,
     "name": "Magneton",
     "form": "",
     "type1": "Electric",
@@ -1230,7 +1230,7 @@
     "generation": 1
   },
   {
-    "ID": 83,
+    "id": 83,
     "name": "Farfetch'd",
     "form": "",
     "type1": "Normal",
@@ -1245,7 +1245,7 @@
     "generation": 1
   },
   {
-    "ID": 84,
+    "id": 84,
     "name": "Doduo",
     "form": "",
     "type1": "Normal",
@@ -1260,7 +1260,7 @@
     "generation": 1
   },
   {
-    "ID": 85,
+    "id": 85,
     "name": "Dodrio",
     "form": "",
     "type1": "Normal",
@@ -1275,7 +1275,7 @@
     "generation": 1
   },
   {
-    "ID": 86,
+    "id": 86,
     "name": "Seel",
     "form": "",
     "type1": "Water",
@@ -1290,7 +1290,7 @@
     "generation": 1
   },
   {
-    "ID": 87,
+    "id": 87,
     "name": "Dewgong",
     "form": "",
     "type1": "Water",
@@ -1305,7 +1305,7 @@
     "generation": 1
   },
   {
-    "ID": 88,
+    "id": 88,
     "name": "Grimer",
     "form": "",
     "type1": "Poison",
@@ -1320,7 +1320,7 @@
     "generation": 1
   },
   {
-    "ID": 89,
+    "id": 89,
     "name": "Muk",
     "form": "",
     "type1": "Poison",
@@ -1335,7 +1335,7 @@
     "generation": 1
   },
   {
-    "ID": 90,
+    "id": 90,
     "name": "Shellder",
     "form": "",
     "type1": "Water",
@@ -1350,7 +1350,7 @@
     "generation": 1
   },
   {
-    "ID": 91,
+    "id": 91,
     "name": "Cloyster",
     "form": "",
     "type1": "Water",
@@ -1365,7 +1365,7 @@
     "generation": 1
   },
   {
-    "ID": 92,
+    "id": 92,
     "name": "Gastly",
     "form": "",
     "type1": "Ghost",
@@ -1380,7 +1380,7 @@
     "generation": 1
   },
   {
-    "ID": 93,
+    "id": 93,
     "name": "Haunter",
     "form": "",
     "type1": "Ghost",
@@ -1395,7 +1395,7 @@
     "generation": 1
   },
   {
-    "ID": 94,
+    "id": 94,
     "name": "Gengar",
     "form": "",
     "type1": "Ghost",
@@ -1410,7 +1410,7 @@
     "generation": 1
   },
   {
-    "ID": 95,
+    "id": 95,
     "name": "Onix",
     "form": "",
     "type1": "Rock",
@@ -1425,7 +1425,7 @@
     "generation": 1
   },
   {
-    "ID": 96,
+    "id": 96,
     "name": "Drowzee",
     "form": "",
     "type1": "Psychic",
@@ -1440,7 +1440,7 @@
     "generation": 1
   },
   {
-    "ID": 97,
+    "id": 97,
     "name": "Hypno",
     "form": "",
     "type1": "Psychic",
@@ -1455,7 +1455,7 @@
     "generation": 1
   },
   {
-    "ID": 98,
+    "id": 98,
     "name": "Krabby",
     "form": "",
     "type1": "Water",
@@ -1470,7 +1470,7 @@
     "generation": 1
   },
   {
-    "ID": 99,
+    "id": 99,
     "name": "Kingler",
     "form": "",
     "type1": "Water",
@@ -1485,7 +1485,7 @@
     "generation": 1
   },
   {
-    "ID": 100,
+    "id": 100,
     "name": "Voltorb",
     "form": "",
     "type1": "Electric",
@@ -1500,7 +1500,7 @@
     "generation": 1
   },
   {
-    "ID": 101,
+    "id": 101,
     "name": "Electrode",
     "form": "",
     "type1": "Electric",
@@ -1515,7 +1515,7 @@
     "generation": 1
   },
   {
-    "ID": 102,
+    "id": 102,
     "name": "Exeggcute",
     "form": "",
     "type1": "Grass",
@@ -1530,7 +1530,7 @@
     "generation": 1
   },
   {
-    "ID": 103,
+    "id": 103,
     "name": "Exeggutor",
     "form": "",
     "type1": "Grass",
@@ -1545,7 +1545,7 @@
     "generation": 1
   },
   {
-    "ID": 104,
+    "id": 104,
     "name": "Cubone",
     "form": "",
     "type1": "Ground",
@@ -1560,7 +1560,7 @@
     "generation": 1
   },
   {
-    "ID": 105,
+    "id": 105,
     "name": "Marowak",
     "form": "",
     "type1": "Ground",
@@ -1575,7 +1575,7 @@
     "generation": 1
   },
   {
-    "ID": 106,
+    "id": 106,
     "name": "Hitmonlee",
     "form": "",
     "type1": "Fighting",
@@ -1590,7 +1590,7 @@
     "generation": 1
   },
   {
-    "ID": 107,
+    "id": 107,
     "name": "Hitmonchan",
     "form": "",
     "type1": "Fighting",
@@ -1605,7 +1605,7 @@
     "generation": 1
   },
   {
-    "ID": 108,
+    "id": 108,
     "name": "Lickitung",
     "form": "",
     "type1": "Normal",
@@ -1620,7 +1620,7 @@
     "generation": 1
   },
   {
-    "ID": 109,
+    "id": 109,
     "name": "Koffing",
     "form": "",
     "type1": "Poison",
@@ -1635,7 +1635,7 @@
     "generation": 1
   },
   {
-    "ID": 110,
+    "id": 110,
     "name": "Weezing",
     "form": "",
     "type1": "Poison",
@@ -1650,7 +1650,7 @@
     "generation": 1
   },
   {
-    "ID": 111,
+    "id": 111,
     "name": "Rhyhorn",
     "form": "",
     "type1": "Ground",
@@ -1665,7 +1665,7 @@
     "generation": 1
   },
   {
-    "ID": 112,
+    "id": 112,
     "name": "Rhydon",
     "form": "",
     "type1": "Ground",
@@ -1680,7 +1680,7 @@
     "generation": 1
   },
   {
-    "ID": 113,
+    "id": 113,
     "name": "Chansey",
     "form": "",
     "type1": "Normal",
@@ -1695,7 +1695,7 @@
     "generation": 1
   },
   {
-    "ID": 114,
+    "id": 114,
     "name": "Tangela",
     "form": "",
     "type1": "Grass",
@@ -1710,7 +1710,7 @@
     "generation": 1
   },
   {
-    "ID": 115,
+    "id": 115,
     "name": "Kangaskhan",
     "form": "",
     "type1": "Normal",
@@ -1725,7 +1725,7 @@
     "generation": 1
   },
   {
-    "ID": 116,
+    "id": 116,
     "name": "Horsea",
     "form": "",
     "type1": "Water",
@@ -1740,7 +1740,7 @@
     "generation": 1
   },
   {
-    "ID": 117,
+    "id": 117,
     "name": "Seadra",
     "form": "",
     "type1": "Water",
@@ -1755,7 +1755,7 @@
     "generation": 1
   },
   {
-    "ID": 118,
+    "id": 118,
     "name": "Goldeen",
     "form": "",
     "type1": "Water",
@@ -1770,7 +1770,7 @@
     "generation": 1
   },
   {
-    "ID": 119,
+    "id": 119,
     "name": "Seaking",
     "form": "",
     "type1": "Water",
@@ -1785,7 +1785,7 @@
     "generation": 1
   },
   {
-    "ID": 120,
+    "id": 120,
     "name": "Staryu",
     "form": "",
     "type1": "Water",
@@ -1800,7 +1800,7 @@
     "generation": 1
   },
   {
-    "ID": 121,
+    "id": 121,
     "name": "Starmie",
     "form": "",
     "type1": "Water",
@@ -1815,7 +1815,7 @@
     "generation": 1
   },
   {
-    "ID": 122,
+    "id": 122,
     "name": "Mr. Mime",
     "form": "",
     "type1": "Psychic",
@@ -1830,7 +1830,7 @@
     "generation": 1
   },
   {
-    "ID": 123,
+    "id": 123,
     "name": "Scyther",
     "form": "",
     "type1": "Bug",
@@ -1845,7 +1845,7 @@
     "generation": 1
   },
   {
-    "ID": 124,
+    "id": 124,
     "name": "Jynx",
     "form": "",
     "type1": "Ice",
@@ -1860,7 +1860,7 @@
     "generation": 1
   },
   {
-    "ID": 125,
+    "id": 125,
     "name": "Electabuzz",
     "form": "",
     "type1": "Electric",
@@ -1875,7 +1875,7 @@
     "generation": 1
   },
   {
-    "ID": 126,
+    "id": 126,
     "name": "Magmar",
     "form": "",
     "type1": "Fire",
@@ -1890,7 +1890,7 @@
     "generation": 1
   },
   {
-    "ID": 127,
+    "id": 127,
     "name": "Pinsir",
     "form": "",
     "type1": "Bug",
@@ -1905,7 +1905,7 @@
     "generation": 1
   },
   {
-    "ID": 128,
+    "id": 128,
     "name": "Tauros",
     "form": "",
     "type1": "Normal",
@@ -1920,7 +1920,7 @@
     "generation": 1
   },
   {
-    "ID": 129,
+    "id": 129,
     "name": "Magikarp",
     "form": "",
     "type1": "Water",
@@ -1935,7 +1935,7 @@
     "generation": 1
   },
   {
-    "ID": 130,
+    "id": 130,
     "name": "Gyarados",
     "form": "",
     "type1": "Water",
@@ -1950,7 +1950,7 @@
     "generation": 1
   },
   {
-    "ID": 131,
+    "id": 131,
     "name": "Lapras",
     "form": "",
     "type1": "Water",
@@ -1965,7 +1965,7 @@
     "generation": 1
   },
   {
-    "ID": 132,
+    "id": 132,
     "name": "Ditto",
     "form": "",
     "type1": "Normal",
@@ -1980,7 +1980,7 @@
     "generation": 1
   },
   {
-    "ID": 133,
+    "id": 133,
     "name": "Eevee",
     "form": "",
     "type1": "Normal",
@@ -1995,7 +1995,7 @@
     "generation": 1
   },
   {
-    "ID": 134,
+    "id": 134,
     "name": "Vaporeon",
     "form": "",
     "type1": "Water",
@@ -2010,7 +2010,7 @@
     "generation": 1
   },
   {
-    "ID": 135,
+    "id": 135,
     "name": "Jolteon",
     "form": "",
     "type1": "Electric",
@@ -2025,7 +2025,7 @@
     "generation": 1
   },
   {
-    "ID": 136,
+    "id": 136,
     "name": "Flareon",
     "form": "",
     "type1": "Fire",
@@ -2040,7 +2040,7 @@
     "generation": 1
   },
   {
-    "ID": 137,
+    "id": 137,
     "name": "Porygon",
     "form": "",
     "type1": "Normal",
@@ -2055,7 +2055,7 @@
     "generation": 1
   },
   {
-    "ID": 138,
+    "id": 138,
     "name": "Omanyte",
     "form": "",
     "type1": "Rock",
@@ -2070,7 +2070,7 @@
     "generation": 1
   },
   {
-    "ID": 139,
+    "id": 139,
     "name": "Omastar",
     "form": "",
     "type1": "Rock",
@@ -2085,7 +2085,7 @@
     "generation": 1
   },
   {
-    "ID": 140,
+    "id": 140,
     "name": "Kabuto",
     "form": "",
     "type1": "Rock",
@@ -2100,7 +2100,7 @@
     "generation": 1
   },
   {
-    "ID": 141,
+    "id": 141,
     "name": "Kabutops",
     "form": "",
     "type1": "Rock",
@@ -2115,7 +2115,7 @@
     "generation": 1
   },
   {
-    "ID": 142,
+    "id": 142,
     "name": "Aerodactyl",
     "form": "",
     "type1": "Rock",
@@ -2130,7 +2130,7 @@
     "generation": 1
   },
   {
-    "ID": 143,
+    "id": 143,
     "name": "Snorlax",
     "form": "",
     "type1": "Normal",
@@ -2145,7 +2145,7 @@
     "generation": 1
   },
   {
-    "ID": 144,
+    "id": 144,
     "name": "Articuno",
     "form": "",
     "type1": "Ice",
@@ -2160,7 +2160,7 @@
     "generation": 1
   },
   {
-    "ID": 145,
+    "id": 145,
     "name": "Zapdos",
     "form": "",
     "type1": "Electric",
@@ -2175,7 +2175,7 @@
     "generation": 1
   },
   {
-    "ID": 146,
+    "id": 146,
     "name": "Moltres",
     "form": "",
     "type1": "Fire",
@@ -2190,7 +2190,7 @@
     "generation": 1
   },
   {
-    "ID": 147,
+    "id": 147,
     "name": "Dratini",
     "form": "",
     "type1": "Dragon",
@@ -2205,7 +2205,7 @@
     "generation": 1
   },
   {
-    "ID": 148,
+    "id": 148,
     "name": "Dragonair",
     "form": "",
     "type1": "Dragon",
@@ -2220,7 +2220,7 @@
     "generation": 1
   },
   {
-    "ID": 149,
+    "id": 149,
     "name": "Dragonite",
     "form": "",
     "type1": "Dragon",
@@ -2235,7 +2235,7 @@
     "generation": 1
   },
   {
-    "ID": 150,
+    "id": 150,
     "name": "Mewtwo",
     "form": "",
     "type1": "Psychic",
@@ -2250,7 +2250,7 @@
     "generation": 1
   },
   {
-    "ID": 151,
+    "id": 151,
     "name": "Mew",
     "form": "",
     "type1": "Psychic",
@@ -2265,7 +2265,7 @@
     "generation": 1
   },
   {
-    "ID": 152,
+    "id": 152,
     "name": "Chikorita",
     "form": "",
     "type1": "Grass",
@@ -2280,7 +2280,7 @@
     "generation": 2
   },
   {
-    "ID": 153,
+    "id": 153,
     "name": "Bayleef",
     "form": "",
     "type1": "Grass",
@@ -2295,7 +2295,7 @@
     "generation": 2
   },
   {
-    "ID": 154,
+    "id": 154,
     "name": "Meganium",
     "form": "",
     "type1": "Grass",
@@ -2310,7 +2310,7 @@
     "generation": 2
   },
   {
-    "ID": 155,
+    "id": 155,
     "name": "Cyndaquil",
     "form": "",
     "type1": "Fire",
@@ -2325,7 +2325,7 @@
     "generation": 2
   },
   {
-    "ID": 156,
+    "id": 156,
     "name": "Quilava",
     "form": "",
     "type1": "Fire",
@@ -2340,7 +2340,7 @@
     "generation": 2
   },
   {
-    "ID": 157,
+    "id": 157,
     "name": "Typhlosion",
     "form": "",
     "type1": "Fire",
@@ -2355,7 +2355,7 @@
     "generation": 2
   },
   {
-    "ID": 158,
+    "id": 158,
     "name": "Totodile",
     "form": "",
     "type1": "Water",
@@ -2370,7 +2370,7 @@
     "generation": 2
   },
   {
-    "ID": 159,
+    "id": 159,
     "name": "Croconaw",
     "form": "",
     "type1": "Water",
@@ -2385,7 +2385,7 @@
     "generation": 2
   },
   {
-    "ID": 160,
+    "id": 160,
     "name": "Feraligatr",
     "form": "",
     "type1": "Water",
@@ -2400,7 +2400,7 @@
     "generation": 2
   },
   {
-    "ID": 161,
+    "id": 161,
     "name": "Sentret",
     "form": "",
     "type1": "Normal",
@@ -2415,7 +2415,7 @@
     "generation": 2
   },
   {
-    "ID": 162,
+    "id": 162,
     "name": "Furret",
     "form": "",
     "type1": "Normal",
@@ -2430,7 +2430,7 @@
     "generation": 2
   },
   {
-    "ID": 163,
+    "id": 163,
     "name": "Hoothoot",
     "form": "",
     "type1": "Normal",
@@ -2445,7 +2445,7 @@
     "generation": 2
   },
   {
-    "ID": 164,
+    "id": 164,
     "name": "Noctowl",
     "form": "",
     "type1": "Normal",
@@ -2460,7 +2460,7 @@
     "generation": 2
   },
   {
-    "ID": 165,
+    "id": 165,
     "name": "Ledyba",
     "form": "",
     "type1": "Bug",
@@ -2475,7 +2475,7 @@
     "generation": 2
   },
   {
-    "ID": 166,
+    "id": 166,
     "name": "Ledian",
     "form": "",
     "type1": "Bug",
@@ -2490,7 +2490,7 @@
     "generation": 2
   },
   {
-    "ID": 167,
+    "id": 167,
     "name": "Spinarak",
     "form": "",
     "type1": "Bug",
@@ -2505,7 +2505,7 @@
     "generation": 2
   },
   {
-    "ID": 168,
+    "id": 168,
     "name": "Ariados",
     "form": "",
     "type1": "Bug",
@@ -2520,7 +2520,7 @@
     "generation": 2
   },
   {
-    "ID": 169,
+    "id": 169,
     "name": "Crobat",
     "form": "",
     "type1": "Poison",
@@ -2535,7 +2535,7 @@
     "generation": 2
   },
   {
-    "ID": 170,
+    "id": 170,
     "name": "Chinchou",
     "form": "",
     "type1": "Water",
@@ -2550,7 +2550,7 @@
     "generation": 2
   },
   {
-    "ID": 171,
+    "id": 171,
     "name": "Lanturn",
     "form": "",
     "type1": "Water",
@@ -2565,7 +2565,7 @@
     "generation": 2
   },
   {
-    "ID": 172,
+    "id": 172,
     "name": "Pichu",
     "form": "",
     "type1": "Electric",
@@ -2580,7 +2580,7 @@
     "generation": 2
   },
   {
-    "ID": 173,
+    "id": 173,
     "name": "Cleffa",
     "form": "",
     "type1": "Fairy",
@@ -2595,7 +2595,7 @@
     "generation": 2
   },
   {
-    "ID": 174,
+    "id": 174,
     "name": "Igglybuff",
     "form": "",
     "type1": "Normal",
@@ -2610,7 +2610,7 @@
     "generation": 2
   },
   {
-    "ID": 175,
+    "id": 175,
     "name": "Togepi",
     "form": "",
     "type1": "Fairy",
@@ -2625,7 +2625,7 @@
     "generation": 2
   },
   {
-    "ID": 176,
+    "id": 176,
     "name": "Togetic",
     "form": "",
     "type1": "Fairy",
@@ -2640,7 +2640,7 @@
     "generation": 2
   },
   {
-    "ID": 177,
+    "id": 177,
     "name": "Natu",
     "form": "",
     "type1": "Psychic",
@@ -2655,7 +2655,7 @@
     "generation": 2
   },
   {
-    "ID": 178,
+    "id": 178,
     "name": "Xatu",
     "form": "",
     "type1": "Psychic",
@@ -2670,7 +2670,7 @@
     "generation": 2
   },
   {
-    "ID": 179,
+    "id": 179,
     "name": "Mareep",
     "form": "",
     "type1": "Electric",
@@ -2685,7 +2685,7 @@
     "generation": 2
   },
   {
-    "ID": 180,
+    "id": 180,
     "name": "Flaaffy",
     "form": "",
     "type1": "Electric",
@@ -2700,7 +2700,7 @@
     "generation": 2
   },
   {
-    "ID": 181,
+    "id": 181,
     "name": "Ampharos",
     "form": "",
     "type1": "Electric",
@@ -2715,7 +2715,7 @@
     "generation": 2
   },
   {
-    "ID": 182,
+    "id": 182,
     "name": "Bellossom",
     "form": "",
     "type1": "Grass",
@@ -2730,7 +2730,7 @@
     "generation": 2
   },
   {
-    "ID": 183,
+    "id": 183,
     "name": "Marill",
     "form": "",
     "type1": "Water",
@@ -2745,7 +2745,7 @@
     "generation": 2
   },
   {
-    "ID": 184,
+    "id": 184,
     "name": "Azumarill",
     "form": "",
     "type1": "Water",
@@ -2760,7 +2760,7 @@
     "generation": 2
   },
   {
-    "ID": 185,
+    "id": 185,
     "name": "Sudowoodo",
     "form": "",
     "type1": "Rock",
@@ -2775,7 +2775,7 @@
     "generation": 2
   },
   {
-    "ID": 186,
+    "id": 186,
     "name": "Politoed",
     "form": "",
     "type1": "Water",
@@ -2790,7 +2790,7 @@
     "generation": 2
   },
   {
-    "ID": 187,
+    "id": 187,
     "name": "Hoppip",
     "form": "",
     "type1": "Grass",
@@ -2805,7 +2805,7 @@
     "generation": 2
   },
   {
-    "ID": 188,
+    "id": 188,
     "name": "Skiploom",
     "form": "",
     "type1": "Grass",
@@ -2820,7 +2820,7 @@
     "generation": 2
   },
   {
-    "ID": 189,
+    "id": 189,
     "name": "Jumpluff",
     "form": "",
     "type1": "Grass",
@@ -2835,7 +2835,7 @@
     "generation": 2
   },
   {
-    "ID": 190,
+    "id": 190,
     "name": "Aipom",
     "form": "",
     "type1": "Normal",
@@ -2850,7 +2850,7 @@
     "generation": 2
   },
   {
-    "ID": 191,
+    "id": 191,
     "name": "Sunkern",
     "form": "",
     "type1": "Grass",
@@ -2865,7 +2865,7 @@
     "generation": 2
   },
   {
-    "ID": 192,
+    "id": 192,
     "name": "Sunflora",
     "form": "",
     "type1": "Grass",
@@ -2880,7 +2880,7 @@
     "generation": 2
   },
   {
-    "ID": 193,
+    "id": 193,
     "name": "Yanma",
     "form": "",
     "type1": "Bug",
@@ -2895,7 +2895,7 @@
     "generation": 2
   },
   {
-    "ID": 194,
+    "id": 194,
     "name": "Wooper",
     "form": "",
     "type1": "Water",
@@ -2910,7 +2910,7 @@
     "generation": 2
   },
   {
-    "ID": 195,
+    "id": 195,
     "name": "Quagsire",
     "form": "",
     "type1": "Water",
@@ -2925,7 +2925,7 @@
     "generation": 2
   },
   {
-    "ID": 196,
+    "id": 196,
     "name": "Espeon",
     "form": "",
     "type1": "Psychic",
@@ -2940,7 +2940,7 @@
     "generation": 2
   },
   {
-    "ID": 197,
+    "id": 197,
     "name": "Umbreon",
     "form": "",
     "type1": "Dark",
@@ -2955,7 +2955,7 @@
     "generation": 2
   },
   {
-    "ID": 198,
+    "id": 198,
     "name": "Murkrow",
     "form": "",
     "type1": "Dark",
@@ -2970,7 +2970,7 @@
     "generation": 2
   },
   {
-    "ID": 199,
+    "id": 199,
     "name": "Slowking",
     "form": "",
     "type1": "Water",
@@ -2985,7 +2985,7 @@
     "generation": 2
   },
   {
-    "ID": 200,
+    "id": 200,
     "name": "Misdreavus",
     "form": "",
     "type1": "Ghost",
@@ -3000,7 +3000,7 @@
     "generation": 2
   },
   {
-    "ID": 201,
+    "id": 201,
     "name": "Unown",
     "form": "",
     "type1": "Psychic",
@@ -3015,7 +3015,7 @@
     "generation": 2
   },
   {
-    "ID": 202,
+    "id": 202,
     "name": "Wobbuffet",
     "form": "",
     "type1": "Psychic",
@@ -3030,7 +3030,7 @@
     "generation": 2
   },
   {
-    "ID": 203,
+    "id": 203,
     "name": "Girafarig",
     "form": "",
     "type1": "Normal",
@@ -3045,7 +3045,7 @@
     "generation": 2
   },
   {
-    "ID": 204,
+    "id": 204,
     "name": "Pineco",
     "form": "",
     "type1": "Bug",
@@ -3060,7 +3060,7 @@
     "generation": 2
   },
   {
-    "ID": 205,
+    "id": 205,
     "name": "Forretress",
     "form": "",
     "type1": "Bug",
@@ -3075,7 +3075,7 @@
     "generation": 2
   },
   {
-    "ID": 206,
+    "id": 206,
     "name": "Dunsparce",
     "form": "",
     "type1": "Normal",
@@ -3090,7 +3090,7 @@
     "generation": 2
   },
   {
-    "ID": 207,
+    "id": 207,
     "name": "Gligar",
     "form": "",
     "type1": "Ground",
@@ -3105,7 +3105,7 @@
     "generation": 2
   },
   {
-    "ID": 208,
+    "id": 208,
     "name": "Steelix",
     "form": "",
     "type1": "Steel",
@@ -3120,7 +3120,7 @@
     "generation": 2
   },
   {
-    "ID": 209,
+    "id": 209,
     "name": "Snubbull",
     "form": "",
     "type1": "Fairy",
@@ -3135,7 +3135,7 @@
     "generation": 2
   },
   {
-    "ID": 210,
+    "id": 210,
     "name": "Granbull",
     "form": "",
     "type1": "Fairy",
@@ -3150,7 +3150,7 @@
     "generation": 2
   },
   {
-    "ID": 211,
+    "id": 211,
     "name": "Qwilfish",
     "form": "",
     "type1": "Water",
@@ -3165,7 +3165,7 @@
     "generation": 2
   },
   {
-    "ID": 212,
+    "id": 212,
     "name": "Scizor",
     "form": "",
     "type1": "Bug",
@@ -3180,7 +3180,7 @@
     "generation": 2
   },
   {
-    "ID": 213,
+    "id": 213,
     "name": "Shuckle",
     "form": "",
     "type1": "Bug",
@@ -3195,7 +3195,7 @@
     "generation": 2
   },
   {
-    "ID": 214,
+    "id": 214,
     "name": "Heracross",
     "form": "",
     "type1": "Bug",
@@ -3210,7 +3210,7 @@
     "generation": 2
   },
   {
-    "ID": 215,
+    "id": 215,
     "name": "Sneasel",
     "form": "",
     "type1": "Dark",
@@ -3225,7 +3225,7 @@
     "generation": 2
   },
   {
-    "ID": 216,
+    "id": 216,
     "name": "Teddiursa",
     "form": "",
     "type1": "Normal",
@@ -3240,7 +3240,7 @@
     "generation": 2
   },
   {
-    "ID": 217,
+    "id": 217,
     "name": "Ursaring",
     "form": "",
     "type1": "Normal",
@@ -3255,7 +3255,7 @@
     "generation": 2
   },
   {
-    "ID": 218,
+    "id": 218,
     "name": "Slugma",
     "form": "",
     "type1": "Fire",
@@ -3270,7 +3270,7 @@
     "generation": 2
   },
   {
-    "ID": 219,
+    "id": 219,
     "name": "Magcargo",
     "form": "",
     "type1": "Fire",
@@ -3285,7 +3285,7 @@
     "generation": 2
   },
   {
-    "ID": 220,
+    "id": 220,
     "name": "Swinub",
     "form": "",
     "type1": "Ice",
@@ -3300,7 +3300,7 @@
     "generation": 2
   },
   {
-    "ID": 221,
+    "id": 221,
     "name": "Piloswine",
     "form": "",
     "type1": "Ice",
@@ -3315,7 +3315,7 @@
     "generation": 2
   },
   {
-    "ID": 222,
+    "id": 222,
     "name": "Corsola",
     "form": "",
     "type1": "Water",
@@ -3330,7 +3330,7 @@
     "generation": 2
   },
   {
-    "ID": 223,
+    "id": 223,
     "name": "Remoraid",
     "form": "",
     "type1": "Water",
@@ -3345,7 +3345,7 @@
     "generation": 2
   },
   {
-    "ID": 224,
+    "id": 224,
     "name": "Octillery",
     "form": "",
     "type1": "Water",
@@ -3360,7 +3360,7 @@
     "generation": 2
   },
   {
-    "ID": 225,
+    "id": 225,
     "name": "Delibird",
     "form": "",
     "type1": "Ice",
@@ -3375,7 +3375,7 @@
     "generation": 2
   },
   {
-    "ID": 226,
+    "id": 226,
     "name": "Mantine",
     "form": "",
     "type1": "Water",
@@ -3390,7 +3390,7 @@
     "generation": 2
   },
   {
-    "ID": 227,
+    "id": 227,
     "name": "Skarmory",
     "form": "",
     "type1": "Steel",
@@ -3405,7 +3405,7 @@
     "generation": 2
   },
   {
-    "ID": 228,
+    "id": 228,
     "name": "Houndour",
     "form": "",
     "type1": "Dark",
@@ -3420,7 +3420,7 @@
     "generation": 2
   },
   {
-    "ID": 229,
+    "id": 229,
     "name": "Houndoom",
     "form": "",
     "type1": "Dark",
@@ -3435,7 +3435,7 @@
     "generation": 2
   },
   {
-    "ID": 230,
+    "id": 230,
     "name": "Kingdra",
     "form": "",
     "type1": "Water",
@@ -3450,7 +3450,7 @@
     "generation": 2
   },
   {
-    "ID": 231,
+    "id": 231,
     "name": "Phanpy",
     "form": "",
     "type1": "Ground",
@@ -3465,7 +3465,7 @@
     "generation": 2
   },
   {
-    "ID": 232,
+    "id": 232,
     "name": "Donphan",
     "form": "",
     "type1": "Ground",
@@ -3480,7 +3480,7 @@
     "generation": 2
   },
   {
-    "ID": 233,
+    "id": 233,
     "name": "Porygon2",
     "form": "",
     "type1": "Normal",
@@ -3495,7 +3495,7 @@
     "generation": 2
   },
   {
-    "ID": 234,
+    "id": 234,
     "name": "Stantler",
     "form": "",
     "type1": "Normal",
@@ -3510,7 +3510,7 @@
     "generation": 2
   },
   {
-    "ID": 235,
+    "id": 235,
     "name": "Smeargle",
     "form": "",
     "type1": "Normal",
@@ -3525,7 +3525,7 @@
     "generation": 2
   },
   {
-    "ID": 236,
+    "id": 236,
     "name": "Tyrogue",
     "form": "",
     "type1": "Fighting",
@@ -3540,7 +3540,7 @@
     "generation": 2
   },
   {
-    "ID": 237,
+    "id": 237,
     "name": "Hitmontop",
     "form": "",
     "type1": "Fighting",
@@ -3555,7 +3555,7 @@
     "generation": 2
   },
   {
-    "ID": 238,
+    "id": 238,
     "name": "Smoochum",
     "form": "",
     "type1": "Ice",
@@ -3570,7 +3570,7 @@
     "generation": 2
   },
   {
-    "ID": 239,
+    "id": 239,
     "name": "Elekid",
     "form": "",
     "type1": "Electric",
@@ -3585,7 +3585,7 @@
     "generation": 2
   },
   {
-    "ID": 240,
+    "id": 240,
     "name": "Magby",
     "form": "",
     "type1": "Fire",
@@ -3600,7 +3600,7 @@
     "generation": 2
   },
   {
-    "ID": 241,
+    "id": 241,
     "name": "Miltank",
     "form": "",
     "type1": "Normal",
@@ -3615,7 +3615,7 @@
     "generation": 2
   },
   {
-    "ID": 242,
+    "id": 242,
     "name": "Blissey",
     "form": "",
     "type1": "Normal",
@@ -3630,7 +3630,7 @@
     "generation": 2
   },
   {
-    "ID": 243,
+    "id": 243,
     "name": "Raikou",
     "form": "",
     "type1": "Electric",
@@ -3645,7 +3645,7 @@
     "generation": 2
   },
   {
-    "ID": 244,
+    "id": 244,
     "name": "Entei",
     "form": "",
     "type1": "Fire",
@@ -3660,7 +3660,7 @@
     "generation": 2
   },
   {
-    "ID": 245,
+    "id": 245,
     "name": "Suicune",
     "form": "",
     "type1": "Water",
@@ -3675,7 +3675,7 @@
     "generation": 2
   },
   {
-    "ID": 246,
+    "id": 246,
     "name": "Larvitar",
     "form": "",
     "type1": "Rock",
@@ -3690,7 +3690,7 @@
     "generation": 2
   },
   {
-    "ID": 247,
+    "id": 247,
     "name": "Pupitar",
     "form": "",
     "type1": "Rock",
@@ -3705,7 +3705,7 @@
     "generation": 2
   },
   {
-    "ID": 248,
+    "id": 248,
     "name": "Tyranitar",
     "form": "",
     "type1": "Rock",
@@ -3720,7 +3720,7 @@
     "generation": 2
   },
   {
-    "ID": 249,
+    "id": 249,
     "name": "Lugia",
     "form": "",
     "type1": "Psychic",
@@ -3735,7 +3735,7 @@
     "generation": 2
   },
   {
-    "ID": 250,
+    "id": 250,
     "name": "Ho-oh",
     "form": "",
     "type1": "Fire",
@@ -3750,7 +3750,7 @@
     "generation": 2
   },
   {
-    "ID": 251,
+    "id": 251,
     "name": "Celebi",
     "form": "",
     "type1": "Psychic",
@@ -3765,7 +3765,7 @@
     "generation": 2
   },
   {
-    "ID": 252,
+    "id": 252,
     "name": "Treecko",
     "form": "",
     "type1": "Grass",
@@ -3780,7 +3780,7 @@
     "generation": 3
   },
   {
-    "ID": 253,
+    "id": 253,
     "name": "Grovyle",
     "form": "",
     "type1": "Grass",
@@ -3795,7 +3795,7 @@
     "generation": 3
   },
   {
-    "ID": 254,
+    "id": 254,
     "name": "Sceptile",
     "form": "",
     "type1": "Grass",
@@ -3810,7 +3810,7 @@
     "generation": 3
   },
   {
-    "ID": 255,
+    "id": 255,
     "name": "Torchic",
     "form": "",
     "type1": "Fire",
@@ -3825,7 +3825,7 @@
     "generation": 3
   },
   {
-    "ID": 256,
+    "id": 256,
     "name": "Combusken",
     "form": "",
     "type1": "Fire",
@@ -3840,7 +3840,7 @@
     "generation": 3
   },
   {
-    "ID": 257,
+    "id": 257,
     "name": "Blaziken",
     "form": "",
     "type1": "Fire",
@@ -3855,7 +3855,7 @@
     "generation": 3
   },
   {
-    "ID": 258,
+    "id": 258,
     "name": "Mudkip",
     "form": "",
     "type1": "Water",
@@ -3870,7 +3870,7 @@
     "generation": 3
   },
   {
-    "ID": 259,
+    "id": 259,
     "name": "Marshtomp",
     "form": "",
     "type1": "Water",
@@ -3885,7 +3885,7 @@
     "generation": 3
   },
   {
-    "ID": 260,
+    "id": 260,
     "name": "Swampert",
     "form": "",
     "type1": "Water",
@@ -3900,7 +3900,7 @@
     "generation": 3
   },
   {
-    "ID": 261,
+    "id": 261,
     "name": "Poochyena",
     "form": "",
     "type1": "Dark",
@@ -3915,7 +3915,7 @@
     "generation": 3
   },
   {
-    "ID": 262,
+    "id": 262,
     "name": "Mightyena",
     "form": "",
     "type1": "Dark",
@@ -3930,7 +3930,7 @@
     "generation": 3
   },
   {
-    "ID": 263,
+    "id": 263,
     "name": "Zigzagoon",
     "form": "",
     "type1": "Normal",
@@ -3945,7 +3945,7 @@
     "generation": 3
   },
   {
-    "ID": 264,
+    "id": 264,
     "name": "Linoone",
     "form": "",
     "type1": "Normal",
@@ -3960,7 +3960,7 @@
     "generation": 3
   },
   {
-    "ID": 265,
+    "id": 265,
     "name": "Wurmple",
     "form": "",
     "type1": "Bug",
@@ -3975,7 +3975,7 @@
     "generation": 3
   },
   {
-    "ID": 266,
+    "id": 266,
     "name": "Silcoon",
     "form": "",
     "type1": "Bug",
@@ -3990,7 +3990,7 @@
     "generation": 3
   },
   {
-    "ID": 267,
+    "id": 267,
     "name": "Beautifly",
     "form": "",
     "type1": "Bug",
@@ -4005,7 +4005,7 @@
     "generation": 3
   },
   {
-    "ID": 268,
+    "id": 268,
     "name": "Cascoon",
     "form": "",
     "type1": "Bug",
@@ -4020,7 +4020,7 @@
     "generation": 3
   },
   {
-    "ID": 269,
+    "id": 269,
     "name": "Dustox",
     "form": "",
     "type1": "Bug",
@@ -4035,7 +4035,7 @@
     "generation": 3
   },
   {
-    "ID": 270,
+    "id": 270,
     "name": "Lotad",
     "form": "",
     "type1": "Water",
@@ -4050,7 +4050,7 @@
     "generation": 3
   },
   {
-    "ID": 271,
+    "id": 271,
     "name": "Lombre",
     "form": "",
     "type1": "Water",
@@ -4065,7 +4065,7 @@
     "generation": 3
   },
   {
-    "ID": 272,
+    "id": 272,
     "name": "Ludicolo",
     "form": "",
     "type1": "Water",
@@ -4080,7 +4080,7 @@
     "generation": 3
   },
   {
-    "ID": 273,
+    "id": 273,
     "name": "Seedot",
     "form": "",
     "type1": "Grass",
@@ -4095,7 +4095,7 @@
     "generation": 3
   },
   {
-    "ID": 274,
+    "id": 274,
     "name": "Nuzleaf",
     "form": "",
     "type1": "Grass",
@@ -4110,7 +4110,7 @@
     "generation": 3
   },
   {
-    "ID": 275,
+    "id": 275,
     "name": "Shiftry",
     "form": "",
     "type1": "Grass",
@@ -4125,7 +4125,7 @@
     "generation": 3
   },
   {
-    "ID": 276,
+    "id": 276,
     "name": "Taillow",
     "form": "",
     "type1": "Normal",
@@ -4140,7 +4140,7 @@
     "generation": 3
   },
   {
-    "ID": 277,
+    "id": 277,
     "name": "Swellow",
     "form": "",
     "type1": "Normal",
@@ -4155,7 +4155,7 @@
     "generation": 3
   },
   {
-    "ID": 278,
+    "id": 278,
     "name": "Wingull",
     "form": "",
     "type1": "Water",
@@ -4170,7 +4170,7 @@
     "generation": 3
   },
   {
-    "ID": 279,
+    "id": 279,
     "name": "Pelipper",
     "form": "",
     "type1": "Water",
@@ -4185,7 +4185,7 @@
     "generation": 3
   },
   {
-    "ID": 280,
+    "id": 280,
     "name": "Ralts",
     "form": "",
     "type1": "Psychic",
@@ -4200,7 +4200,7 @@
     "generation": 3
   },
   {
-    "ID": 281,
+    "id": 281,
     "name": "Kirlia",
     "form": "",
     "type1": "Psychic",
@@ -4215,7 +4215,7 @@
     "generation": 3
   },
   {
-    "ID": 282,
+    "id": 282,
     "name": "Gardevoir",
     "form": "",
     "type1": "Psychic",
@@ -4230,7 +4230,7 @@
     "generation": 3
   },
   {
-    "ID": 283,
+    "id": 283,
     "name": "Surskit",
     "form": "",
     "type1": "Bug",
@@ -4245,7 +4245,7 @@
     "generation": 3
   },
   {
-    "ID": 284,
+    "id": 284,
     "name": "Masquerain",
     "form": "",
     "type1": "Bug",
@@ -4260,7 +4260,7 @@
     "generation": 3
   },
   {
-    "ID": 285,
+    "id": 285,
     "name": "Shroomish",
     "form": "",
     "type1": "Grass",
@@ -4275,7 +4275,7 @@
     "generation": 3
   },
   {
-    "ID": 286,
+    "id": 286,
     "name": "Breloom",
     "form": "",
     "type1": "Grass",
@@ -4290,7 +4290,7 @@
     "generation": 3
   },
   {
-    "ID": 287,
+    "id": 287,
     "name": "Slakoth",
     "form": "",
     "type1": "Normal",
@@ -4305,7 +4305,7 @@
     "generation": 3
   },
   {
-    "ID": 288,
+    "id": 288,
     "name": "Vigoroth",
     "form": "",
     "type1": "Normal",
@@ -4320,7 +4320,7 @@
     "generation": 3
   },
   {
-    "ID": 289,
+    "id": 289,
     "name": "Slaking",
     "form": "",
     "type1": "Normal",
@@ -4335,7 +4335,7 @@
     "generation": 3
   },
   {
-    "ID": 290,
+    "id": 290,
     "name": "Nincada",
     "form": "",
     "type1": "Bug",
@@ -4350,7 +4350,7 @@
     "generation": 3
   },
   {
-    "ID": 291,
+    "id": 291,
     "name": "Ninjask",
     "form": "",
     "type1": "Bug",
@@ -4365,7 +4365,7 @@
     "generation": 3
   },
   {
-    "ID": 292,
+    "id": 292,
     "name": "Shedinja",
     "form": "",
     "type1": "Bug",
@@ -4380,7 +4380,7 @@
     "generation": 3
   },
   {
-    "ID": 293,
+    "id": 293,
     "name": "Whismur",
     "form": "",
     "type1": "Normal",
@@ -4395,7 +4395,7 @@
     "generation": 3
   },
   {
-    "ID": 294,
+    "id": 294,
     "name": "Loudred",
     "form": "",
     "type1": "Normal",
@@ -4410,7 +4410,7 @@
     "generation": 3
   },
   {
-    "ID": 295,
+    "id": 295,
     "name": "Exploud",
     "form": "",
     "type1": "Normal",
@@ -4425,7 +4425,7 @@
     "generation": 3
   },
   {
-    "ID": 296,
+    "id": 296,
     "name": "Makuhita",
     "form": "",
     "type1": "Fighting",
@@ -4440,7 +4440,7 @@
     "generation": 3
   },
   {
-    "ID": 297,
+    "id": 297,
     "name": "Hariyama",
     "form": "",
     "type1": "Fighting",
@@ -4455,7 +4455,7 @@
     "generation": 3
   },
   {
-    "ID": 298,
+    "id": 298,
     "name": "Azurill",
     "form": "",
     "type1": "Normal",
@@ -4470,7 +4470,7 @@
     "generation": 3
   },
   {
-    "ID": 299,
+    "id": 299,
     "name": "Nosepass",
     "form": "",
     "type1": "Rock",
@@ -4485,7 +4485,7 @@
     "generation": 3
   },
   {
-    "ID": 300,
+    "id": 300,
     "name": "Skitty",
     "form": "",
     "type1": "Normal",
@@ -4500,7 +4500,7 @@
     "generation": 3
   },
   {
-    "ID": 301,
+    "id": 301,
     "name": "Delcatty",
     "form": "",
     "type1": "Normal",
@@ -4515,7 +4515,7 @@
     "generation": 3
   },
   {
-    "ID": 302,
+    "id": 302,
     "name": "Sableye",
     "form": "",
     "type1": "Dark",
@@ -4530,7 +4530,7 @@
     "generation": 3
   },
   {
-    "ID": 303,
+    "id": 303,
     "name": "Mawile",
     "form": "",
     "type1": "Steel",
@@ -4545,7 +4545,7 @@
     "generation": 3
   },
   {
-    "ID": 304,
+    "id": 304,
     "name": "Aron",
     "form": "",
     "type1": "Steel",
@@ -4560,7 +4560,7 @@
     "generation": 3
   },
   {
-    "ID": 305,
+    "id": 305,
     "name": "Lairon",
     "form": "",
     "type1": "Steel",
@@ -4575,7 +4575,7 @@
     "generation": 3
   },
   {
-    "ID": 306,
+    "id": 306,
     "name": "Aggron",
     "form": "",
     "type1": "Steel",
@@ -4590,7 +4590,7 @@
     "generation": 3
   },
   {
-    "ID": 307,
+    "id": 307,
     "name": "Meditite",
     "form": "",
     "type1": "Fighting",
@@ -4605,7 +4605,7 @@
     "generation": 3
   },
   {
-    "ID": 308,
+    "id": 308,
     "name": "Medicham",
     "form": "",
     "type1": "Fighting",
@@ -4620,7 +4620,7 @@
     "generation": 3
   },
   {
-    "ID": 309,
+    "id": 309,
     "name": "Electrike",
     "form": "",
     "type1": "Electric",
@@ -4635,7 +4635,7 @@
     "generation": 3
   },
   {
-    "ID": 310,
+    "id": 310,
     "name": "Manectric",
     "form": "",
     "type1": "Electric",
@@ -4650,7 +4650,7 @@
     "generation": 3
   },
   {
-    "ID": 311,
+    "id": 311,
     "name": "Plusle",
     "form": "",
     "type1": "Electric",
@@ -4665,7 +4665,7 @@
     "generation": 3
   },
   {
-    "ID": 312,
+    "id": 312,
     "name": "Minun",
     "form": "",
     "type1": "Electric",
@@ -4680,7 +4680,7 @@
     "generation": 3
   },
   {
-    "ID": 313,
+    "id": 313,
     "name": "Volbeat",
     "form": "",
     "type1": "Bug",
@@ -4695,7 +4695,7 @@
     "generation": 3
   },
   {
-    "ID": 314,
+    "id": 314,
     "name": "Illumise",
     "form": "",
     "type1": "Bug",
@@ -4710,7 +4710,7 @@
     "generation": 3
   },
   {
-    "ID": 315,
+    "id": 315,
     "name": "Roselia",
     "form": "",
     "type1": "Grass",
@@ -4725,7 +4725,7 @@
     "generation": 3
   },
   {
-    "ID": 316,
+    "id": 316,
     "name": "Gulpin",
     "form": "",
     "type1": "Poison",
@@ -4740,7 +4740,7 @@
     "generation": 3
   },
   {
-    "ID": 317,
+    "id": 317,
     "name": "Swalot",
     "form": "",
     "type1": "Poison",
@@ -4755,7 +4755,7 @@
     "generation": 3
   },
   {
-    "ID": 318,
+    "id": 318,
     "name": "Carvanha",
     "form": "",
     "type1": "Water",
@@ -4770,7 +4770,7 @@
     "generation": 3
   },
   {
-    "ID": 319,
+    "id": 319,
     "name": "Sharpedo",
     "form": "",
     "type1": "Water",
@@ -4785,7 +4785,7 @@
     "generation": 3
   },
   {
-    "ID": 320,
+    "id": 320,
     "name": "Wailmer",
     "form": "",
     "type1": "Water",
@@ -4800,7 +4800,7 @@
     "generation": 3
   },
   {
-    "ID": 321,
+    "id": 321,
     "name": "Wailord",
     "form": "",
     "type1": "Water",
@@ -4815,7 +4815,7 @@
     "generation": 3
   },
   {
-    "ID": 322,
+    "id": 322,
     "name": "Numel",
     "form": "",
     "type1": "Fire",
@@ -4830,7 +4830,7 @@
     "generation": 3
   },
   {
-    "ID": 323,
+    "id": 323,
     "name": "Camerupt",
     "form": "",
     "type1": "Fire",
@@ -4845,7 +4845,7 @@
     "generation": 3
   },
   {
-    "ID": 324,
+    "id": 324,
     "name": "Torkoal",
     "form": "",
     "type1": "Fire",
@@ -4860,7 +4860,7 @@
     "generation": 3
   },
   {
-    "ID": 325,
+    "id": 325,
     "name": "Spoink",
     "form": "",
     "type1": "Psychic",
@@ -4875,7 +4875,7 @@
     "generation": 3
   },
   {
-    "ID": 326,
+    "id": 326,
     "name": "Grumpig",
     "form": "",
     "type1": "Psychic",
@@ -4890,7 +4890,7 @@
     "generation": 3
   },
   {
-    "ID": 327,
+    "id": 327,
     "name": "Spinda",
     "form": "",
     "type1": "Normal",
@@ -4905,7 +4905,7 @@
     "generation": 3
   },
   {
-    "ID": 328,
+    "id": 328,
     "name": "Trapinch",
     "form": "",
     "type1": "Ground",
@@ -4920,7 +4920,7 @@
     "generation": 3
   },
   {
-    "ID": 329,
+    "id": 329,
     "name": "Vibrava",
     "form": "",
     "type1": "Ground",
@@ -4935,7 +4935,7 @@
     "generation": 3
   },
   {
-    "ID": 330,
+    "id": 330,
     "name": "Flygon",
     "form": "",
     "type1": "Ground",
@@ -4950,7 +4950,7 @@
     "generation": 3
   },
   {
-    "ID": 331,
+    "id": 331,
     "name": "Cacnea",
     "form": "",
     "type1": "Grass",
@@ -4965,7 +4965,7 @@
     "generation": 3
   },
   {
-    "ID": 332,
+    "id": 332,
     "name": "Cacturne",
     "form": "",
     "type1": "Grass",
@@ -4980,7 +4980,7 @@
     "generation": 3
   },
   {
-    "ID": 333,
+    "id": 333,
     "name": "Swablu",
     "form": "",
     "type1": "Normal",
@@ -4995,7 +4995,7 @@
     "generation": 3
   },
   {
-    "ID": 334,
+    "id": 334,
     "name": "Altaria",
     "form": "",
     "type1": "Dragon",
@@ -5010,7 +5010,7 @@
     "generation": 3
   },
   {
-    "ID": 335,
+    "id": 335,
     "name": "Zangoose",
     "form": "",
     "type1": "Normal",
@@ -5025,7 +5025,7 @@
     "generation": 3
   },
   {
-    "ID": 336,
+    "id": 336,
     "name": "Seviper",
     "form": "",
     "type1": "Poison",
@@ -5040,7 +5040,7 @@
     "generation": 3
   },
   {
-    "ID": 337,
+    "id": 337,
     "name": "Lunatone",
     "form": "",
     "type1": "Rock",
@@ -5055,7 +5055,7 @@
     "generation": 3
   },
   {
-    "ID": 338,
+    "id": 338,
     "name": "Solrock",
     "form": "",
     "type1": "Rock",
@@ -5070,7 +5070,7 @@
     "generation": 3
   },
   {
-    "ID": 339,
+    "id": 339,
     "name": "Barboach",
     "form": "",
     "type1": "Water",
@@ -5085,7 +5085,7 @@
     "generation": 3
   },
   {
-    "ID": 340,
+    "id": 340,
     "name": "Whiscash",
     "form": "",
     "type1": "Water",
@@ -5100,7 +5100,7 @@
     "generation": 3
   },
   {
-    "ID": 341,
+    "id": 341,
     "name": "Corphish",
     "form": "",
     "type1": "Water",
@@ -5115,7 +5115,7 @@
     "generation": 3
   },
   {
-    "ID": 342,
+    "id": 342,
     "name": "Crawdaunt",
     "form": "",
     "type1": "Water",
@@ -5130,7 +5130,7 @@
     "generation": 3
   },
   {
-    "ID": 343,
+    "id": 343,
     "name": "Baltoy",
     "form": "",
     "type1": "Ground",
@@ -5145,7 +5145,7 @@
     "generation": 3
   },
   {
-    "ID": 344,
+    "id": 344,
     "name": "Claydol",
     "form": "",
     "type1": "Ground",
@@ -5160,7 +5160,7 @@
     "generation": 3
   },
   {
-    "ID": 345,
+    "id": 345,
     "name": "Lileep",
     "form": "",
     "type1": "Rock",
@@ -5175,7 +5175,7 @@
     "generation": 3
   },
   {
-    "ID": 346,
+    "id": 346,
     "name": "Cradily",
     "form": "",
     "type1": "Rock",
@@ -5190,7 +5190,7 @@
     "generation": 3
   },
   {
-    "ID": 347,
+    "id": 347,
     "name": "Anorith",
     "form": "",
     "type1": "Rock",
@@ -5205,7 +5205,7 @@
     "generation": 3
   },
   {
-    "ID": 348,
+    "id": 348,
     "name": "Armaldo",
     "form": "",
     "type1": "Rock",
@@ -5220,7 +5220,7 @@
     "generation": 3
   },
   {
-    "ID": 349,
+    "id": 349,
     "name": "Feebas",
     "form": "",
     "type1": "Water",
@@ -5235,7 +5235,7 @@
     "generation": 3
   },
   {
-    "ID": 350,
+    "id": 350,
     "name": "Milotic",
     "form": "",
     "type1": "Water",
@@ -5250,7 +5250,7 @@
     "generation": 3
   },
   {
-    "ID": 351,
+    "id": 351,
     "name": "Castform",
     "form": "",
     "type1": "Normal",
@@ -5265,7 +5265,7 @@
     "generation": 3
   },
   {
-    "ID": 351,
+    "id": 351,
     "name": "Castform",
     "form": "Sunny form",
     "type1": "Fire",
@@ -5280,7 +5280,7 @@
     "generation": 3
   },
   {
-    "ID": 351,
+    "id": 351,
     "name": "Castform",
     "form": "Rainy form",
     "type1": "Water",
@@ -5295,7 +5295,7 @@
     "generation": 3
   },
   {
-    "ID": 351,
+    "id": 351,
     "name": "Castform",
     "form": "Snowy form",
     "type1": "Ice",
@@ -5310,7 +5310,7 @@
     "generation": 3
   },
   {
-    "ID": 352,
+    "id": 352,
     "name": "Kecleon",
     "form": "",
     "type1": "Normal",
@@ -5325,7 +5325,7 @@
     "generation": 3
   },
   {
-    "ID": 353,
+    "id": 353,
     "name": "Shuppet",
     "form": "",
     "type1": "Ghost",
@@ -5340,7 +5340,7 @@
     "generation": 3
   },
   {
-    "ID": 354,
+    "id": 354,
     "name": "Banette",
     "form": "",
     "type1": "Ghost",
@@ -5355,7 +5355,7 @@
     "generation": 3
   },
   {
-    "ID": 355,
+    "id": 355,
     "name": "Duskull",
     "form": "",
     "type1": "Ghost",
@@ -5370,7 +5370,7 @@
     "generation": 3
   },
   {
-    "ID": 356,
+    "id": 356,
     "name": "Dusclops",
     "form": "",
     "type1": "Ghost",
@@ -5385,7 +5385,7 @@
     "generation": 3
   },
   {
-    "ID": 357,
+    "id": 357,
     "name": "Tropius",
     "form": "",
     "type1": "Grass",
@@ -5400,7 +5400,7 @@
     "generation": 3
   },
   {
-    "ID": 358,
+    "id": 358,
     "name": "Chimecho",
     "form": "",
     "type1": "Psychic",
@@ -5415,7 +5415,7 @@
     "generation": 3
   },
   {
-    "ID": 359,
+    "id": 359,
     "name": "Absol",
     "form": "",
     "type1": "Dark",
@@ -5430,7 +5430,7 @@
     "generation": 3
   },
   {
-    "ID": 360,
+    "id": 360,
     "name": "Wynaut",
     "form": "",
     "type1": "Psychic",
@@ -5445,7 +5445,7 @@
     "generation": 3
   },
   {
-    "ID": 361,
+    "id": 361,
     "name": "Snorunt",
     "form": "",
     "type1": "Ice",
@@ -5460,7 +5460,7 @@
     "generation": 3
   },
   {
-    "ID": 362,
+    "id": 362,
     "name": "Glalie",
     "form": "",
     "type1": "Ice",
@@ -5475,7 +5475,7 @@
     "generation": 3
   },
   {
-    "ID": 363,
+    "id": 363,
     "name": "Spheal",
     "form": "",
     "type1": "Ice",
@@ -5490,7 +5490,7 @@
     "generation": 3
   },
   {
-    "ID": 364,
+    "id": 364,
     "name": "Sealeo",
     "form": "",
     "type1": "Ice",
@@ -5505,7 +5505,7 @@
     "generation": 3
   },
   {
-    "ID": 365,
+    "id": 365,
     "name": "Walrein",
     "form": "",
     "type1": "Ice",
@@ -5520,7 +5520,7 @@
     "generation": 3
   },
   {
-    "ID": 366,
+    "id": 366,
     "name": "Clamperl",
     "form": "",
     "type1": "Water",
@@ -5535,7 +5535,7 @@
     "generation": 3
   },
   {
-    "ID": 367,
+    "id": 367,
     "name": "Huntail",
     "form": "",
     "type1": "Water",
@@ -5550,7 +5550,7 @@
     "generation": 3
   },
   {
-    "ID": 368,
+    "id": 368,
     "name": "Gorebyss",
     "form": "",
     "type1": "Water",
@@ -5565,7 +5565,7 @@
     "generation": 3
   },
   {
-    "ID": 369,
+    "id": 369,
     "name": "Relicanth",
     "form": "",
     "type1": "Water",
@@ -5580,7 +5580,7 @@
     "generation": 3
   },
   {
-    "ID": 370,
+    "id": 370,
     "name": "Luvdisc",
     "form": "",
     "type1": "Water",
@@ -5595,7 +5595,7 @@
     "generation": 3
   },
   {
-    "ID": 371,
+    "id": 371,
     "name": "Bagon",
     "form": "",
     "type1": "Dragon",
@@ -5610,7 +5610,7 @@
     "generation": 3
   },
   {
-    "ID": 372,
+    "id": 372,
     "name": "Shelgon",
     "form": "",
     "type1": "Dragon",
@@ -5625,7 +5625,7 @@
     "generation": 3
   },
   {
-    "ID": 373,
+    "id": 373,
     "name": "Salamence",
     "form": "",
     "type1": "Dragon",
@@ -5640,7 +5640,7 @@
     "generation": 3
   },
   {
-    "ID": 374,
+    "id": 374,
     "name": "Beldum",
     "form": "",
     "type1": "Steel",
@@ -5655,7 +5655,7 @@
     "generation": 3
   },
   {
-    "ID": 375,
+    "id": 375,
     "name": "Metang",
     "form": "",
     "type1": "Steel",
@@ -5670,7 +5670,7 @@
     "generation": 3
   },
   {
-    "ID": 376,
+    "id": 376,
     "name": "Metagross",
     "form": "",
     "type1": "Steel",
@@ -5685,7 +5685,7 @@
     "generation": 3
   },
   {
-    "ID": 377,
+    "id": 377,
     "name": "Regirock",
     "form": "",
     "type1": "Rock",
@@ -5700,7 +5700,7 @@
     "generation": 3
   },
   {
-    "ID": 378,
+    "id": 378,
     "name": "Regice",
     "form": "",
     "type1": "Ice",
@@ -5715,7 +5715,7 @@
     "generation": 3
   },
   {
-    "ID": 379,
+    "id": 379,
     "name": "Registeel",
     "form": "",
     "type1": "Steel",
@@ -5730,7 +5730,7 @@
     "generation": 3
   },
   {
-    "ID": 380,
+    "id": 380,
     "name": "Latias",
     "form": "",
     "type1": "Dragon",
@@ -5745,7 +5745,7 @@
     "generation": 3
   },
   {
-    "ID": 381,
+    "id": 381,
     "name": "Latios",
     "form": "",
     "type1": "Dragon",
@@ -5760,7 +5760,7 @@
     "generation": 3
   },
   {
-    "ID": 382,
+    "id": 382,
     "name": "Kyogre",
     "form": "",
     "type1": "Water",
@@ -5775,7 +5775,7 @@
     "generation": 3
   },
   {
-    "ID": 383,
+    "id": 383,
     "name": "Groudon",
     "form": "",
     "type1": "Ground",
@@ -5790,7 +5790,7 @@
     "generation": 3
   },
   {
-    "ID": 384,
+    "id": 384,
     "name": "Rayquaza",
     "form": "",
     "type1": "Dragon",
@@ -5805,7 +5805,7 @@
     "generation": 3
   },
   {
-    "ID": 385,
+    "id": 385,
     "name": "Jirachi",
     "form": "",
     "type1": "Steel",
@@ -5820,7 +5820,7 @@
     "generation": 3
   },
   {
-    "ID": 386,
+    "id": 386,
     "name": "Deoxys",
     "form": "Normal forme",
     "type1": "Psychic",
@@ -5835,7 +5835,7 @@
     "generation": 3
   },
   {
-    "ID": 386,
+    "id": 386,
     "name": "Deoxys",
     "form": "attack forme",
     "type1": "Psychic",
@@ -5850,7 +5850,7 @@
     "generation": 3
   },
   {
-    "ID": 386,
+    "id": 386,
     "name": "Deoxys",
     "form": "defense forme",
     "type1": "Psychic",
@@ -5865,7 +5865,7 @@
     "generation": 3
   },
   {
-    "ID": 386,
+    "id": 386,
     "name": "Deoxys",
     "form": "speed forme",
     "type1": "Psychic",
@@ -5880,7 +5880,7 @@
     "generation": 3
   },
   {
-    "ID": 387,
+    "id": 387,
     "name": "Turtwig",
     "form": "",
     "type1": "Grass",
@@ -5895,7 +5895,7 @@
     "generation": 4
   },
   {
-    "ID": 388,
+    "id": 388,
     "name": "Grotle",
     "form": "",
     "type1": "Grass",
@@ -5910,7 +5910,7 @@
     "generation": 4
   },
   {
-    "ID": 389,
+    "id": 389,
     "name": "Torterra",
     "form": "",
     "type1": "Grass",
@@ -5925,7 +5925,7 @@
     "generation": 4
   },
   {
-    "ID": 390,
+    "id": 390,
     "name": "Chimchar",
     "form": "",
     "type1": "Fire",
@@ -5940,7 +5940,7 @@
     "generation": 4
   },
   {
-    "ID": 391,
+    "id": 391,
     "name": "Monferno",
     "form": "",
     "type1": "Fire",
@@ -5955,7 +5955,7 @@
     "generation": 4
   },
   {
-    "ID": 392,
+    "id": 392,
     "name": "Infernape",
     "form": "",
     "type1": "Fire",
@@ -5970,7 +5970,7 @@
     "generation": 4
   },
   {
-    "ID": 393,
+    "id": 393,
     "name": "Piplup",
     "form": "",
     "type1": "Water",
@@ -5985,7 +5985,7 @@
     "generation": 4
   },
   {
-    "ID": 394,
+    "id": 394,
     "name": "Prinplup",
     "form": "",
     "type1": "Water",
@@ -6000,7 +6000,7 @@
     "generation": 4
   },
   {
-    "ID": 395,
+    "id": 395,
     "name": "Empoleon",
     "form": "",
     "type1": "Water",
@@ -6015,7 +6015,7 @@
     "generation": 4
   },
   {
-    "ID": 396,
+    "id": 396,
     "name": "Starly",
     "form": "",
     "type1": "Normal",
@@ -6030,7 +6030,7 @@
     "generation": 4
   },
   {
-    "ID": 397,
+    "id": 397,
     "name": "Staravia",
     "form": "",
     "type1": "Normal",
@@ -6045,7 +6045,7 @@
     "generation": 4
   },
   {
-    "ID": 398,
+    "id": 398,
     "name": "Staraptor",
     "form": "",
     "type1": "Normal",
@@ -6060,7 +6060,7 @@
     "generation": 4
   },
   {
-    "ID": 399,
+    "id": 399,
     "name": "Bidoof",
     "form": "",
     "type1": "Normal",
@@ -6075,7 +6075,7 @@
     "generation": 4
   },
   {
-    "ID": 400,
+    "id": 400,
     "name": "Bibarel",
     "form": "",
     "type1": "Normal",
@@ -6090,7 +6090,7 @@
     "generation": 4
   },
   {
-    "ID": 401,
+    "id": 401,
     "name": "Kricketot",
     "form": "",
     "type1": "Bug",
@@ -6105,7 +6105,7 @@
     "generation": 4
   },
   {
-    "ID": 402,
+    "id": 402,
     "name": "Kricketune",
     "form": "",
     "type1": "Bug",
@@ -6120,7 +6120,7 @@
     "generation": 4
   },
   {
-    "ID": 403,
+    "id": 403,
     "name": "Shinx",
     "form": "",
     "type1": "Electric",
@@ -6135,7 +6135,7 @@
     "generation": 4
   },
   {
-    "ID": 404,
+    "id": 404,
     "name": "Luxio",
     "form": "",
     "type1": "Electric",
@@ -6150,7 +6150,7 @@
     "generation": 4
   },
   {
-    "ID": 405,
+    "id": 405,
     "name": "Luxray",
     "form": "",
     "type1": "Electric",
@@ -6165,7 +6165,7 @@
     "generation": 4
   },
   {
-    "ID": 406,
+    "id": 406,
     "name": "Budew",
     "form": "",
     "type1": "Grass",
@@ -6180,7 +6180,7 @@
     "generation": 4
   },
   {
-    "ID": 407,
+    "id": 407,
     "name": "Roserade",
     "form": "",
     "type1": "Grass",
@@ -6195,7 +6195,7 @@
     "generation": 4
   },
   {
-    "ID": 408,
+    "id": 408,
     "name": "Cranidos",
     "form": "",
     "type1": "Rock",
@@ -6210,7 +6210,7 @@
     "generation": 4
   },
   {
-    "ID": 409,
+    "id": 409,
     "name": "Rampardos",
     "form": "",
     "type1": "Rock",
@@ -6225,7 +6225,7 @@
     "generation": 4
   },
   {
-    "ID": 410,
+    "id": 410,
     "name": "Shieldon",
     "form": "",
     "type1": "Rock",
@@ -6240,7 +6240,7 @@
     "generation": 4
   },
   {
-    "ID": 411,
+    "id": 411,
     "name": "Bastiodon",
     "form": "",
     "type1": "Rock",
@@ -6255,7 +6255,7 @@
     "generation": 4
   },
   {
-    "ID": 412,
+    "id": 412,
     "name": "Burmy",
     "form": "Plant Cloak",
     "type1": "Bug",
@@ -6270,7 +6270,7 @@
     "generation": 4
   },
   {
-    "ID": 412,
+    "id": 412,
     "name": "Burmy",
     "form": "Sandy Cloak",
     "type1": "Bug",
@@ -6285,7 +6285,7 @@
     "generation": 4
   },
   {
-    "ID": 412,
+    "id": 412,
     "name": "Burmy",
     "form": "Trash Cloak",
     "type1": "Bug",
@@ -6300,7 +6300,7 @@
     "generation": 4
   },
   {
-    "ID": 413,
+    "id": 413,
     "name": "Wormadam",
     "form": "Plant Cloak",
     "type1": "Bug",
@@ -6315,7 +6315,7 @@
     "generation": 4
   },
   {
-    "ID": 413,
+    "id": 413,
     "name": "Wormadam",
     "form": "Sandy Cloak",
     "type1": "Bug",
@@ -6330,7 +6330,7 @@
     "generation": 4
   },
   {
-    "ID": 413,
+    "id": 413,
     "name": "Wormadam",
     "form": "Trash Cloak",
     "type1": "Bug",
@@ -6345,7 +6345,7 @@
     "generation": 4
   },
   {
-    "ID": 414,
+    "id": 414,
     "name": "Mothim",
     "form": "",
     "type1": "Bug",
@@ -6360,7 +6360,7 @@
     "generation": 4
   },
   {
-    "ID": 415,
+    "id": 415,
     "name": "Combee",
     "form": "",
     "type1": "Bug",
@@ -6375,7 +6375,7 @@
     "generation": 4
   },
   {
-    "ID": 416,
+    "id": 416,
     "name": "Vespiquen",
     "form": "",
     "type1": "Bug",
@@ -6390,7 +6390,7 @@
     "generation": 4
   },
   {
-    "ID": 417,
+    "id": 417,
     "name": "Pachirisu",
     "form": "",
     "type1": "Electric",
@@ -6405,7 +6405,7 @@
     "generation": 4
   },
   {
-    "ID": 418,
+    "id": 418,
     "name": "Buizel",
     "form": "",
     "type1": "Water",
@@ -6420,7 +6420,7 @@
     "generation": 4
   },
   {
-    "ID": 419,
+    "id": 419,
     "name": "Floatzel",
     "form": "",
     "type1": "Water",
@@ -6435,7 +6435,7 @@
     "generation": 4
   },
   {
-    "ID": 420,
+    "id": 420,
     "name": "Cherubi",
     "form": "",
     "type1": "Grass",
@@ -6450,7 +6450,7 @@
     "generation": 4
   },
   {
-    "ID": 421,
+    "id": 421,
     "name": "Cherrim",
     "form": "",
     "type1": "Grass",
@@ -6465,7 +6465,7 @@
     "generation": 4
   },
   {
-    "ID": 422,
+    "id": 422,
     "name": "Shellos",
     "form": "",
     "type1": "Water",
@@ -6480,7 +6480,7 @@
     "generation": 4
   },
   {
-    "ID": 423,
+    "id": 423,
     "name": "Gastrodon",
     "form": "",
     "type1": "Water",
@@ -6495,7 +6495,7 @@
     "generation": 4
   },
   {
-    "ID": 424,
+    "id": 424,
     "name": "Ambipom",
     "form": "",
     "type1": "Normal",
@@ -6510,7 +6510,7 @@
     "generation": 4
   },
   {
-    "ID": 425,
+    "id": 425,
     "name": "Drifloon",
     "form": "",
     "type1": "Ghost",
@@ -6525,7 +6525,7 @@
     "generation": 4
   },
   {
-    "ID": 426,
+    "id": 426,
     "name": "Drifblim",
     "form": "",
     "type1": "Ghost",
@@ -6540,7 +6540,7 @@
     "generation": 4
   },
   {
-    "ID": 427,
+    "id": 427,
     "name": "Buneary",
     "form": "",
     "type1": "Normal",
@@ -6555,7 +6555,7 @@
     "generation": 4
   },
   {
-    "ID": 428,
+    "id": 428,
     "name": "Lopunny",
     "form": "",
     "type1": "Normal",
@@ -6570,7 +6570,7 @@
     "generation": 4
   },
   {
-    "ID": 429,
+    "id": 429,
     "name": "Mismagius",
     "form": "",
     "type1": "Ghost",
@@ -6585,7 +6585,7 @@
     "generation": 4
   },
   {
-    "ID": 430,
+    "id": 430,
     "name": "Honchkrow",
     "form": "",
     "type1": "Dark",
@@ -6600,7 +6600,7 @@
     "generation": 4
   },
   {
-    "ID": 431,
+    "id": 431,
     "name": "Glameow",
     "form": "",
     "type1": "Normal",
@@ -6615,7 +6615,7 @@
     "generation": 4
   },
   {
-    "ID": 432,
+    "id": 432,
     "name": "Purugly",
     "form": "",
     "type1": "Normal",
@@ -6630,7 +6630,7 @@
     "generation": 4
   },
   {
-    "ID": 433,
+    "id": 433,
     "name": "Chingling",
     "form": "",
     "type1": "Psychic",
@@ -6645,7 +6645,7 @@
     "generation": 4
   },
   {
-    "ID": 434,
+    "id": 434,
     "name": "Stunky",
     "form": "",
     "type1": "Poison",
@@ -6660,7 +6660,7 @@
     "generation": 4
   },
   {
-    "ID": 435,
+    "id": 435,
     "name": "Skuntank",
     "form": "",
     "type1": "Poison",
@@ -6675,7 +6675,7 @@
     "generation": 4
   },
   {
-    "ID": 436,
+    "id": 436,
     "name": "Bronzor",
     "form": "",
     "type1": "Steel",
@@ -6690,7 +6690,7 @@
     "generation": 4
   },
   {
-    "ID": 437,
+    "id": 437,
     "name": "Bronzong",
     "form": "",
     "type1": "Steel",
@@ -6705,7 +6705,7 @@
     "generation": 4
   },
   {
-    "ID": 438,
+    "id": 438,
     "name": "Bonsly",
     "form": "",
     "type1": "Rock",
@@ -6720,7 +6720,7 @@
     "generation": 4
   },
   {
-    "ID": 439,
+    "id": 439,
     "name": "Mime Jr.",
     "form": "",
     "type1": "Psychic",
@@ -6735,7 +6735,7 @@
     "generation": 4
   },
   {
-    "ID": 440,
+    "id": 440,
     "name": "Happiny",
     "form": "",
     "type1": "Normal",
@@ -6750,7 +6750,7 @@
     "generation": 4
   },
   {
-    "ID": 441,
+    "id": 441,
     "name": "Chatot",
     "form": "",
     "type1": "Normal",
@@ -6765,7 +6765,7 @@
     "generation": 4
   },
   {
-    "ID": 442,
+    "id": 442,
     "name": "Spiritomb",
     "form": "",
     "type1": "Ghost",
@@ -6780,7 +6780,7 @@
     "generation": 4
   },
   {
-    "ID": 443,
+    "id": 443,
     "name": "Gible",
     "form": "",
     "type1": "Dragon",
@@ -6795,7 +6795,7 @@
     "generation": 4
   },
   {
-    "ID": 444,
+    "id": 444,
     "name": "Gabite",
     "form": "",
     "type1": "Dragon",
@@ -6810,7 +6810,7 @@
     "generation": 4
   },
   {
-    "ID": 445,
+    "id": 445,
     "name": "Garchomp",
     "form": "",
     "type1": "Dragon",
@@ -6825,7 +6825,7 @@
     "generation": 4
   },
   {
-    "ID": 446,
+    "id": 446,
     "name": "Munchlax",
     "form": "",
     "type1": "Normal",
@@ -6840,7 +6840,7 @@
     "generation": 4
   },
   {
-    "ID": 447,
+    "id": 447,
     "name": "Riolu",
     "form": "",
     "type1": "Fighting",
@@ -6855,7 +6855,7 @@
     "generation": 4
   },
   {
-    "ID": 448,
+    "id": 448,
     "name": "Lucario",
     "form": "",
     "type1": "Fighting",
@@ -6870,7 +6870,7 @@
     "generation": 4
   },
   {
-    "ID": 449,
+    "id": 449,
     "name": "Hippopotas",
     "form": "",
     "type1": "Ground",
@@ -6885,7 +6885,7 @@
     "generation": 4
   },
   {
-    "ID": 450,
+    "id": 450,
     "name": "Hippowdon",
     "form": "",
     "type1": "Ground",
@@ -6900,7 +6900,7 @@
     "generation": 4
   },
   {
-    "ID": 451,
+    "id": 451,
     "name": "Skorupi",
     "form": "",
     "type1": "Poison",
@@ -6915,7 +6915,7 @@
     "generation": 4
   },
   {
-    "ID": 452,
+    "id": 452,
     "name": "Drapion",
     "form": "",
     "type1": "Poison",
@@ -6930,7 +6930,7 @@
     "generation": 4
   },
   {
-    "ID": 453,
+    "id": 453,
     "name": "Croagunk",
     "form": "",
     "type1": "Poison",
@@ -6945,7 +6945,7 @@
     "generation": 4
   },
   {
-    "ID": 454,
+    "id": 454,
     "name": "Toxicroak",
     "form": "",
     "type1": "Poison",
@@ -6960,7 +6960,7 @@
     "generation": 4
   },
   {
-    "ID": 455,
+    "id": 455,
     "name": "Carnivine",
     "form": "",
     "type1": "Grass",
@@ -6975,7 +6975,7 @@
     "generation": 4
   },
   {
-    "ID": 456,
+    "id": 456,
     "name": "Finneon",
     "form": "",
     "type1": "Water",
@@ -6990,7 +6990,7 @@
     "generation": 4
   },
   {
-    "ID": 457,
+    "id": 457,
     "name": "Lumineon",
     "form": "",
     "type1": "Water",
@@ -7005,7 +7005,7 @@
     "generation": 4
   },
   {
-    "ID": 458,
+    "id": 458,
     "name": "Mantyke",
     "form": "",
     "type1": "Water",
@@ -7020,7 +7020,7 @@
     "generation": 4
   },
   {
-    "ID": 459,
+    "id": 459,
     "name": "Snover",
     "form": "",
     "type1": "Grass",
@@ -7035,7 +7035,7 @@
     "generation": 4
   },
   {
-    "ID": 460,
+    "id": 460,
     "name": "Abomasnow",
     "form": "",
     "type1": "Grass",
@@ -7050,7 +7050,7 @@
     "generation": 4
   },
   {
-    "ID": 461,
+    "id": 461,
     "name": "Weavile",
     "form": "",
     "type1": "Dark",
@@ -7065,7 +7065,7 @@
     "generation": 4
   },
   {
-    "ID": 462,
+    "id": 462,
     "name": "Magnezone",
     "form": "",
     "type1": "Electric",
@@ -7080,7 +7080,7 @@
     "generation": 4
   },
   {
-    "ID": 463,
+    "id": 463,
     "name": "Lickilicky",
     "form": "",
     "type1": "Normal",
@@ -7095,7 +7095,7 @@
     "generation": 4
   },
   {
-    "ID": 464,
+    "id": 464,
     "name": "Rhyperior",
     "form": "",
     "type1": "Ground",
@@ -7110,7 +7110,7 @@
     "generation": 4
   },
   {
-    "ID": 465,
+    "id": 465,
     "name": "Tangrowth",
     "form": "",
     "type1": "Grass",
@@ -7125,7 +7125,7 @@
     "generation": 4
   },
   {
-    "ID": 466,
+    "id": 466,
     "name": "Electivire",
     "form": "",
     "type1": "Electric",
@@ -7140,7 +7140,7 @@
     "generation": 4
   },
   {
-    "ID": 467,
+    "id": 467,
     "name": "Magmortar",
     "form": "",
     "type1": "Fire",
@@ -7155,7 +7155,7 @@
     "generation": 4
   },
   {
-    "ID": 468,
+    "id": 468,
     "name": "Togekiss",
     "form": "",
     "type1": "Fairy",
@@ -7170,7 +7170,7 @@
     "generation": 4
   },
   {
-    "ID": 469,
+    "id": 469,
     "name": "Yanmega",
     "form": "",
     "type1": "Bug",
@@ -7185,7 +7185,7 @@
     "generation": 4
   },
   {
-    "ID": 470,
+    "id": 470,
     "name": "Leafeon",
     "form": "",
     "type1": "Grass",
@@ -7200,7 +7200,7 @@
     "generation": 4
   },
   {
-    "ID": 471,
+    "id": 471,
     "name": "Glaceon",
     "form": "",
     "type1": "Ice",
@@ -7215,7 +7215,7 @@
     "generation": 4
   },
   {
-    "ID": 472,
+    "id": 472,
     "name": "Gliscor",
     "form": "",
     "type1": "Ground",
@@ -7230,7 +7230,7 @@
     "generation": 4
   },
   {
-    "ID": 473,
+    "id": 473,
     "name": "Mamoswine",
     "form": "",
     "type1": "Ice",
@@ -7245,7 +7245,7 @@
     "generation": 4
   },
   {
-    "ID": 474,
+    "id": 474,
     "name": "Porygon-Z",
     "form": "",
     "type1": "Normal",
@@ -7260,7 +7260,7 @@
     "generation": 4
   },
   {
-    "ID": 475,
+    "id": 475,
     "name": "Gallade",
     "form": "",
     "type1": "Psychic",
@@ -7275,7 +7275,7 @@
     "generation": 4
   },
   {
-    "ID": 476,
+    "id": 476,
     "name": "Probopass",
     "form": "",
     "type1": "Rock",
@@ -7290,7 +7290,7 @@
     "generation": 4
   },
   {
-    "ID": 477,
+    "id": 477,
     "name": "Dusknoir",
     "form": "",
     "type1": "Ghost",
@@ -7305,7 +7305,7 @@
     "generation": 4
   },
   {
-    "ID": 478,
+    "id": 478,
     "name": "Froslass",
     "form": "",
     "type1": "Ice",
@@ -7320,7 +7320,7 @@
     "generation": 4
   },
   {
-    "ID": 479,
+    "id": 479,
     "name": "Rotom",
     "form": "",
     "type1": "Electric",
@@ -7335,7 +7335,7 @@
     "generation": 4
   },
   {
-    "ID": 479,
+    "id": 479,
     "name": "Rotom",
     "form": "Heat Rotom",
     "type1": "Electric",
@@ -7350,7 +7350,7 @@
     "generation": 4
   },
   {
-    "ID": 479,
+    "id": 479,
     "name": "Rotom",
     "form": "Wash Rotom",
     "type1": "Electric",
@@ -7365,7 +7365,7 @@
     "generation": 4
   },
   {
-    "ID": 479,
+    "id": 479,
     "name": "Rotom",
     "form": "Frost Rotom",
     "type1": "Electric",
@@ -7380,7 +7380,7 @@
     "generation": 4
   },
   {
-    "ID": 479,
+    "id": 479,
     "name": "Rotom",
     "form": "Fan Rotom",
     "type1": "Electric",
@@ -7395,7 +7395,7 @@
     "generation": 4
   },
   {
-    "ID": 479,
+    "id": 479,
     "name": "Rotom",
     "form": "Mow Rotom",
     "type1": "Electric",
@@ -7410,7 +7410,7 @@
     "generation": 4
   },
   {
-    "ID": 480,
+    "id": 480,
     "name": "Uxie",
     "form": "",
     "type1": "Psychic",
@@ -7425,7 +7425,7 @@
     "generation": 4
   },
   {
-    "ID": 481,
+    "id": 481,
     "name": "Mesprit",
     "form": "",
     "type1": "Psychic",
@@ -7440,7 +7440,7 @@
     "generation": 4
   },
   {
-    "ID": 482,
+    "id": 482,
     "name": "Azelf",
     "form": "",
     "type1": "Psychic",
@@ -7455,7 +7455,7 @@
     "generation": 4
   },
   {
-    "ID": 483,
+    "id": 483,
     "name": "Dialga",
     "form": "",
     "type1": "Steel",
@@ -7470,7 +7470,7 @@
     "generation": 4
   },
   {
-    "ID": 484,
+    "id": 484,
     "name": "Palkia",
     "form": "",
     "type1": "Water",
@@ -7485,7 +7485,7 @@
     "generation": 4
   },
   {
-    "ID": 485,
+    "id": 485,
     "name": "Heatran",
     "form": "",
     "type1": "Fire",
@@ -7500,7 +7500,7 @@
     "generation": 4
   },
   {
-    "ID": 486,
+    "id": 486,
     "name": "Regigigas",
     "form": "",
     "type1": "Normal",
@@ -7515,7 +7515,7 @@
     "generation": 4
   },
   {
-    "ID": 487,
+    "id": 487,
     "name": "Giratina",
     "form": "Altered forme",
     "type1": "Ghost",
@@ -7530,7 +7530,7 @@
     "generation": 4
   },
   {
-    "ID": 487,
+    "id": 487,
     "name": "Giratina",
     "form": "Origin forme",
     "type1": "Ghost",
@@ -7545,7 +7545,7 @@
     "generation": 4
   },
   {
-    "ID": 488,
+    "id": 488,
     "name": "Cresselia",
     "form": "",
     "type1": "Psychic",
@@ -7560,7 +7560,7 @@
     "generation": 4
   },
   {
-    "ID": 489,
+    "id": 489,
     "name": "Phione",
     "form": "",
     "type1": "Water",
@@ -7575,7 +7575,7 @@
     "generation": 4
   },
   {
-    "ID": 490,
+    "id": 490,
     "name": "Manaphy",
     "form": "",
     "type1": "Water",
@@ -7590,7 +7590,7 @@
     "generation": 4
   },
   {
-    "ID": 491,
+    "id": 491,
     "name": "Darkrai",
     "form": "",
     "type1": "Dark",
@@ -7605,7 +7605,7 @@
     "generation": 4
   },
   {
-    "ID": 492,
+    "id": 492,
     "name": "Shaymin",
     "form": "Land forme",
     "type1": "Grass",
@@ -7620,7 +7620,7 @@
     "generation": 4
   },
   {
-    "ID": 492,
+    "id": 492,
     "name": "Shaymin",
     "form": "Sky forme",
     "type1": "Grass",
@@ -7635,7 +7635,7 @@
     "generation": 4
   },
   {
-    "ID": 493,
+    "id": 493,
     "name": "Arceus",
     "form": "",
     "type1": "Normal",
@@ -7650,7 +7650,7 @@
     "generation": 4
   },
   {
-    "ID": 494,
+    "id": 494,
     "name": "Victini",
     "form": "",
     "type1": "Psychic",
@@ -7665,7 +7665,7 @@
     "generation": 5
   },
   {
-    "ID": 495,
+    "id": 495,
     "name": "Snivy",
     "form": "",
     "type1": "Grass",
@@ -7680,7 +7680,7 @@
     "generation": 5
   },
   {
-    "ID": 496,
+    "id": 496,
     "name": "Servine",
     "form": "",
     "type1": "Grass",
@@ -7695,7 +7695,7 @@
     "generation": 5
   },
   {
-    "ID": 497,
+    "id": 497,
     "name": "Serperior",
     "form": "",
     "type1": "Grass",
@@ -7710,7 +7710,7 @@
     "generation": 5
   },
   {
-    "ID": 498,
+    "id": 498,
     "name": "Tepig",
     "form": "",
     "type1": "Fire",
@@ -7725,7 +7725,7 @@
     "generation": 5
   },
   {
-    "ID": 499,
+    "id": 499,
     "name": "Pignite",
     "form": "",
     "type1": "Fire",
@@ -7740,7 +7740,7 @@
     "generation": 5
   },
   {
-    "ID": 500,
+    "id": 500,
     "name": "Emboar",
     "form": "",
     "type1": "Fire",
@@ -7755,7 +7755,7 @@
     "generation": 5
   },
   {
-    "ID": 501,
+    "id": 501,
     "name": "Oshawott",
     "form": "",
     "type1": "Water",
@@ -7770,7 +7770,7 @@
     "generation": 5
   },
   {
-    "ID": 502,
+    "id": 502,
     "name": "Dewott",
     "form": "",
     "type1": "Water",
@@ -7785,7 +7785,7 @@
     "generation": 5
   },
   {
-    "ID": 503,
+    "id": 503,
     "name": "Samurott",
     "form": "",
     "type1": "Water",
@@ -7800,7 +7800,7 @@
     "generation": 5
   },
   {
-    "ID": 504,
+    "id": 504,
     "name": "Patrat",
     "form": "",
     "type1": "Normal",
@@ -7815,7 +7815,7 @@
     "generation": 5
   },
   {
-    "ID": 505,
+    "id": 505,
     "name": "Watchog",
     "form": "",
     "type1": "Normal",
@@ -7830,7 +7830,7 @@
     "generation": 5
   },
   {
-    "ID": 506,
+    "id": 506,
     "name": "Lillipup",
     "form": "",
     "type1": "Normal",
@@ -7845,7 +7845,7 @@
     "generation": 5
   },
   {
-    "ID": 507,
+    "id": 507,
     "name": "Herdier",
     "form": "",
     "type1": "Normal",
@@ -7860,7 +7860,7 @@
     "generation": 5
   },
   {
-    "ID": 508,
+    "id": 508,
     "name": "Stoutland",
     "form": "",
     "type1": "Normal",
@@ -7875,7 +7875,7 @@
     "generation": 5
   },
   {
-    "ID": 509,
+    "id": 509,
     "name": "Purrloin",
     "form": "",
     "type1": "Dark",
@@ -7890,7 +7890,7 @@
     "generation": 5
   },
   {
-    "ID": 510,
+    "id": 510,
     "name": "Liepard",
     "form": "",
     "type1": "Dark",
@@ -7905,7 +7905,7 @@
     "generation": 5
   },
   {
-    "ID": 511,
+    "id": 511,
     "name": "Pansage",
     "form": "",
     "type1": "Grass",
@@ -7920,7 +7920,7 @@
     "generation": 5
   },
   {
-    "ID": 512,
+    "id": 512,
     "name": "Simisage",
     "form": "",
     "type1": "Grass",
@@ -7935,7 +7935,7 @@
     "generation": 5
   },
   {
-    "ID": 513,
+    "id": 513,
     "name": "Pansear",
     "form": "",
     "type1": "Fire",
@@ -7950,7 +7950,7 @@
     "generation": 5
   },
   {
-    "ID": 514,
+    "id": 514,
     "name": "Simisear",
     "form": "",
     "type1": "Fire",
@@ -7965,7 +7965,7 @@
     "generation": 5
   },
   {
-    "ID": 515,
+    "id": 515,
     "name": "Panpour",
     "form": "",
     "type1": "Water",
@@ -7980,7 +7980,7 @@
     "generation": 5
   },
   {
-    "ID": 516,
+    "id": 516,
     "name": "Simipour",
     "form": "",
     "type1": "Water",
@@ -7995,7 +7995,7 @@
     "generation": 5
   },
   {
-    "ID": 517,
+    "id": 517,
     "name": "Munna",
     "form": "",
     "type1": "Psychic",
@@ -8010,7 +8010,7 @@
     "generation": 5
   },
   {
-    "ID": 518,
+    "id": 518,
     "name": "Musharna",
     "form": "",
     "type1": "Psychic",
@@ -8025,7 +8025,7 @@
     "generation": 5
   },
   {
-    "ID": 519,
+    "id": 519,
     "name": "Pidove",
     "form": "",
     "type1": "Normal",
@@ -8040,7 +8040,7 @@
     "generation": 5
   },
   {
-    "ID": 520,
+    "id": 520,
     "name": "Tranquill",
     "form": "",
     "type1": "Normal",
@@ -8055,7 +8055,7 @@
     "generation": 5
   },
   {
-    "ID": 521,
+    "id": 521,
     "name": "Unfezant",
     "form": "",
     "type1": "Normal",
@@ -8070,7 +8070,7 @@
     "generation": 5
   },
   {
-    "ID": 522,
+    "id": 522,
     "name": "Blitzle",
     "form": "",
     "type1": "Electric",
@@ -8085,7 +8085,7 @@
     "generation": 5
   },
   {
-    "ID": 523,
+    "id": 523,
     "name": "Zebstrika",
     "form": "",
     "type1": "Electric",
@@ -8100,7 +8100,7 @@
     "generation": 5
   },
   {
-    "ID": 524,
+    "id": 524,
     "name": "Roggenrola",
     "form": "",
     "type1": "Rock",
@@ -8115,7 +8115,7 @@
     "generation": 5
   },
   {
-    "ID": 525,
+    "id": 525,
     "name": "Boldore",
     "form": "",
     "type1": "Rock",
@@ -8130,7 +8130,7 @@
     "generation": 5
   },
   {
-    "ID": 526,
+    "id": 526,
     "name": "Gigalith",
     "form": "",
     "type1": "Rock",
@@ -8145,7 +8145,7 @@
     "generation": 5
   },
   {
-    "ID": 527,
+    "id": 527,
     "name": "Woobat",
     "form": "",
     "type1": "Psychic",
@@ -8160,7 +8160,7 @@
     "generation": 5
   },
   {
-    "ID": 528,
+    "id": 528,
     "name": "Swoobat",
     "form": "",
     "type1": "Psychic",
@@ -8175,7 +8175,7 @@
     "generation": 5
   },
   {
-    "ID": 529,
+    "id": 529,
     "name": "Drilbur",
     "form": "",
     "type1": "Ground",
@@ -8190,7 +8190,7 @@
     "generation": 5
   },
   {
-    "ID": 530,
+    "id": 530,
     "name": "Excadrill",
     "form": "",
     "type1": "Ground",
@@ -8205,7 +8205,7 @@
     "generation": 5
   },
   {
-    "ID": 531,
+    "id": 531,
     "name": "Audino",
     "form": "",
     "type1": "Normal",
@@ -8220,7 +8220,7 @@
     "generation": 5
   },
   {
-    "ID": 532,
+    "id": 532,
     "name": "Timburr",
     "form": "",
     "type1": "Fighting",
@@ -8235,7 +8235,7 @@
     "generation": 5
   },
   {
-    "ID": 533,
+    "id": 533,
     "name": "Gurdurr",
     "form": "",
     "type1": "Fighting",
@@ -8250,7 +8250,7 @@
     "generation": 5
   },
   {
-    "ID": 534,
+    "id": 534,
     "name": "Conkeldurr",
     "form": "",
     "type1": "Fighting",
@@ -8265,7 +8265,7 @@
     "generation": 5
   },
   {
-    "ID": 535,
+    "id": 535,
     "name": "Tympole",
     "form": "",
     "type1": "Water",
@@ -8280,7 +8280,7 @@
     "generation": 5
   },
   {
-    "ID": 536,
+    "id": 536,
     "name": "Palpitoad",
     "form": "",
     "type1": "Water",
@@ -8295,7 +8295,7 @@
     "generation": 5
   },
   {
-    "ID": 537,
+    "id": 537,
     "name": "Seismitoad",
     "form": "",
     "type1": "Water",
@@ -8310,7 +8310,7 @@
     "generation": 5
   },
   {
-    "ID": 538,
+    "id": 538,
     "name": "Throh",
     "form": "",
     "type1": "Fighting",
@@ -8325,7 +8325,7 @@
     "generation": 5
   },
   {
-    "ID": 539,
+    "id": 539,
     "name": "Sawk",
     "form": "",
     "type1": "Fighting",
@@ -8340,7 +8340,7 @@
     "generation": 5
   },
   {
-    "ID": 540,
+    "id": 540,
     "name": "Sewaddle",
     "form": "",
     "type1": "Bug",
@@ -8355,7 +8355,7 @@
     "generation": 5
   },
   {
-    "ID": 541,
+    "id": 541,
     "name": "Swadloon",
     "form": "",
     "type1": "Bug",
@@ -8370,7 +8370,7 @@
     "generation": 5
   },
   {
-    "ID": 542,
+    "id": 542,
     "name": "Leavanny",
     "form": "",
     "type1": "Bug",
@@ -8385,7 +8385,7 @@
     "generation": 5
   },
   {
-    "ID": 543,
+    "id": 543,
     "name": "Venipede",
     "form": "",
     "type1": "Bug",
@@ -8400,7 +8400,7 @@
     "generation": 5
   },
   {
-    "ID": 544,
+    "id": 544,
     "name": "Whirlipede",
     "form": "",
     "type1": "Bug",
@@ -8415,7 +8415,7 @@
     "generation": 5
   },
   {
-    "ID": 545,
+    "id": 545,
     "name": "Scolipede",
     "form": "",
     "type1": "Bug",
@@ -8430,7 +8430,7 @@
     "generation": 5
   },
   {
-    "ID": 546,
+    "id": 546,
     "name": "Cottonee",
     "form": "",
     "type1": "Grass",
@@ -8445,7 +8445,7 @@
     "generation": 5
   },
   {
-    "ID": 547,
+    "id": 547,
     "name": "Whimsicott",
     "form": "",
     "type1": "Grass",
@@ -8460,7 +8460,7 @@
     "generation": 5
   },
   {
-    "ID": 548,
+    "id": 548,
     "name": "Petilil",
     "form": "",
     "type1": "Grass",
@@ -8475,7 +8475,7 @@
     "generation": 5
   },
   {
-    "ID": 549,
+    "id": 549,
     "name": "Lilligant",
     "form": "",
     "type1": "Grass",
@@ -8490,7 +8490,7 @@
     "generation": 5
   },
   {
-    "ID": 550,
+    "id": 550,
     "name": "Basculin",
     "form": "Red-Striped form",
     "type1": "Water",
@@ -8505,7 +8505,7 @@
     "generation": 5
   },
   {
-    "ID": 550,
+    "id": 550,
     "name": "Basculin",
     "form": "Blue-Striped form",
     "type1": "Water",
@@ -8520,7 +8520,7 @@
     "generation": 5
   },
   {
-    "ID": 551,
+    "id": 551,
     "name": "Sandile",
     "form": "",
     "type1": "Ground",
@@ -8535,7 +8535,7 @@
     "generation": 5
   },
   {
-    "ID": 552,
+    "id": 552,
     "name": "Krokorok",
     "form": "",
     "type1": "Ground",
@@ -8550,7 +8550,7 @@
     "generation": 5
   },
   {
-    "ID": 553,
+    "id": 553,
     "name": "Krookodile",
     "form": "",
     "type1": "Ground",
@@ -8565,7 +8565,7 @@
     "generation": 5
   },
   {
-    "ID": 554,
+    "id": 554,
     "name": "Darumaka",
     "form": "",
     "type1": "Fire",
@@ -8580,7 +8580,7 @@
     "generation": 5
   },
   {
-    "ID": 555,
+    "id": 555,
     "name": "Darmanitan",
     "form": "Standard Mode",
     "type1": "Fire",
@@ -8595,7 +8595,7 @@
     "generation": 5
   },
   {
-    "ID": 555,
+    "id": 555,
     "name": "Darmanitan",
     "form": "Zen Mode",
     "type1": "Fire",
@@ -8610,7 +8610,7 @@
     "generation": 5
   },
   {
-    "ID": 556,
+    "id": 556,
     "name": "Maractus",
     "form": "",
     "type1": "Grass",
@@ -8625,7 +8625,7 @@
     "generation": 5
   },
   {
-    "ID": 557,
+    "id": 557,
     "name": "Dwebble",
     "form": "",
     "type1": "Bug",
@@ -8640,7 +8640,7 @@
     "generation": 5
   },
   {
-    "ID": 558,
+    "id": 558,
     "name": "Crustle",
     "form": "",
     "type1": "Bug",
@@ -8655,7 +8655,7 @@
     "generation": 5
   },
   {
-    "ID": 559,
+    "id": 559,
     "name": "Scraggy",
     "form": "",
     "type1": "Dark",
@@ -8670,7 +8670,7 @@
     "generation": 5
   },
   {
-    "ID": 560,
+    "id": 560,
     "name": "Scrafty",
     "form": "",
     "type1": "Dark",
@@ -8685,7 +8685,7 @@
     "generation": 5
   },
   {
-    "ID": 561,
+    "id": 561,
     "name": "Sigilyph",
     "form": "",
     "type1": "Psychic",
@@ -8700,7 +8700,7 @@
     "generation": 5
   },
   {
-    "ID": 562,
+    "id": 562,
     "name": "Yamask",
     "form": "",
     "type1": "Ghost",
@@ -8715,7 +8715,7 @@
     "generation": 5
   },
   {
-    "ID": 563,
+    "id": 563,
     "name": "Cofagrigus",
     "form": "",
     "type1": "Ghost",
@@ -8730,7 +8730,7 @@
     "generation": 5
   },
   {
-    "ID": 564,
+    "id": 564,
     "name": "Tirtouga",
     "form": "",
     "type1": "Water",
@@ -8745,7 +8745,7 @@
     "generation": 5
   },
   {
-    "ID": 565,
+    "id": 565,
     "name": "Carracosta",
     "form": "",
     "type1": "Water",
@@ -8760,7 +8760,7 @@
     "generation": 5
   },
   {
-    "ID": 566,
+    "id": 566,
     "name": "Archen",
     "form": "",
     "type1": "Rock",
@@ -8775,7 +8775,7 @@
     "generation": 5
   },
   {
-    "ID": 567,
+    "id": 567,
     "name": "Archeops",
     "form": "",
     "type1": "Rock",
@@ -8790,7 +8790,7 @@
     "generation": 5
   },
   {
-    "ID": 568,
+    "id": 568,
     "name": "Trubbish",
     "form": "",
     "type1": "Poison",
@@ -8805,7 +8805,7 @@
     "generation": 5
   },
   {
-    "ID": 569,
+    "id": 569,
     "name": "Garbodor",
     "form": "",
     "type1": "Poison",
@@ -8820,7 +8820,7 @@
     "generation": 5
   },
   {
-    "ID": 570,
+    "id": 570,
     "name": "Zorua",
     "form": "",
     "type1": "Dark",
@@ -8835,7 +8835,7 @@
     "generation": 5
   },
   {
-    "ID": 571,
+    "id": 571,
     "name": "Zoroark",
     "form": "",
     "type1": "Dark",
@@ -8850,7 +8850,7 @@
     "generation": 5
   },
   {
-    "ID": 572,
+    "id": 572,
     "name": "Minccino",
     "form": "",
     "type1": "Normal",
@@ -8865,7 +8865,7 @@
     "generation": 5
   },
   {
-    "ID": 573,
+    "id": 573,
     "name": "Cinccino",
     "form": "",
     "type1": "Normal",
@@ -8880,7 +8880,7 @@
     "generation": 5
   },
   {
-    "ID": 574,
+    "id": 574,
     "name": "Gothita",
     "form": "",
     "type1": "Psychic",
@@ -8895,7 +8895,7 @@
     "generation": 5
   },
   {
-    "ID": 575,
+    "id": 575,
     "name": "Gothorita",
     "form": "",
     "type1": "Psychic",
@@ -8910,7 +8910,7 @@
     "generation": 5
   },
   {
-    "ID": 576,
+    "id": 576,
     "name": "Gothitelle",
     "form": "",
     "type1": "Psychic",
@@ -8925,7 +8925,7 @@
     "generation": 5
   },
   {
-    "ID": 577,
+    "id": 577,
     "name": "Solosis",
     "form": "",
     "type1": "Psychic",
@@ -8940,7 +8940,7 @@
     "generation": 5
   },
   {
-    "ID": 578,
+    "id": 578,
     "name": "Duosion",
     "form": "",
     "type1": "Psychic",
@@ -8955,7 +8955,7 @@
     "generation": 5
   },
   {
-    "ID": 579,
+    "id": 579,
     "name": "Reuniclus",
     "form": "",
     "type1": "Psychic",
@@ -8970,7 +8970,7 @@
     "generation": 5
   },
   {
-    "ID": 580,
+    "id": 580,
     "name": "Ducklett",
     "form": "",
     "type1": "Water",
@@ -8985,7 +8985,7 @@
     "generation": 5
   },
   {
-    "ID": 581,
+    "id": 581,
     "name": "Swanna",
     "form": "",
     "type1": "Water",
@@ -9000,7 +9000,7 @@
     "generation": 5
   },
   {
-    "ID": 582,
+    "id": 582,
     "name": "Vanillite",
     "form": "",
     "type1": "Ice",
@@ -9015,7 +9015,7 @@
     "generation": 5
   },
   {
-    "ID": 583,
+    "id": 583,
     "name": "Vanillish",
     "form": "",
     "type1": "Ice",
@@ -9030,7 +9030,7 @@
     "generation": 5
   },
   {
-    "ID": 584,
+    "id": 584,
     "name": "Vanilluxe",
     "form": "",
     "type1": "Ice",
@@ -9045,7 +9045,7 @@
     "generation": 5
   },
   {
-    "ID": 585,
+    "id": 585,
     "name": "Deerling",
     "form": "",
     "type1": "Normal",
@@ -9060,7 +9060,7 @@
     "generation": 5
   },
   {
-    "ID": 586,
+    "id": 586,
     "name": "Sawsbuck",
     "form": "",
     "type1": "Normal",
@@ -9075,7 +9075,7 @@
     "generation": 5
   },
   {
-    "ID": 587,
+    "id": 587,
     "name": "Emolga",
     "form": "",
     "type1": "Electric",
@@ -9090,7 +9090,7 @@
     "generation": 5
   },
   {
-    "ID": 588,
+    "id": 588,
     "name": "Karrablast",
     "form": "",
     "type1": "Bug",
@@ -9105,7 +9105,7 @@
     "generation": 5
   },
   {
-    "ID": 589,
+    "id": 589,
     "name": "Escavalier",
     "form": "",
     "type1": "Bug",
@@ -9120,7 +9120,7 @@
     "generation": 5
   },
   {
-    "ID": 590,
+    "id": 590,
     "name": "Foongus",
     "form": "",
     "type1": "Grass",
@@ -9135,7 +9135,7 @@
     "generation": 5
   },
   {
-    "ID": 591,
+    "id": 591,
     "name": "Amoonguss",
     "form": "",
     "type1": "Grass",
@@ -9150,7 +9150,7 @@
     "generation": 5
   },
   {
-    "ID": 592,
+    "id": 592,
     "name": "Frillish",
     "form": "",
     "type1": "Water",
@@ -9165,7 +9165,7 @@
     "generation": 5
   },
   {
-    "ID": 593,
+    "id": 593,
     "name": "Jellicent",
     "form": "",
     "type1": "Water",
@@ -9180,7 +9180,7 @@
     "generation": 5
   },
   {
-    "ID": 594,
+    "id": 594,
     "name": "Alomomola",
     "form": "",
     "type1": "Water",
@@ -9195,7 +9195,7 @@
     "generation": 5
   },
   {
-    "ID": 595,
+    "id": 595,
     "name": "Joltik",
     "form": "",
     "type1": "Bug",
@@ -9210,7 +9210,7 @@
     "generation": 5
   },
   {
-    "ID": 596,
+    "id": 596,
     "name": "Galvantula",
     "form": "",
     "type1": "Bug",
@@ -9225,7 +9225,7 @@
     "generation": 5
   },
   {
-    "ID": 597,
+    "id": 597,
     "name": "Ferroseed",
     "form": "",
     "type1": "Grass",
@@ -9240,7 +9240,7 @@
     "generation": 5
   },
   {
-    "ID": 598,
+    "id": 598,
     "name": "Ferrothorn",
     "form": "",
     "type1": "Grass",
@@ -9255,7 +9255,7 @@
     "generation": 5
   },
   {
-    "ID": 599,
+    "id": 599,
     "name": "Klink",
     "form": "",
     "type1": "Steel",
@@ -9270,7 +9270,7 @@
     "generation": 5
   },
   {
-    "ID": 600,
+    "id": 600,
     "name": "Klang",
     "form": "",
     "type1": "Steel",
@@ -9285,7 +9285,7 @@
     "generation": 5
   },
   {
-    "ID": 601,
+    "id": 601,
     "name": "Klinklang",
     "form": "",
     "type1": "Steel",
@@ -9300,7 +9300,7 @@
     "generation": 5
   },
   {
-    "ID": 602,
+    "id": 602,
     "name": "Tynamo",
     "form": "",
     "type1": "Electric",
@@ -9315,7 +9315,7 @@
     "generation": 5
   },
   {
-    "ID": 603,
+    "id": 603,
     "name": "Eelektrik",
     "form": "",
     "type1": "Electric",
@@ -9330,7 +9330,7 @@
     "generation": 5
   },
   {
-    "ID": 604,
+    "id": 604,
     "name": "Eelektross",
     "form": "",
     "type1": "Electric",
@@ -9345,7 +9345,7 @@
     "generation": 5
   },
   {
-    "ID": 605,
+    "id": 605,
     "name": "Elgyem",
     "form": "",
     "type1": "Psychic",
@@ -9360,7 +9360,7 @@
     "generation": 5
   },
   {
-    "ID": 606,
+    "id": 606,
     "name": "Beheeyem",
     "form": "",
     "type1": "Psychic",
@@ -9375,7 +9375,7 @@
     "generation": 5
   },
   {
-    "ID": 607,
+    "id": 607,
     "name": "Litwick",
     "form": "",
     "type1": "Ghost",
@@ -9390,7 +9390,7 @@
     "generation": 5
   },
   {
-    "ID": 608,
+    "id": 608,
     "name": "Lampent",
     "form": "",
     "type1": "Ghost",
@@ -9405,7 +9405,7 @@
     "generation": 5
   },
   {
-    "ID": 609,
+    "id": 609,
     "name": "Chandelure",
     "form": "",
     "type1": "Ghost",
@@ -9420,7 +9420,7 @@
     "generation": 5
   },
   {
-    "ID": 610,
+    "id": 610,
     "name": "Axew",
     "form": "",
     "type1": "Dragon",
@@ -9435,7 +9435,7 @@
     "generation": 5
   },
   {
-    "ID": 611,
+    "id": 611,
     "name": "Fraxure",
     "form": "",
     "type1": "Dragon",
@@ -9450,7 +9450,7 @@
     "generation": 5
   },
   {
-    "ID": 612,
+    "id": 612,
     "name": "Haxorus",
     "form": "",
     "type1": "Dragon",
@@ -9465,7 +9465,7 @@
     "generation": 5
   },
   {
-    "ID": 613,
+    "id": 613,
     "name": "Cubchoo",
     "form": "",
     "type1": "Ice",
@@ -9480,7 +9480,7 @@
     "generation": 5
   },
   {
-    "ID": 614,
+    "id": 614,
     "name": "Beartic",
     "form": "",
     "type1": "Ice",
@@ -9495,7 +9495,7 @@
     "generation": 5
   },
   {
-    "ID": 615,
+    "id": 615,
     "name": "Cryogonal",
     "form": "",
     "type1": "Ice",
@@ -9510,7 +9510,7 @@
     "generation": 5
   },
   {
-    "ID": 616,
+    "id": 616,
     "name": "Shelmet",
     "form": "",
     "type1": "Bug",
@@ -9525,7 +9525,7 @@
     "generation": 5
   },
   {
-    "ID": 617,
+    "id": 617,
     "name": "Accelgor",
     "form": "",
     "type1": "Bug",
@@ -9540,7 +9540,7 @@
     "generation": 5
   },
   {
-    "ID": 618,
+    "id": 618,
     "name": "Stunfisk",
     "form": "",
     "type1": "Ground",
@@ -9555,7 +9555,7 @@
     "generation": 5
   },
   {
-    "ID": 619,
+    "id": 619,
     "name": "Mienfoo",
     "form": "",
     "type1": "Fighting",
@@ -9570,7 +9570,7 @@
     "generation": 5
   },
   {
-    "ID": 620,
+    "id": 620,
     "name": "Mienshao",
     "form": "",
     "type1": "Fighting",
@@ -9585,7 +9585,7 @@
     "generation": 5
   },
   {
-    "ID": 621,
+    "id": 621,
     "name": "Druddigon",
     "form": "",
     "type1": "Dragon",
@@ -9600,7 +9600,7 @@
     "generation": 5
   },
   {
-    "ID": 622,
+    "id": 622,
     "name": "Golett",
     "form": "",
     "type1": "Ground",
@@ -9615,7 +9615,7 @@
     "generation": 5
   },
   {
-    "ID": 623,
+    "id": 623,
     "name": "Golurk",
     "form": "",
     "type1": "Ground",
@@ -9630,7 +9630,7 @@
     "generation": 5
   },
   {
-    "ID": 624,
+    "id": 624,
     "name": "Pawniard",
     "form": "",
     "type1": "Dark",
@@ -9645,7 +9645,7 @@
     "generation": 5
   },
   {
-    "ID": 625,
+    "id": 625,
     "name": "Bisharp",
     "form": "",
     "type1": "Dark",
@@ -9660,7 +9660,7 @@
     "generation": 5
   },
   {
-    "ID": 626,
+    "id": 626,
     "name": "Bouffalant",
     "form": "",
     "type1": "Normal",
@@ -9675,7 +9675,7 @@
     "generation": 5
   },
   {
-    "ID": 627,
+    "id": 627,
     "name": "Rufflet",
     "form": "",
     "type1": "Normal",
@@ -9690,7 +9690,7 @@
     "generation": 5
   },
   {
-    "ID": 628,
+    "id": 628,
     "name": "Braviary",
     "form": "",
     "type1": "Normal",
@@ -9705,7 +9705,7 @@
     "generation": 5
   },
   {
-    "ID": 629,
+    "id": 629,
     "name": "Vullaby",
     "form": "",
     "type1": "Dark",
@@ -9720,7 +9720,7 @@
     "generation": 5
   },
   {
-    "ID": 630,
+    "id": 630,
     "name": "Mandibuzz",
     "form": "",
     "type1": "Dark",
@@ -9735,7 +9735,7 @@
     "generation": 5
   },
   {
-    "ID": 631,
+    "id": 631,
     "name": "Heatmor",
     "form": "",
     "type1": "Fire",
@@ -9750,7 +9750,7 @@
     "generation": 5
   },
   {
-    "ID": 632,
+    "id": 632,
     "name": "Durant",
     "form": "",
     "type1": "Bug",
@@ -9765,7 +9765,7 @@
     "generation": 5
   },
   {
-    "ID": 633,
+    "id": 633,
     "name": "Deino",
     "form": "",
     "type1": "Dark",
@@ -9780,7 +9780,7 @@
     "generation": 5
   },
   {
-    "ID": 634,
+    "id": 634,
     "name": "Zweilous",
     "form": "",
     "type1": "Dark",
@@ -9795,7 +9795,7 @@
     "generation": 5
   },
   {
-    "ID": 635,
+    "id": 635,
     "name": "Hydreigon",
     "form": "",
     "type1": "Dark",
@@ -9810,7 +9810,7 @@
     "generation": 5
   },
   {
-    "ID": 636,
+    "id": 636,
     "name": "Larvesta",
     "form": "",
     "type1": "Bug",
@@ -9825,7 +9825,7 @@
     "generation": 5
   },
   {
-    "ID": 637,
+    "id": 637,
     "name": "Volcarona",
     "form": "",
     "type1": "Bug",
@@ -9840,7 +9840,7 @@
     "generation": 5
   },
   {
-    "ID": 638,
+    "id": 638,
     "name": "Cobalion",
     "form": "",
     "type1": "Steel",
@@ -9855,7 +9855,7 @@
     "generation": 5
   },
   {
-    "ID": 639,
+    "id": 639,
     "name": "Terrakion",
     "form": "",
     "type1": "Rock",
@@ -9870,7 +9870,7 @@
     "generation": 5
   },
   {
-    "ID": 640,
+    "id": 640,
     "name": "Virizion",
     "form": "",
     "type1": "Grass",
@@ -9885,7 +9885,7 @@
     "generation": 5
   },
   {
-    "ID": 641,
+    "id": 641,
     "name": "Tornadus",
     "form": "Incarnate forme",
     "type1": "Flying",
@@ -9900,7 +9900,7 @@
     "generation": 5
   },
   {
-    "ID": 641,
+    "id": 641,
     "name": "Tornadus",
     "form": "Therian forme",
     "type1": "Flying",
@@ -9915,7 +9915,7 @@
     "generation": 5
   },
   {
-    "ID": 642,
+    "id": 642,
     "name": "Thundurus",
     "form": "Incarnate forme",
     "type1": "Electric",
@@ -9930,7 +9930,7 @@
     "generation": 5
   },
   {
-    "ID": 642,
+    "id": 642,
     "name": "Thundurus",
     "form": "Therian forme",
     "type1": "Electric",
@@ -9945,7 +9945,7 @@
     "generation": 5
   },
   {
-    "ID": 643,
+    "id": 643,
     "name": "Reshiram",
     "form": "",
     "type1": "Dragon",
@@ -9960,7 +9960,7 @@
     "generation": 5
   },
   {
-    "ID": 644,
+    "id": 644,
     "name": "Zekrom",
     "form": "",
     "type1": "Dragon",
@@ -9975,7 +9975,7 @@
     "generation": 5
   },
   {
-    "ID": 645,
+    "id": 645,
     "name": "Landorus",
     "form": "Incarnate forme",
     "type1": "Ground",
@@ -9990,7 +9990,7 @@
     "generation": 5
   },
   {
-    "ID": 645,
+    "id": 645,
     "name": "Landorus",
     "form": "Therian forme",
     "type1": "Ground",
@@ -10005,7 +10005,7 @@
     "generation": 5
   },
   {
-    "ID": 646,
+    "id": 646,
     "name": "Kyurem",
     "form": "",
     "type1": "Dragon",
@@ -10020,7 +10020,7 @@
     "generation": 5
   },
   {
-    "ID": 646,
+    "id": 646,
     "name": "Kyurem",
     "form": "Black Kyurem",
     "type1": "Dragon",
@@ -10035,7 +10035,7 @@
     "generation": 5
   },
   {
-    "ID": 646,
+    "id": 646,
     "name": "Kyurem",
     "form": "White Kyurem",
     "type1": "Dragon",
@@ -10050,7 +10050,7 @@
     "generation": 5
   },
   {
-    "ID": 647,
+    "id": 647,
     "name": "Keldeo",
     "form": "Ordinary form",
     "type1": "Water",
@@ -10065,7 +10065,7 @@
     "generation": 5
   },
   {
-    "ID": 647,
+    "id": 647,
     "name": "Keldeo",
     "form": "Resolute form",
     "type1": "Water",
@@ -10080,7 +10080,7 @@
     "generation": 5
   },
   {
-    "ID": 648,
+    "id": 648,
     "name": "Meloetta",
     "form": "Aria forme",
     "type1": "Normal",
@@ -10095,7 +10095,7 @@
     "generation": 5
   },
   {
-    "ID": 648,
+    "id": 648,
     "name": "Meloetta",
     "form": "Pirouette forme",
     "type1": "Normal",
@@ -10110,7 +10110,7 @@
     "generation": 5
   },
   {
-    "ID": 649,
+    "id": 649,
     "name": "Genesect",
     "form": "",
     "type1": "Bug",
@@ -10125,7 +10125,7 @@
     "generation": 5
   },
   {
-    "ID": 3,
+    "id": 3,
     "name": "Venusaur",
     "form": "Mega Venusaur",
     "type1": "Grass",
@@ -10140,7 +10140,7 @@
     "generation": 6
   },
   {
-    "ID": 6,
+    "id": 6,
     "name": "Charizard",
     "form": "Mega Charizard X",
     "type1": "Fire",
@@ -10155,7 +10155,7 @@
     "generation": 6
   },
   {
-    "ID": 6,
+    "id": 6,
     "name": "Charizard",
     "form": "Mega Charizard Y",
     "type1": "Fire",
@@ -10170,7 +10170,7 @@
     "generation": 6
   },
   {
-    "ID": 9,
+    "id": 9,
     "name": "Blastoise",
     "form": "Mega Blastoise",
     "type1": "Water",
@@ -10185,7 +10185,7 @@
     "generation": 6
   },
   {
-    "ID": 15,
+    "id": 15,
     "name": "Beedrill",
     "form": "Mega Beedrill",
     "type1": "Bug",
@@ -10200,7 +10200,7 @@
     "generation": 6
   },
   {
-    "ID": 18,
+    "id": 18,
     "name": "Pidgeot",
     "form": "Mega Pidgeot",
     "type1": "Normal",
@@ -10215,7 +10215,7 @@
     "generation": 6
   },
   {
-    "ID": 65,
+    "id": 65,
     "name": "Alakazam",
     "form": "Mega Alakazam",
     "type1": "Psychic",
@@ -10230,7 +10230,7 @@
     "generation": 6
   },
   {
-    "ID": 80,
+    "id": 80,
     "name": "Slowbro",
     "form": "Mega Slowbro",
     "type1": "Water",
@@ -10245,7 +10245,7 @@
     "generation": 6
   },
   {
-    "ID": 94,
+    "id": 94,
     "name": "Gengar",
     "form": "Mega Gengar",
     "type1": "Ghost",
@@ -10260,7 +10260,7 @@
     "generation": 6
   },
   {
-    "ID": 115,
+    "id": 115,
     "name": "Kangaskhan",
     "form": "Mega Kangaskhan",
     "type1": "Normal",
@@ -10275,7 +10275,7 @@
     "generation": 6
   },
   {
-    "ID": 127,
+    "id": 127,
     "name": "Pinsir",
     "form": "Mega Pinsir",
     "type1": "Bug",
@@ -10290,7 +10290,7 @@
     "generation": 6
   },
   {
-    "ID": 130,
+    "id": 130,
     "name": "Gyarados",
     "form": "Mega Gyarados",
     "type1": "Water",
@@ -10305,7 +10305,7 @@
     "generation": 6
   },
   {
-    "ID": 142,
+    "id": 142,
     "name": "Aerodactyl",
     "form": "Mega Aerodactyl",
     "type1": "Rock",
@@ -10320,7 +10320,7 @@
     "generation": 6
   },
   {
-    "ID": 150,
+    "id": 150,
     "name": "Mewtwo",
     "form": "Mega Mewtwo X",
     "type1": "Psychic",
@@ -10335,7 +10335,7 @@
     "generation": 6
   },
   {
-    "ID": 150,
+    "id": 150,
     "name": "Mewtwo",
     "form": "Mega Mewtwo Y",
     "type1": "Psychic",
@@ -10350,7 +10350,7 @@
     "generation": 6
   },
   {
-    "ID": 181,
+    "id": 181,
     "name": "Ampharos",
     "form": "Mega Ampharos",
     "type1": "Electric",
@@ -10365,7 +10365,7 @@
     "generation": 6
   },
   {
-    "ID": 208,
+    "id": 208,
     "name": "Steelix",
     "form": "Mega Steelix",
     "type1": "Steel",
@@ -10380,7 +10380,7 @@
     "generation": 6
   },
   {
-    "ID": 212,
+    "id": 212,
     "name": "Scizor",
     "form": "Mega Scizor",
     "type1": "Bug",
@@ -10395,7 +10395,7 @@
     "generation": 6
   },
   {
-    "ID": 214,
+    "id": 214,
     "name": "Heracross",
     "form": "Mega Heracross",
     "type1": "Bug",
@@ -10410,7 +10410,7 @@
     "generation": 6
   },
   {
-    "ID": 229,
+    "id": 229,
     "name": "Houndoom",
     "form": "Mega Houndoom",
     "type1": "Dark",
@@ -10425,7 +10425,7 @@
     "generation": 6
   },
   {
-    "ID": 248,
+    "id": 248,
     "name": "Tyranitar",
     "form": "Mega Tyranitar",
     "type1": "Rock",
@@ -10440,7 +10440,7 @@
     "generation": 6
   },
   {
-    "ID": 254,
+    "id": 254,
     "name": "Sceptile",
     "form": "Mega Sceptile",
     "type1": "Grass",
@@ -10455,7 +10455,7 @@
     "generation": 6
   },
   {
-    "ID": 257,
+    "id": 257,
     "name": "Blaziken",
     "form": "Mega Blaziken",
     "type1": "Fire",
@@ -10470,7 +10470,7 @@
     "generation": 6
   },
   {
-    "ID": 260,
+    "id": 260,
     "name": "Swampert",
     "form": "Mega Swampert",
     "type1": "Water",
@@ -10485,7 +10485,7 @@
     "generation": 6
   },
   {
-    "ID": 282,
+    "id": 282,
     "name": "Gardevoir",
     "form": "Mega Gardevoir",
     "type1": "Psychic",
@@ -10500,7 +10500,7 @@
     "generation": 6
   },
   {
-    "ID": 302,
+    "id": 302,
     "name": "Sableye",
     "form": "Mega Sableye",
     "type1": "Dark",
@@ -10515,7 +10515,7 @@
     "generation": 6
   },
   {
-    "ID": 303,
+    "id": 303,
     "name": "Mawile",
     "form": "Mega Mawile",
     "type1": "Steel",
@@ -10530,7 +10530,7 @@
     "generation": 6
   },
   {
-    "ID": 306,
+    "id": 306,
     "name": "Aggron",
     "form": "Mega Aggron",
     "type1": "Steel",
@@ -10545,7 +10545,7 @@
     "generation": 6
   },
   {
-    "ID": 308,
+    "id": 308,
     "name": "Medicham",
     "form": "Mega Medicham",
     "type1": "Fighting",
@@ -10560,7 +10560,7 @@
     "generation": 6
   },
   {
-    "ID": 310,
+    "id": 310,
     "name": "Manectric",
     "form": "Mega Manectric",
     "type1": "Electric",
@@ -10575,7 +10575,7 @@
     "generation": 6
   },
   {
-    "ID": 319,
+    "id": 319,
     "name": "Sharpedo",
     "form": "Mega Sharpedo",
     "type1": "Water",
@@ -10590,7 +10590,7 @@
     "generation": 6
   },
   {
-    "ID": 323,
+    "id": 323,
     "name": "Camerupt",
     "form": "Mega Camerupt",
     "type1": "Fire",
@@ -10605,7 +10605,7 @@
     "generation": 6
   },
   {
-    "ID": 334,
+    "id": 334,
     "name": "Altaria",
     "form": "Mega Altaria",
     "type1": "Dragon",
@@ -10620,7 +10620,7 @@
     "generation": 6
   },
   {
-    "ID": 354,
+    "id": 354,
     "name": "Banette",
     "form": "Mega Banette",
     "type1": "Ghost",
@@ -10635,7 +10635,7 @@
     "generation": 6
   },
   {
-    "ID": 359,
+    "id": 359,
     "name": "Absol",
     "form": "Mega Absol",
     "type1": "Dark",
@@ -10650,7 +10650,7 @@
     "generation": 6
   },
   {
-    "ID": 362,
+    "id": 362,
     "name": "Glalie",
     "form": "Mega Glalie",
     "type1": "Ice",
@@ -10665,7 +10665,7 @@
     "generation": 6
   },
   {
-    "ID": 373,
+    "id": 373,
     "name": "Salamence",
     "form": "Mega Salamence",
     "type1": "Dragon",
@@ -10680,7 +10680,7 @@
     "generation": 6
   },
   {
-    "ID": 376,
+    "id": 376,
     "name": "Metagross",
     "form": "Mega Metagross",
     "type1": "Steel",
@@ -10695,7 +10695,7 @@
     "generation": 6
   },
   {
-    "ID": 380,
+    "id": 380,
     "name": "Latias",
     "form": "Mega Latias",
     "type1": "Dragon",
@@ -10710,7 +10710,7 @@
     "generation": 6
   },
   {
-    "ID": 381,
+    "id": 381,
     "name": "Latios",
     "form": "Mega Latios",
     "type1": "Dragon",
@@ -10725,7 +10725,7 @@
     "generation": 6
   },
   {
-    "ID": 382,
+    "id": 382,
     "name": "Kyogre",
     "form": "Primal Kyogre",
     "type1": "Water",
@@ -10740,7 +10740,7 @@
     "generation": 6
   },
   {
-    "ID": 383,
+    "id": 383,
     "name": "Groudon",
     "form": "Primal Groudon",
     "type1": "Ground",
@@ -10755,7 +10755,7 @@
     "generation": 6
   },
   {
-    "ID": 384,
+    "id": 384,
     "name": "Rayquaza",
     "form": "Mega Rayquaza",
     "type1": "Dragon",
@@ -10770,7 +10770,7 @@
     "generation": 6
   },
   {
-    "ID": 428,
+    "id": 428,
     "name": "Lopunny",
     "form": "Mega Lopunny",
     "type1": "Normal",
@@ -10785,7 +10785,7 @@
     "generation": 6
   },
   {
-    "ID": 445,
+    "id": 445,
     "name": "Garchomp",
     "form": "Mega Garchomp",
     "type1": "Dragon",
@@ -10800,7 +10800,7 @@
     "generation": 6
   },
   {
-    "ID": 448,
+    "id": 448,
     "name": "Lucario",
     "form": "Mega Lucario",
     "type1": "Fighting",
@@ -10815,7 +10815,7 @@
     "generation": 6
   },
   {
-    "ID": 460,
+    "id": 460,
     "name": "Abomasnow",
     "form": "Mega Abomasnow",
     "type1": "Grass",
@@ -10830,7 +10830,7 @@
     "generation": 6
   },
   {
-    "ID": 475,
+    "id": 475,
     "name": "Gallade",
     "form": "Mega Gallade",
     "type1": "Psychic",
@@ -10845,7 +10845,7 @@
     "generation": 6
   },
   {
-    "ID": 531,
+    "id": 531,
     "name": "Audino",
     "form": "Mega Audino",
     "type1": "Normal",
@@ -10860,7 +10860,7 @@
     "generation": 6
   },
   {
-    "ID": 650,
+    "id": 650,
     "name": "Chespin",
     "form": "",
     "type1": "Grass",
@@ -10875,7 +10875,7 @@
     "generation": 6
   },
   {
-    "ID": 651,
+    "id": 651,
     "name": "Quilladin",
     "form": "",
     "type1": "Grass",
@@ -10890,7 +10890,7 @@
     "generation": 6
   },
   {
-    "ID": 652,
+    "id": 652,
     "name": "Chesnaught",
     "form": "",
     "type1": "Grass",
@@ -10905,7 +10905,7 @@
     "generation": 6
   },
   {
-    "ID": 653,
+    "id": 653,
     "name": "Fennekin",
     "form": "",
     "type1": "Fire",
@@ -10920,7 +10920,7 @@
     "generation": 6
   },
   {
-    "ID": 654,
+    "id": 654,
     "name": "Braixen",
     "form": "",
     "type1": "Fire",
@@ -10935,7 +10935,7 @@
     "generation": 6
   },
   {
-    "ID": 655,
+    "id": 655,
     "name": "Delphox",
     "form": "",
     "type1": "Fire",
@@ -10950,7 +10950,7 @@
     "generation": 6
   },
   {
-    "ID": 656,
+    "id": 656,
     "name": "Froakie",
     "form": "",
     "type1": "Water",
@@ -10965,7 +10965,7 @@
     "generation": 6
   },
   {
-    "ID": 657,
+    "id": 657,
     "name": "Frogadier",
     "form": "",
     "type1": "Water",
@@ -10980,7 +10980,7 @@
     "generation": 6
   },
   {
-    "ID": 658,
+    "id": 658,
     "name": "Greninja",
     "form": "",
     "type1": "Water",
@@ -10995,7 +10995,7 @@
     "generation": 6
   },
   {
-    "ID": 659,
+    "id": 659,
     "name": "Bunnelby",
     "form": "",
     "type1": "Normal",
@@ -11010,7 +11010,7 @@
     "generation": 6
   },
   {
-    "ID": 660,
+    "id": 660,
     "name": "Diggersby",
     "form": "",
     "type1": "Normal",
@@ -11025,7 +11025,7 @@
     "generation": 6
   },
   {
-    "ID": 661,
+    "id": 661,
     "name": "Fletchling",
     "form": "",
     "type1": "Normal",
@@ -11040,7 +11040,7 @@
     "generation": 6
   },
   {
-    "ID": 662,
+    "id": 662,
     "name": "Fletchinder",
     "form": "",
     "type1": "Fire",
@@ -11055,7 +11055,7 @@
     "generation": 6
   },
   {
-    "ID": 663,
+    "id": 663,
     "name": "Talonflame",
     "form": "",
     "type1": "Fire",
@@ -11070,7 +11070,7 @@
     "generation": 6
   },
   {
-    "ID": 664,
+    "id": 664,
     "name": "Scatterbug",
     "form": "",
     "type1": "Bug",
@@ -11085,7 +11085,7 @@
     "generation": 6
   },
   {
-    "ID": 665,
+    "id": 665,
     "name": "Spewpa",
     "form": "",
     "type1": "Bug",
@@ -11100,7 +11100,7 @@
     "generation": 6
   },
   {
-    "ID": 666,
+    "id": 666,
     "name": "Vivillon",
     "form": "",
     "type1": "Bug",
@@ -11115,7 +11115,7 @@
     "generation": 6
   },
   {
-    "ID": 667,
+    "id": 667,
     "name": "Litleo",
     "form": "",
     "type1": "Fire",
@@ -11130,7 +11130,7 @@
     "generation": 6
   },
   {
-    "ID": 668,
+    "id": 668,
     "name": "Pyroar",
     "form": "",
     "type1": "Fire",
@@ -11145,7 +11145,7 @@
     "generation": 6
   },
   {
-    "ID": 669,
+    "id": 669,
     "name": "Flabébé",
     "form": "",
     "type1": "Fairy",
@@ -11160,7 +11160,7 @@
     "generation": 6
   },
   {
-    "ID": 670,
+    "id": 670,
     "name": "Floette",
     "form": "",
     "type1": "Fairy",
@@ -11175,7 +11175,7 @@
     "generation": 6
   },
   {
-    "ID": 671,
+    "id": 671,
     "name": "Florges",
     "form": "",
     "type1": "Fairy",
@@ -11190,7 +11190,7 @@
     "generation": 6
   },
   {
-    "ID": 672,
+    "id": 672,
     "name": "Skiddo",
     "form": "",
     "type1": "Grass",
@@ -11205,7 +11205,7 @@
     "generation": 6
   },
   {
-    "ID": 673,
+    "id": 673,
     "name": "Gogoat",
     "form": "",
     "type1": "Grass",
@@ -11220,7 +11220,7 @@
     "generation": 6
   },
   {
-    "ID": 674,
+    "id": 674,
     "name": "Pancham",
     "form": "",
     "type1": "Fighting",
@@ -11235,7 +11235,7 @@
     "generation": 6
   },
   {
-    "ID": 675,
+    "id": 675,
     "name": "Pangoro",
     "form": "",
     "type1": "Fighting",
@@ -11250,7 +11250,7 @@
     "generation": 6
   },
   {
-    "ID": 676,
+    "id": 676,
     "name": "Furfrou",
     "form": "",
     "type1": "Normal",
@@ -11265,7 +11265,7 @@
     "generation": 6
   },
   {
-    "ID": 677,
+    "id": 677,
     "name": "Espurr",
     "form": "",
     "type1": "Psychic",
@@ -11280,7 +11280,7 @@
     "generation": 6
   },
   {
-    "ID": 678,
+    "id": 678,
     "name": "Meowstic",
     "form": "Male",
     "type1": "Psychic",
@@ -11295,7 +11295,7 @@
     "generation": 6
   },
   {
-    "ID": 678,
+    "id": 678,
     "name": "Meowstic",
     "form": "Female",
     "type1": "Psychic",
@@ -11310,7 +11310,7 @@
     "generation": 6
   },
   {
-    "ID": 679,
+    "id": 679,
     "name": "Honedge",
     "form": "",
     "type1": "Steel",
@@ -11325,7 +11325,7 @@
     "generation": 6
   },
   {
-    "ID": 680,
+    "id": 680,
     "name": "Doublade",
     "form": "",
     "type1": "Steel",
@@ -11340,7 +11340,7 @@
     "generation": 6
   },
   {
-    "ID": 681,
+    "id": 681,
     "name": "Aegislash",
     "form": "Shield forme",
     "type1": "Steel",
@@ -11355,7 +11355,7 @@
     "generation": 6
   },
   {
-    "ID": 681,
+    "id": 681,
     "name": "Aegislash",
     "form": "Blade forme",
     "type1": "Steel",
@@ -11370,7 +11370,7 @@
     "generation": 6
   },
   {
-    "ID": 682,
+    "id": 682,
     "name": "Spritzee",
     "form": "",
     "type1": "Fairy",
@@ -11385,7 +11385,7 @@
     "generation": 6
   },
   {
-    "ID": 683,
+    "id": 683,
     "name": "Aromatisse",
     "form": "",
     "type1": "Fairy",
@@ -11400,7 +11400,7 @@
     "generation": 6
   },
   {
-    "ID": 684,
+    "id": 684,
     "name": "Swirlix",
     "form": "",
     "type1": "Fairy",
@@ -11415,7 +11415,7 @@
     "generation": 6
   },
   {
-    "ID": 685,
+    "id": 685,
     "name": "Slurpuff",
     "form": "",
     "type1": "Fairy",
@@ -11430,7 +11430,7 @@
     "generation": 6
   },
   {
-    "ID": 686,
+    "id": 686,
     "name": "Inkay",
     "form": "",
     "type1": "Dark",
@@ -11445,7 +11445,7 @@
     "generation": 6
   },
   {
-    "ID": 687,
+    "id": 687,
     "name": "Malamar",
     "form": "",
     "type1": "Dark",
@@ -11460,7 +11460,7 @@
     "generation": 6
   },
   {
-    "ID": 688,
+    "id": 688,
     "name": "Binacle",
     "form": "",
     "type1": "Rock",
@@ -11475,7 +11475,7 @@
     "generation": 6
   },
   {
-    "ID": 689,
+    "id": 689,
     "name": "Barbaracle",
     "form": "",
     "type1": "Rock",
@@ -11490,7 +11490,7 @@
     "generation": 6
   },
   {
-    "ID": 690,
+    "id": 690,
     "name": "Skrelp",
     "form": "",
     "type1": "Poison",
@@ -11505,7 +11505,7 @@
     "generation": 6
   },
   {
-    "ID": 691,
+    "id": 691,
     "name": "Dragalge",
     "form": "",
     "type1": "Poison",
@@ -11520,7 +11520,7 @@
     "generation": 6
   },
   {
-    "ID": 692,
+    "id": 692,
     "name": "Clauncher",
     "form": "",
     "type1": "Water",
@@ -11535,7 +11535,7 @@
     "generation": 6
   },
   {
-    "ID": 693,
+    "id": 693,
     "name": "Clawitzer",
     "form": "",
     "type1": "Water",
@@ -11550,7 +11550,7 @@
     "generation": 6
   },
   {
-    "ID": 694,
+    "id": 694,
     "name": "Helioptile",
     "form": "",
     "type1": "Electric",
@@ -11565,7 +11565,7 @@
     "generation": 6
   },
   {
-    "ID": 695,
+    "id": 695,
     "name": "Heliolisk",
     "form": "",
     "type1": "Electric",
@@ -11580,7 +11580,7 @@
     "generation": 6
   },
   {
-    "ID": 696,
+    "id": 696,
     "name": "Tyrunt",
     "form": "",
     "type1": "Rock",
@@ -11595,7 +11595,7 @@
     "generation": 6
   },
   {
-    "ID": 697,
+    "id": 697,
     "name": "Tyrantrum",
     "form": "",
     "type1": "Rock",
@@ -11610,7 +11610,7 @@
     "generation": 6
   },
   {
-    "ID": 698,
+    "id": 698,
     "name": "Amaura",
     "form": "",
     "type1": "Rock",
@@ -11625,7 +11625,7 @@
     "generation": 6
   },
   {
-    "ID": 699,
+    "id": 699,
     "name": "Aurorus",
     "form": "",
     "type1": "Rock",
@@ -11640,7 +11640,7 @@
     "generation": 6
   },
   {
-    "ID": 700,
+    "id": 700,
     "name": "Sylveon",
     "form": "",
     "type1": "Fairy",
@@ -11655,7 +11655,7 @@
     "generation": 6
   },
   {
-    "ID": 701,
+    "id": 701,
     "name": "Hawlucha",
     "form": "",
     "type1": "Fighting",
@@ -11670,7 +11670,7 @@
     "generation": 6
   },
   {
-    "ID": 702,
+    "id": 702,
     "name": "Dedenne",
     "form": "",
     "type1": "Electric",
@@ -11685,7 +11685,7 @@
     "generation": 6
   },
   {
-    "ID": 703,
+    "id": 703,
     "name": "Carbink",
     "form": "",
     "type1": "Rock",
@@ -11700,7 +11700,7 @@
     "generation": 6
   },
   {
-    "ID": 704,
+    "id": 704,
     "name": "Goomy",
     "form": "",
     "type1": "Dragon",
@@ -11715,7 +11715,7 @@
     "generation": 6
   },
   {
-    "ID": 705,
+    "id": 705,
     "name": "Sliggoo",
     "form": "",
     "type1": "Dragon",
@@ -11730,7 +11730,7 @@
     "generation": 6
   },
   {
-    "ID": 706,
+    "id": 706,
     "name": "Goodra",
     "form": "",
     "type1": "Dragon",
@@ -11745,7 +11745,7 @@
     "generation": 6
   },
   {
-    "ID": 707,
+    "id": 707,
     "name": "Klefki",
     "form": "",
     "type1": "Steel",
@@ -11760,7 +11760,7 @@
     "generation": 6
   },
   {
-    "ID": 708,
+    "id": 708,
     "name": "Phantump",
     "form": "",
     "type1": "Ghost",
@@ -11775,7 +11775,7 @@
     "generation": 6
   },
   {
-    "ID": 709,
+    "id": 709,
     "name": "Trevenant",
     "form": "",
     "type1": "Ghost",
@@ -11790,7 +11790,7 @@
     "generation": 6
   },
   {
-    "ID": 710,
+    "id": 710,
     "name": "Pumpkaboo",
     "form": "Average Size",
     "type1": "Ghost",
@@ -11805,7 +11805,7 @@
     "generation": 6
   },
   {
-    "ID": 710,
+    "id": 710,
     "name": "Pumpkaboo",
     "form": "Small Size",
     "type1": "Ghost",
@@ -11820,7 +11820,7 @@
     "generation": 6
   },
   {
-    "ID": 710,
+    "id": 710,
     "name": "Pumpkaboo",
     "form": "Large Size",
     "type1": "Ghost",
@@ -11835,7 +11835,7 @@
     "generation": 6
   },
   {
-    "ID": 710,
+    "id": 710,
     "name": "Pumpkaboo",
     "form": "Super Size",
     "type1": "Ghost",
@@ -11850,7 +11850,7 @@
     "generation": 6
   },
   {
-    "ID": 711,
+    "id": 711,
     "name": "Gourgeist",
     "form": "Average Size",
     "type1": "Ghost",
@@ -11865,7 +11865,7 @@
     "generation": 6
   },
   {
-    "ID": 711,
+    "id": 711,
     "name": "Gourgeist",
     "form": "Small Size",
     "type1": "Ghost",
@@ -11880,7 +11880,7 @@
     "generation": 6
   },
   {
-    "ID": 711,
+    "id": 711,
     "name": "Gourgeist",
     "form": "Large Size",
     "type1": "Ghost",
@@ -11895,7 +11895,7 @@
     "generation": 6
   },
   {
-    "ID": 711,
+    "id": 711,
     "name": "Gourgeist",
     "form": "Super Size",
     "type1": "Ghost",
@@ -11910,7 +11910,7 @@
     "generation": 6
   },
   {
-    "ID": 712,
+    "id": 712,
     "name": "Bergmite",
     "form": "",
     "type1": "Ice",
@@ -11925,7 +11925,7 @@
     "generation": 6
   },
   {
-    "ID": 713,
+    "id": 713,
     "name": "Avalugg",
     "form": "",
     "type1": "Ice",
@@ -11940,7 +11940,7 @@
     "generation": 6
   },
   {
-    "ID": 714,
+    "id": 714,
     "name": "Noibat",
     "form": "",
     "type1": "Flying",
@@ -11955,7 +11955,7 @@
     "generation": 6
   },
   {
-    "ID": 715,
+    "id": 715,
     "name": "Noivern",
     "form": "",
     "type1": "Flying",
@@ -11970,7 +11970,7 @@
     "generation": 6
   },
   {
-    "ID": 716,
+    "id": 716,
     "name": "Xerneas",
     "form": "",
     "type1": "Fairy",
@@ -11985,7 +11985,7 @@
     "generation": 6
   },
   {
-    "ID": 717,
+    "id": 717,
     "name": "Yveltal",
     "form": "",
     "type1": "Dark",
@@ -12000,7 +12000,7 @@
     "generation": 6
   },
   {
-    "ID": 718,
+    "id": 718,
     "name": "Zygarde50% forme",
     "form": "",
     "type1": "Dragon",
@@ -12015,7 +12015,7 @@
     "generation": 6
   },
   {
-    "ID": 719,
+    "id": 719,
     "name": "Diancie",
     "form": "",
     "type1": "Rock",
@@ -12030,7 +12030,7 @@
     "generation": 6
   },
   {
-    "ID": 719,
+    "id": 719,
     "name": "Diancie",
     "form": "Mega Diancie",
     "type1": "Rock",
@@ -12045,7 +12045,7 @@
     "generation": 6
   },
   {
-    "ID": 720,
+    "id": 720,
     "name": "Hoopa",
     "form": "Hoopa Confined",
     "type1": "Psychic",
@@ -12060,7 +12060,7 @@
     "generation": 6
   },
   {
-    "ID": 720,
+    "id": 720,
     "name": "Hoopa",
     "form": "Hoopa Unbound",
     "type1": "Psychic",
@@ -12075,7 +12075,7 @@
     "generation": 6
   },
   {
-    "ID": 721,
+    "id": 721,
     "name": "Volcanion",
     "form": "",
     "type1": "Fire",
@@ -12090,7 +12090,7 @@
     "generation": 6
   },
   {
-    "ID": 19,
+    "id": 19,
     "name": "Rattata",
     "form": "Alolan Rattata",
     "type1": "Dark",
@@ -12105,7 +12105,7 @@
     "generation": 7
   },
   {
-    "ID": 20,
+    "id": 20,
     "name": "Raticate",
     "form": "Alolan Raticate",
     "type1": "Dark",
@@ -12120,7 +12120,7 @@
     "generation": 7
   },
   {
-    "ID": 25,
+    "id": 25,
     "name": "Pikachu",
     "form": "Partner Pikachu",
     "type1": "Electric",
@@ -12135,7 +12135,7 @@
     "generation": 7
   },
   {
-    "ID": 26,
+    "id": 26,
     "name": "Raichu",
     "form": "Alolan Raichu",
     "type1": "Electric",
@@ -12150,7 +12150,7 @@
     "generation": 7
   },
   {
-    "ID": 27,
+    "id": 27,
     "name": "Sandshrew",
     "form": "Alolan Sandshrew",
     "type1": "Ice",
@@ -12165,7 +12165,7 @@
     "generation": 7
   },
   {
-    "ID": 28,
+    "id": 28,
     "name": "Sandslash",
     "form": "Alolan Sandslash",
     "type1": "Ice",
@@ -12180,7 +12180,7 @@
     "generation": 7
   },
   {
-    "ID": 37,
+    "id": 37,
     "name": "Vulpix",
     "form": "Alolan Vulpix",
     "type1": "Ice",
@@ -12195,7 +12195,7 @@
     "generation": 7
   },
   {
-    "ID": 38,
+    "id": 38,
     "name": "Ninetales",
     "form": "Alolan Ninetales",
     "type1": "Ice",
@@ -12210,7 +12210,7 @@
     "generation": 7
   },
   {
-    "ID": 50,
+    "id": 50,
     "name": "Diglett",
     "form": "Alolan Diglett",
     "type1": "Ground",
@@ -12225,7 +12225,7 @@
     "generation": 7
   },
   {
-    "ID": 51,
+    "id": 51,
     "name": "Dugtrio",
     "form": "Alolan Dugtrio",
     "type1": "Ground",
@@ -12240,7 +12240,7 @@
     "generation": 7
   },
   {
-    "ID": 52,
+    "id": 52,
     "name": "Meowth",
     "form": "Alolan Meowth",
     "type1": "Dark",
@@ -12255,7 +12255,7 @@
     "generation": 7
   },
   {
-    "ID": 53,
+    "id": 53,
     "name": "Persian",
     "form": "Alolan Persian",
     "type1": "Dark",
@@ -12270,7 +12270,7 @@
     "generation": 7
   },
   {
-    "ID": 74,
+    "id": 74,
     "name": "Geodude",
     "form": "Alolan Geodude",
     "type1": "Rock",
@@ -12285,7 +12285,7 @@
     "generation": 7
   },
   {
-    "ID": 75,
+    "id": 75,
     "name": "Graveler",
     "form": "Alolan Graveler",
     "type1": "Rock",
@@ -12300,7 +12300,7 @@
     "generation": 7
   },
   {
-    "ID": 76,
+    "id": 76,
     "name": "Golem",
     "form": "Alolan Golem",
     "type1": "Rock",
@@ -12315,7 +12315,7 @@
     "generation": 7
   },
   {
-    "ID": 88,
+    "id": 88,
     "name": "Grimer",
     "form": "Alolan Grimer",
     "type1": "Poison",
@@ -12330,7 +12330,7 @@
     "generation": 7
   },
   {
-    "ID": 89,
+    "id": 89,
     "name": "Muk",
     "form": "Alolan Muk",
     "type1": "Poison",
@@ -12345,7 +12345,7 @@
     "generation": 7
   },
   {
-    "ID": 103,
+    "id": 103,
     "name": "Exeggutor",
     "form": "Alolan Exeggutor",
     "type1": "Grass",
@@ -12360,7 +12360,7 @@
     "generation": 7
   },
   {
-    "ID": 105,
+    "id": 105,
     "name": "Marowak",
     "form": "Alolan Marowak",
     "type1": "Fire",
@@ -12375,7 +12375,7 @@
     "generation": 7
   },
   {
-    "ID": 133,
+    "id": 133,
     "name": "Eevee",
     "form": "Partner Eevee",
     "type1": "Normal",
@@ -12390,7 +12390,7 @@
     "generation": 7
   },
   {
-    "ID": 658,
+    "id": 658,
     "name": "Greninja",
     "form": "Ash-Greninja",
     "type1": "Water",
@@ -12405,7 +12405,7 @@
     "generation": 7
   },
   {
-    "ID": 718,
+    "id": 718,
     "name": "Zygarde10% forme",
     "form": "",
     "type1": "Dragon",
@@ -12420,7 +12420,7 @@
     "generation": 7
   },
   {
-    "ID": 718,
+    "id": 718,
     "name": "Zygarde",
     "form": "Complete forme",
     "type1": "Dragon",
@@ -12435,7 +12435,7 @@
     "generation": 7
   },
   {
-    "ID": 722,
+    "id": 722,
     "name": "Rowlet",
     "form": "",
     "type1": "Grass",
@@ -12450,7 +12450,7 @@
     "generation": 7
   },
   {
-    "ID": 723,
+    "id": 723,
     "name": "Dartrix",
     "form": "",
     "type1": "Grass",
@@ -12465,7 +12465,7 @@
     "generation": 7
   },
   {
-    "ID": 724,
+    "id": 724,
     "name": "Decidueye",
     "form": "",
     "type1": "Grass",
@@ -12480,7 +12480,7 @@
     "generation": 7
   },
   {
-    "ID": 725,
+    "id": 725,
     "name": "Litten",
     "form": "",
     "type1": "Fire",
@@ -12495,7 +12495,7 @@
     "generation": 7
   },
   {
-    "ID": 726,
+    "id": 726,
     "name": "Torracat",
     "form": "",
     "type1": "Fire",
@@ -12510,7 +12510,7 @@
     "generation": 7
   },
   {
-    "ID": 727,
+    "id": 727,
     "name": "Incineroar",
     "form": "",
     "type1": "Fire",
@@ -12525,7 +12525,7 @@
     "generation": 7
   },
   {
-    "ID": 728,
+    "id": 728,
     "name": "Popplio",
     "form": "",
     "type1": "Water",
@@ -12540,7 +12540,7 @@
     "generation": 7
   },
   {
-    "ID": 729,
+    "id": 729,
     "name": "Brionne",
     "form": "",
     "type1": "Water",
@@ -12555,7 +12555,7 @@
     "generation": 7
   },
   {
-    "ID": 730,
+    "id": 730,
     "name": "Primarina",
     "form": "",
     "type1": "Water",
@@ -12570,7 +12570,7 @@
     "generation": 7
   },
   {
-    "ID": 731,
+    "id": 731,
     "name": "Pikipek",
     "form": "",
     "type1": "Normal",
@@ -12585,7 +12585,7 @@
     "generation": 7
   },
   {
-    "ID": 732,
+    "id": 732,
     "name": "Trumbeak",
     "form": "",
     "type1": "Normal",
@@ -12600,7 +12600,7 @@
     "generation": 7
   },
   {
-    "ID": 733,
+    "id": 733,
     "name": "Toucannon",
     "form": "",
     "type1": "Normal",
@@ -12615,7 +12615,7 @@
     "generation": 7
   },
   {
-    "ID": 734,
+    "id": 734,
     "name": "Yungoos",
     "form": "",
     "type1": "Normal",
@@ -12630,7 +12630,7 @@
     "generation": 7
   },
   {
-    "ID": 735,
+    "id": 735,
     "name": "Gumshoos",
     "form": "",
     "type1": "Normal",
@@ -12645,7 +12645,7 @@
     "generation": 7
   },
   {
-    "ID": 736,
+    "id": 736,
     "name": "Grubbin",
     "form": "",
     "type1": "Bug",
@@ -12660,7 +12660,7 @@
     "generation": 7
   },
   {
-    "ID": 737,
+    "id": 737,
     "name": "Charjabug",
     "form": "",
     "type1": "Bug",
@@ -12675,7 +12675,7 @@
     "generation": 7
   },
   {
-    "ID": 738,
+    "id": 738,
     "name": "Vikavolt",
     "form": "",
     "type1": "Bug",
@@ -12690,7 +12690,7 @@
     "generation": 7
   },
   {
-    "ID": 739,
+    "id": 739,
     "name": "Crabrawler",
     "form": "",
     "type1": "Fighting",
@@ -12705,7 +12705,7 @@
     "generation": 7
   },
   {
-    "ID": 740,
+    "id": 740,
     "name": "Crabominable",
     "form": "",
     "type1": "Fighting",
@@ -12720,7 +12720,7 @@
     "generation": 7
   },
   {
-    "ID": 741,
+    "id": 741,
     "name": "Oricorio",
     "form": "Baile Style",
     "type1": "Fire",
@@ -12735,7 +12735,7 @@
     "generation": 7
   },
   {
-    "ID": 741,
+    "id": 741,
     "name": "Oricorio",
     "form": "Pom-Pom Style",
     "type1": "Electric",
@@ -12750,7 +12750,7 @@
     "generation": 7
   },
   {
-    "ID": 741,
+    "id": 741,
     "name": "Oricorio",
     "form": "Pa'u Style",
     "type1": "Psychic",
@@ -12765,7 +12765,7 @@
     "generation": 7
   },
   {
-    "ID": 741,
+    "id": 741,
     "name": "Oricorio",
     "form": "Sensu Style",
     "type1": "Ghost",
@@ -12780,7 +12780,7 @@
     "generation": 7
   },
   {
-    "ID": 742,
+    "id": 742,
     "name": "Cutiefly",
     "form": "",
     "type1": "Bug",
@@ -12795,7 +12795,7 @@
     "generation": 7
   },
   {
-    "ID": 743,
+    "id": 743,
     "name": "Ribombee",
     "form": "",
     "type1": "Bug",
@@ -12810,7 +12810,7 @@
     "generation": 7
   },
   {
-    "ID": 744,
+    "id": 744,
     "name": "Rockruff",
     "form": "",
     "type1": "Rock",
@@ -12825,7 +12825,7 @@
     "generation": 7
   },
   {
-    "ID": 744,
+    "id": 744,
     "name": "Rockruff",
     "form": "Own Tempo Rockruff",
     "type1": "Rock",
@@ -12840,7 +12840,7 @@
     "generation": 7
   },
   {
-    "ID": 745,
+    "id": 745,
     "name": "Lycanroc",
     "form": "Midday form",
     "type1": "Rock",
@@ -12855,7 +12855,7 @@
     "generation": 7
   },
   {
-    "ID": 745,
+    "id": 745,
     "name": "Lycanroc",
     "form": "Midnight form",
     "type1": "Rock",
@@ -12870,7 +12870,7 @@
     "generation": 7
   },
   {
-    "ID": 745,
+    "id": 745,
     "name": "Lycanroc",
     "form": "Dusk form",
     "type1": "Rock",
@@ -12885,7 +12885,7 @@
     "generation": 7
   },
   {
-    "ID": 746,
+    "id": 746,
     "name": "Wishiwashi",
     "form": "Solo form",
     "type1": "Water",
@@ -12900,7 +12900,7 @@
     "generation": 7
   },
   {
-    "ID": 746,
+    "id": 746,
     "name": "Wishiwashi",
     "form": "School form",
     "type1": "Water",
@@ -12915,7 +12915,7 @@
     "generation": 7
   },
   {
-    "ID": 747,
+    "id": 747,
     "name": "Mareanie",
     "form": "",
     "type1": "Poison",
@@ -12930,7 +12930,7 @@
     "generation": 7
   },
   {
-    "ID": 748,
+    "id": 748,
     "name": "Toxapex",
     "form": "",
     "type1": "Poison",
@@ -12945,7 +12945,7 @@
     "generation": 7
   },
   {
-    "ID": 749,
+    "id": 749,
     "name": "Mudbray",
     "form": "",
     "type1": "Ground",
@@ -12960,7 +12960,7 @@
     "generation": 7
   },
   {
-    "ID": 750,
+    "id": 750,
     "name": "Mudsdale",
     "form": "",
     "type1": "Ground",
@@ -12975,7 +12975,7 @@
     "generation": 7
   },
   {
-    "ID": 751,
+    "id": 751,
     "name": "Dewpider",
     "form": "",
     "type1": "Water",
@@ -12990,7 +12990,7 @@
     "generation": 7
   },
   {
-    "ID": 752,
+    "id": 752,
     "name": "Araquanid",
     "form": "",
     "type1": "Water",
@@ -13005,7 +13005,7 @@
     "generation": 7
   },
   {
-    "ID": 753,
+    "id": 753,
     "name": "Fomantis",
     "form": "",
     "type1": "Grass",
@@ -13020,7 +13020,7 @@
     "generation": 7
   },
   {
-    "ID": 754,
+    "id": 754,
     "name": "Lurantis",
     "form": "",
     "type1": "Grass",
@@ -13035,7 +13035,7 @@
     "generation": 7
   },
   {
-    "ID": 755,
+    "id": 755,
     "name": "Morelull",
     "form": "",
     "type1": "Grass",
@@ -13050,7 +13050,7 @@
     "generation": 7
   },
   {
-    "ID": 756,
+    "id": 756,
     "name": "Shiinotic",
     "form": "",
     "type1": "Grass",
@@ -13065,7 +13065,7 @@
     "generation": 7
   },
   {
-    "ID": 757,
+    "id": 757,
     "name": "Salandit",
     "form": "",
     "type1": "Poison",
@@ -13080,7 +13080,7 @@
     "generation": 7
   },
   {
-    "ID": 758,
+    "id": 758,
     "name": "Salazzle",
     "form": "",
     "type1": "Poison",
@@ -13095,7 +13095,7 @@
     "generation": 7
   },
   {
-    "ID": 759,
+    "id": 759,
     "name": "Stufful",
     "form": "",
     "type1": "Normal",
@@ -13110,7 +13110,7 @@
     "generation": 7
   },
   {
-    "ID": 760,
+    "id": 760,
     "name": "Bewear",
     "form": "",
     "type1": "Normal",
@@ -13125,7 +13125,7 @@
     "generation": 7
   },
   {
-    "ID": 761,
+    "id": 761,
     "name": "Bounsweet",
     "form": "",
     "type1": "Grass",
@@ -13140,7 +13140,7 @@
     "generation": 7
   },
   {
-    "ID": 762,
+    "id": 762,
     "name": "Steenee",
     "form": "",
     "type1": "Grass",
@@ -13155,7 +13155,7 @@
     "generation": 7
   },
   {
-    "ID": 763,
+    "id": 763,
     "name": "Tsareena",
     "form": "",
     "type1": "Grass",
@@ -13170,7 +13170,7 @@
     "generation": 7
   },
   {
-    "ID": 764,
+    "id": 764,
     "name": "Comfey",
     "form": "",
     "type1": "Fairy",
@@ -13185,7 +13185,7 @@
     "generation": 7
   },
   {
-    "ID": 765,
+    "id": 765,
     "name": "Oranguru",
     "form": "",
     "type1": "Normal",
@@ -13200,7 +13200,7 @@
     "generation": 7
   },
   {
-    "ID": 766,
+    "id": 766,
     "name": "Passimian",
     "form": "",
     "type1": "Fighting",
@@ -13215,7 +13215,7 @@
     "generation": 7
   },
   {
-    "ID": 767,
+    "id": 767,
     "name": "Wimpod",
     "form": "",
     "type1": "Bug",
@@ -13230,7 +13230,7 @@
     "generation": 7
   },
   {
-    "ID": 768,
+    "id": 768,
     "name": "Golisopod",
     "form": "",
     "type1": "Bug",
@@ -13245,7 +13245,7 @@
     "generation": 7
   },
   {
-    "ID": 769,
+    "id": 769,
     "name": "Sandygast",
     "form": "",
     "type1": "Ghost",
@@ -13260,7 +13260,7 @@
     "generation": 7
   },
   {
-    "ID": 770,
+    "id": 770,
     "name": "Palossand",
     "form": "",
     "type1": "Ghost",
@@ -13275,7 +13275,7 @@
     "generation": 7
   },
   {
-    "ID": 771,
+    "id": 771,
     "name": "Pyukumuku",
     "form": "",
     "type1": "Water",
@@ -13290,7 +13290,7 @@
     "generation": 7
   },
   {
-    "ID": 772,
+    "id": 772,
     "name": "Type: Null",
     "form": "",
     "type1": "Normal",
@@ -13305,7 +13305,7 @@
     "generation": 7
   },
   {
-    "ID": 773,
+    "id": 773,
     "name": "Silvally",
     "form": "",
     "type1": "Normal",
@@ -13320,7 +13320,7 @@
     "generation": 7
   },
   {
-    "ID": 774,
+    "id": 774,
     "name": "Minior",
     "form": "Meteor form",
     "type1": "Rock",
@@ -13335,7 +13335,7 @@
     "generation": 7
   },
   {
-    "ID": 774,
+    "id": 774,
     "name": "Minior",
     "form": "Core form",
     "type1": "Rock",
@@ -13350,7 +13350,7 @@
     "generation": 7
   },
   {
-    "ID": 775,
+    "id": 775,
     "name": "Komala",
     "form": "",
     "type1": "Normal",
@@ -13365,7 +13365,7 @@
     "generation": 7
   },
   {
-    "ID": 776,
+    "id": 776,
     "name": "Turtonator",
     "form": "",
     "type1": "Fire",
@@ -13380,7 +13380,7 @@
     "generation": 7
   },
   {
-    "ID": 777,
+    "id": 777,
     "name": "Togedemaru",
     "form": "",
     "type1": "Electric",
@@ -13395,7 +13395,7 @@
     "generation": 7
   },
   {
-    "ID": 778,
+    "id": 778,
     "name": "Mimikyu",
     "form": "",
     "type1": "Ghost",
@@ -13410,7 +13410,7 @@
     "generation": 7
   },
   {
-    "ID": 779,
+    "id": 779,
     "name": "Bruxish",
     "form": "",
     "type1": "Water",
@@ -13425,7 +13425,7 @@
     "generation": 7
   },
   {
-    "ID": 780,
+    "id": 780,
     "name": "Drampa",
     "form": "",
     "type1": "Normal",
@@ -13440,7 +13440,7 @@
     "generation": 7
   },
   {
-    "ID": 781,
+    "id": 781,
     "name": "Dhelmise",
     "form": "",
     "type1": "Ghost",
@@ -13455,7 +13455,7 @@
     "generation": 7
   },
   {
-    "ID": 782,
+    "id": 782,
     "name": "Jangmo-o",
     "form": "",
     "type1": "Dragon",
@@ -13470,7 +13470,7 @@
     "generation": 7
   },
   {
-    "ID": 783,
+    "id": 783,
     "name": "Hakamo-o",
     "form": "",
     "type1": "Dragon",
@@ -13485,7 +13485,7 @@
     "generation": 7
   },
   {
-    "ID": 784,
+    "id": 784,
     "name": "Kommo-o",
     "form": "",
     "type1": "Dragon",
@@ -13500,7 +13500,7 @@
     "generation": 7
   },
   {
-    "ID": 785,
+    "id": 785,
     "name": "Tapu Koko",
     "form": "",
     "type1": "Electric",
@@ -13515,7 +13515,7 @@
     "generation": 7
   },
   {
-    "ID": 786,
+    "id": 786,
     "name": "Tapu Lele",
     "form": "",
     "type1": "Psychic",
@@ -13530,7 +13530,7 @@
     "generation": 7
   },
   {
-    "ID": 787,
+    "id": 787,
     "name": "Tapu Bulu",
     "form": "",
     "type1": "Grass",
@@ -13545,7 +13545,7 @@
     "generation": 7
   },
   {
-    "ID": 788,
+    "id": 788,
     "name": "Tapu Fini",
     "form": "",
     "type1": "Water",
@@ -13560,7 +13560,7 @@
     "generation": 7
   },
   {
-    "ID": 789,
+    "id": 789,
     "name": "Cosmog",
     "form": "",
     "type1": "Psychic",
@@ -13575,7 +13575,7 @@
     "generation": 7
   },
   {
-    "ID": 790,
+    "id": 790,
     "name": "Cosmoem",
     "form": "",
     "type1": "Psychic",
@@ -13590,7 +13590,7 @@
     "generation": 7
   },
   {
-    "ID": 791,
+    "id": 791,
     "name": "Solgaleo",
     "form": "",
     "type1": "Psychic",
@@ -13605,7 +13605,7 @@
     "generation": 7
   },
   {
-    "ID": 792,
+    "id": 792,
     "name": "Lunala",
     "form": "",
     "type1": "Psychic",
@@ -13620,7 +13620,7 @@
     "generation": 7
   },
   {
-    "ID": 793,
+    "id": 793,
     "name": "Nihilego",
     "form": "",
     "type1": "Rock",
@@ -13635,7 +13635,7 @@
     "generation": 7
   },
   {
-    "ID": 794,
+    "id": 794,
     "name": "Buzzwole",
     "form": "",
     "type1": "Bug",
@@ -13650,7 +13650,7 @@
     "generation": 7
   },
   {
-    "ID": 795,
+    "id": 795,
     "name": "Pheromosa",
     "form": "",
     "type1": "Bug",
@@ -13665,7 +13665,7 @@
     "generation": 7
   },
   {
-    "ID": 796,
+    "id": 796,
     "name": "Xurkitree",
     "form": "",
     "type1": "Electric",
@@ -13680,7 +13680,7 @@
     "generation": 7
   },
   {
-    "ID": 797,
+    "id": 797,
     "name": "Celesteela",
     "form": "",
     "type1": "Steel",
@@ -13695,7 +13695,7 @@
     "generation": 7
   },
   {
-    "ID": 798,
+    "id": 798,
     "name": "Kartana",
     "form": "",
     "type1": "Grass",
@@ -13710,7 +13710,7 @@
     "generation": 7
   },
   {
-    "ID": 799,
+    "id": 799,
     "name": "Guzzlord",
     "form": "",
     "type1": "Dark",
@@ -13725,7 +13725,7 @@
     "generation": 7
   },
   {
-    "ID": 800,
+    "id": 800,
     "name": "Necrozma",
     "form": "",
     "type1": "Psychic",
@@ -13740,7 +13740,7 @@
     "generation": 7
   },
   {
-    "ID": 800,
+    "id": 800,
     "name": "Necrozma",
     "form": "Dusk Mane Necrozma",
     "type1": "Psychic",
@@ -13755,7 +13755,7 @@
     "generation": 7
   },
   {
-    "ID": 800,
+    "id": 800,
     "name": "Necrozma",
     "form": "Dawn Wings Necrozma",
     "type1": "Psychic",
@@ -13770,7 +13770,7 @@
     "generation": 7
   },
   {
-    "ID": 800,
+    "id": 800,
     "name": "Necrozma",
     "form": "Ultra Necrozma",
     "type1": "Psychic",
@@ -13785,7 +13785,7 @@
     "generation": 7
   },
   {
-    "ID": 801,
+    "id": 801,
     "name": "Magearna",
     "form": "",
     "type1": "Steel",
@@ -13800,7 +13800,7 @@
     "generation": 7
   },
   {
-    "ID": 802,
+    "id": 802,
     "name": "Marshadow",
     "form": "",
     "type1": "Fighting",
@@ -13815,7 +13815,7 @@
     "generation": 7
   },
   {
-    "ID": 803,
+    "id": 803,
     "name": "Poipole",
     "form": "",
     "type1": "Poison",
@@ -13830,7 +13830,7 @@
     "generation": 7
   },
   {
-    "ID": 804,
+    "id": 804,
     "name": "Naganadel",
     "form": "",
     "type1": "Poison",
@@ -13845,7 +13845,7 @@
     "generation": 7
   },
   {
-    "ID": 805,
+    "id": 805,
     "name": "Stakataka",
     "form": "",
     "type1": "Rock",
@@ -13860,7 +13860,7 @@
     "generation": 7
   },
   {
-    "ID": 806,
+    "id": 806,
     "name": "Blacephalon",
     "form": "",
     "type1": "Fire",
@@ -13875,7 +13875,7 @@
     "generation": 7
   },
   {
-    "ID": 807,
+    "id": 807,
     "name": "Zeraora",
     "form": "",
     "type1": "Electric",
@@ -13890,7 +13890,7 @@
     "generation": 7
   },
   {
-    "ID": 808,
+    "id": 808,
     "name": "Meltan",
     "form": "",
     "type1": "Steel",
@@ -13905,7 +13905,7 @@
     "generation": 7
   },
   {
-    "ID": 809,
+    "id": 809,
     "name": "Melmetal",
     "form": "",
     "type1": "Steel",
@@ -13920,7 +13920,7 @@
     "generation": 7
   },
   {
-    "ID": 52,
+    "id": 52,
     "name": "Meowth",
     "form": "Galarian Meowth",
     "type1": "Steel",
@@ -13935,7 +13935,7 @@
     "generation": 8
   },
   {
-    "ID": 58,
+    "id": 58,
     "name": "Growlithe",
     "form": "Hisuian Growlithe",
     "type1": "Fire",
@@ -13950,7 +13950,7 @@
     "generation": 8
   },
   {
-    "ID": 59,
+    "id": 59,
     "name": "Arcanine",
     "form": "Hisuian Arcanine",
     "type1": "Fire",
@@ -13965,7 +13965,7 @@
     "generation": 8
   },
   {
-    "ID": 77,
+    "id": 77,
     "name": "Ponyta",
     "form": "Galarian Ponyta",
     "type1": "Psychic",
@@ -13980,7 +13980,7 @@
     "generation": 8
   },
   {
-    "ID": 78,
+    "id": 78,
     "name": "Rapidash",
     "form": "Galarian Rapidash",
     "type1": "Psychic",
@@ -13995,7 +13995,7 @@
     "generation": 8
   },
   {
-    "ID": 79,
+    "id": 79,
     "name": "Slowpoke",
     "form": "Galarian Slowpoke",
     "type1": "Psychic",
@@ -14010,7 +14010,7 @@
     "generation": 8
   },
   {
-    "ID": 80,
+    "id": 80,
     "name": "Slowbro",
     "form": "Galarian Slowbro",
     "type1": "Poison",
@@ -14025,7 +14025,7 @@
     "generation": 8
   },
   {
-    "ID": 83,
+    "id": 83,
     "name": "Farfetch'd",
     "form": "Galarian Farfetch'd",
     "type1": "Fighting",
@@ -14040,7 +14040,7 @@
     "generation": 8
   },
   {
-    "ID": 100,
+    "id": 100,
     "name": "Voltorb",
     "form": "Hisuian Voltorb",
     "type1": "Electric",
@@ -14055,7 +14055,7 @@
     "generation": 8
   },
   {
-    "ID": 101,
+    "id": 101,
     "name": "Electrode",
     "form": "Hisuian Electrode",
     "type1": "Electric",
@@ -14070,7 +14070,7 @@
     "generation": 8
   },
   {
-    "ID": 110,
+    "id": 110,
     "name": "Weezing",
     "form": "Galarian Weezing",
     "type1": "Poison",
@@ -14085,7 +14085,7 @@
     "generation": 8
   },
   {
-    "ID": 122,
+    "id": 122,
     "name": "Mr. Mime",
     "form": "Galarian Mr. Mime",
     "type1": "Ice",
@@ -14100,7 +14100,7 @@
     "generation": 8
   },
   {
-    "ID": 144,
+    "id": 144,
     "name": "Articuno",
     "form": "Galarian Articuno",
     "type1": "Psychic",
@@ -14115,7 +14115,7 @@
     "generation": 8
   },
   {
-    "ID": 145,
+    "id": 145,
     "name": "Zapdos",
     "form": "Galarian Zapdos",
     "type1": "Fighting",
@@ -14130,7 +14130,7 @@
     "generation": 8
   },
   {
-    "ID": 146,
+    "id": 146,
     "name": "Moltres",
     "form": "Galarian Moltres",
     "type1": "Dark",
@@ -14145,7 +14145,7 @@
     "generation": 8
   },
   {
-    "ID": 157,
+    "id": 157,
     "name": "Typhlosion",
     "form": "Hisuian Typhlosion",
     "type1": "Fire",
@@ -14160,7 +14160,7 @@
     "generation": 8
   },
   {
-    "ID": 199,
+    "id": 199,
     "name": "Slowking",
     "form": "Galarian Slowking",
     "type1": "Poison",
@@ -14175,7 +14175,7 @@
     "generation": 8
   },
   {
-    "ID": 211,
+    "id": 211,
     "name": "Qwilfish",
     "form": "Hisuian Qwilfish",
     "type1": "Dark",
@@ -14190,7 +14190,7 @@
     "generation": 8
   },
   {
-    "ID": 215,
+    "id": 215,
     "name": "Sneasel",
     "form": "Hisuian Sneasel",
     "type1": "Poison",
@@ -14205,7 +14205,7 @@
     "generation": 8
   },
   {
-    "ID": 222,
+    "id": 222,
     "name": "Corsola",
     "form": "Galarian Corsola",
     "type1": "Ghost",
@@ -14220,7 +14220,7 @@
     "generation": 8
   },
   {
-    "ID": 263,
+    "id": 263,
     "name": "Zigzagoon",
     "form": "Galarian Zigzagoon",
     "type1": "Dark",
@@ -14235,7 +14235,7 @@
     "generation": 8
   },
   {
-    "ID": 264,
+    "id": 264,
     "name": "Linoone",
     "form": "Galarian Linoone",
     "type1": "Dark",
@@ -14250,7 +14250,7 @@
     "generation": 8
   },
   {
-    "ID": 483,
+    "id": 483,
     "name": "Dialga",
     "form": "Origin forme",
     "type1": "Steel",
@@ -14265,7 +14265,7 @@
     "generation": 8
   },
   {
-    "ID": 484,
+    "id": 484,
     "name": "Palkia",
     "form": "Origin forme",
     "type1": "Water",
@@ -14280,7 +14280,7 @@
     "generation": 8
   },
   {
-    "ID": 503,
+    "id": 503,
     "name": "Samurott",
     "form": "Hisuian Samurott",
     "type1": "Water",
@@ -14295,7 +14295,7 @@
     "generation": 8
   },
   {
-    "ID": 549,
+    "id": 549,
     "name": "Lilligant",
     "form": "Hisuian Lilligant",
     "type1": "Grass",
@@ -14310,7 +14310,7 @@
     "generation": 8
   },
   {
-    "ID": 550,
+    "id": 550,
     "name": "Basculin",
     "form": "White-Striped form",
     "type1": "Water",
@@ -14325,7 +14325,7 @@
     "generation": 8
   },
   {
-    "ID": 554,
+    "id": 554,
     "name": "Darumaka",
     "form": "Galarian Darumaka",
     "type1": "Ice",
@@ -14340,7 +14340,7 @@
     "generation": 8
   },
   {
-    "ID": 555,
+    "id": 555,
     "name": "Darmanitan",
     "form": "Galarian Standard Mode",
     "type1": "Ice",
@@ -14355,7 +14355,7 @@
     "generation": 8
   },
   {
-    "ID": 555,
+    "id": 555,
     "name": "Darmanitan",
     "form": "Galarian Zen Mode",
     "type1": "Ice",
@@ -14370,7 +14370,7 @@
     "generation": 8
   },
   {
-    "ID": 562,
+    "id": 562,
     "name": "Yamask",
     "form": "Galarian Yamask",
     "type1": "Ground",
@@ -14385,7 +14385,7 @@
     "generation": 8
   },
   {
-    "ID": 570,
+    "id": 570,
     "name": "Zorua",
     "form": "Hisuian Zorua",
     "type1": "Normal",
@@ -14400,7 +14400,7 @@
     "generation": 8
   },
   {
-    "ID": 571,
+    "id": 571,
     "name": "Zoroark",
     "form": "Hisuian Zoroark",
     "type1": "Normal",
@@ -14415,7 +14415,7 @@
     "generation": 8
   },
   {
-    "ID": 618,
+    "id": 618,
     "name": "Stunfisk",
     "form": "Galarian Stunfisk",
     "type1": "Ground",
@@ -14430,7 +14430,7 @@
     "generation": 8
   },
   {
-    "ID": 628,
+    "id": 628,
     "name": "Braviary",
     "form": "Hisuian Braviary",
     "type1": "Psychic",
@@ -14445,7 +14445,7 @@
     "generation": 8
   },
   {
-    "ID": 705,
+    "id": 705,
     "name": "Sliggoo",
     "form": "Hisuian Sliggoo",
     "type1": "Dragon",
@@ -14460,7 +14460,7 @@
     "generation": 8
   },
   {
-    "ID": 706,
+    "id": 706,
     "name": "Goodra",
     "form": "Hisuian Goodra",
     "type1": "Dragon",
@@ -14475,7 +14475,7 @@
     "generation": 8
   },
   {
-    "ID": 713,
+    "id": 713,
     "name": "Avalugg",
     "form": "Hisuian Avalugg",
     "type1": "Ice",
@@ -14490,7 +14490,7 @@
     "generation": 8
   },
   {
-    "ID": 724,
+    "id": 724,
     "name": "Decidueye",
     "form": "Hisuian Decidueye",
     "type1": "Grass",
@@ -14505,7 +14505,7 @@
     "generation": 8
   },
   {
-    "ID": 810,
+    "id": 810,
     "name": "Grookey",
     "form": "",
     "type1": "Grass",
@@ -14520,7 +14520,7 @@
     "generation": 8
   },
   {
-    "ID": 811,
+    "id": 811,
     "name": "Thwackey",
     "form": "",
     "type1": "Grass",
@@ -14535,7 +14535,7 @@
     "generation": 8
   },
   {
-    "ID": 812,
+    "id": 812,
     "name": "Rillaboom",
     "form": "",
     "type1": "Grass",
@@ -14550,7 +14550,7 @@
     "generation": 8
   },
   {
-    "ID": 813,
+    "id": 813,
     "name": "Scorbunny",
     "form": "",
     "type1": "Fire",
@@ -14565,7 +14565,7 @@
     "generation": 8
   },
   {
-    "ID": 814,
+    "id": 814,
     "name": "Raboot",
     "form": "",
     "type1": "Fire",
@@ -14580,7 +14580,7 @@
     "generation": 8
   },
   {
-    "ID": 815,
+    "id": 815,
     "name": "Cinderace",
     "form": "",
     "type1": "Fire",
@@ -14595,7 +14595,7 @@
     "generation": 8
   },
   {
-    "ID": 816,
+    "id": 816,
     "name": "Sobble",
     "form": "",
     "type1": "Water",
@@ -14610,7 +14610,7 @@
     "generation": 8
   },
   {
-    "ID": 817,
+    "id": 817,
     "name": "Drizzile",
     "form": "",
     "type1": "Water",
@@ -14625,7 +14625,7 @@
     "generation": 8
   },
   {
-    "ID": 818,
+    "id": 818,
     "name": "Inteleon",
     "form": "",
     "type1": "Water",
@@ -14640,7 +14640,7 @@
     "generation": 8
   },
   {
-    "ID": 819,
+    "id": 819,
     "name": "Skwovet",
     "form": "",
     "type1": "Normal",
@@ -14655,7 +14655,7 @@
     "generation": 8
   },
   {
-    "ID": 820,
+    "id": 820,
     "name": "Greedent",
     "form": "",
     "type1": "Normal",
@@ -14670,7 +14670,7 @@
     "generation": 8
   },
   {
-    "ID": 821,
+    "id": 821,
     "name": "Rookidee",
     "form": "",
     "type1": "Flying",
@@ -14685,7 +14685,7 @@
     "generation": 8
   },
   {
-    "ID": 822,
+    "id": 822,
     "name": "Corvisquire",
     "form": "",
     "type1": "Flying",
@@ -14700,7 +14700,7 @@
     "generation": 8
   },
   {
-    "ID": 823,
+    "id": 823,
     "name": "Corviknight",
     "form": "",
     "type1": "Flying",
@@ -14715,7 +14715,7 @@
     "generation": 8
   },
   {
-    "ID": 824,
+    "id": 824,
     "name": "Blipbug",
     "form": "",
     "type1": "Bug",
@@ -14730,7 +14730,7 @@
     "generation": 8
   },
   {
-    "ID": 825,
+    "id": 825,
     "name": "Dottler",
     "form": "",
     "type1": "Bug",
@@ -14745,7 +14745,7 @@
     "generation": 8
   },
   {
-    "ID": 826,
+    "id": 826,
     "name": "Orbeetle",
     "form": "",
     "type1": "Bug",
@@ -14760,7 +14760,7 @@
     "generation": 8
   },
   {
-    "ID": 827,
+    "id": 827,
     "name": "Nickit",
     "form": "",
     "type1": "Dark",
@@ -14775,7 +14775,7 @@
     "generation": 8
   },
   {
-    "ID": 828,
+    "id": 828,
     "name": "Thievul",
     "form": "",
     "type1": "Dark",
@@ -14790,7 +14790,7 @@
     "generation": 8
   },
   {
-    "ID": 829,
+    "id": 829,
     "name": "Gossifleur",
     "form": "",
     "type1": "Grass",
@@ -14805,7 +14805,7 @@
     "generation": 8
   },
   {
-    "ID": 830,
+    "id": 830,
     "name": "Eldegoss",
     "form": "",
     "type1": "Grass",
@@ -14820,7 +14820,7 @@
     "generation": 8
   },
   {
-    "ID": 831,
+    "id": 831,
     "name": "Wooloo",
     "form": "",
     "type1": "Normal",
@@ -14835,7 +14835,7 @@
     "generation": 8
   },
   {
-    "ID": 832,
+    "id": 832,
     "name": "Dubwool",
     "form": "",
     "type1": "Normal",
@@ -14850,7 +14850,7 @@
     "generation": 8
   },
   {
-    "ID": 833,
+    "id": 833,
     "name": "Chewtle",
     "form": "",
     "type1": "Water",
@@ -14865,7 +14865,7 @@
     "generation": 8
   },
   {
-    "ID": 834,
+    "id": 834,
     "name": "Drednaw",
     "form": "",
     "type1": "Water",
@@ -14880,7 +14880,7 @@
     "generation": 8
   },
   {
-    "ID": 835,
+    "id": 835,
     "name": "Yamper",
     "form": "",
     "type1": "Electric",
@@ -14895,7 +14895,7 @@
     "generation": 8
   },
   {
-    "ID": 836,
+    "id": 836,
     "name": "Boltund",
     "form": "",
     "type1": "Electric",
@@ -14910,7 +14910,7 @@
     "generation": 8
   },
   {
-    "ID": 837,
+    "id": 837,
     "name": "Rolycoly",
     "form": "",
     "type1": "Rock",
@@ -14925,7 +14925,7 @@
     "generation": 8
   },
   {
-    "ID": 838,
+    "id": 838,
     "name": "Carkol",
     "form": "",
     "type1": "Rock",
@@ -14940,7 +14940,7 @@
     "generation": 8
   },
   {
-    "ID": 839,
+    "id": 839,
     "name": "Coalossal",
     "form": "",
     "type1": "Rock",
@@ -14955,7 +14955,7 @@
     "generation": 8
   },
   {
-    "ID": 840,
+    "id": 840,
     "name": "Applin",
     "form": "",
     "type1": "Grass",
@@ -14970,7 +14970,7 @@
     "generation": 8
   },
   {
-    "ID": 841,
+    "id": 841,
     "name": "Flapple",
     "form": "",
     "type1": "Grass",
@@ -14985,7 +14985,7 @@
     "generation": 8
   },
   {
-    "ID": 842,
+    "id": 842,
     "name": "Appletun",
     "form": "",
     "type1": "Grass",
@@ -15000,7 +15000,7 @@
     "generation": 8
   },
   {
-    "ID": 843,
+    "id": 843,
     "name": "Silicobra",
     "form": "",
     "type1": "Ground",
@@ -15015,7 +15015,7 @@
     "generation": 8
   },
   {
-    "ID": 844,
+    "id": 844,
     "name": "Sandaconda",
     "form": "",
     "type1": "Ground",
@@ -15030,7 +15030,7 @@
     "generation": 8
   },
   {
-    "ID": 845,
+    "id": 845,
     "name": "Cramorant",
     "form": "",
     "type1": "Flying",
@@ -15045,7 +15045,7 @@
     "generation": 8
   },
   {
-    "ID": 846,
+    "id": 846,
     "name": "Arrokuda",
     "form": "",
     "type1": "Water",
@@ -15060,7 +15060,7 @@
     "generation": 8
   },
   {
-    "ID": 847,
+    "id": 847,
     "name": "Barraskewda",
     "form": "",
     "type1": "Water",
@@ -15075,7 +15075,7 @@
     "generation": 8
   },
   {
-    "ID": 848,
+    "id": 848,
     "name": "Toxel",
     "form": "",
     "type1": "Electric",
@@ -15090,7 +15090,7 @@
     "generation": 8
   },
   {
-    "ID": 849,
+    "id": 849,
     "name": "Toxtricity",
     "form": "Low Key form",
     "type1": "Electric",
@@ -15105,7 +15105,7 @@
     "generation": 8
   },
   {
-    "ID": 849,
+    "id": 849,
     "name": "Toxtricity",
     "form": "Amped form",
     "type1": "Electric",
@@ -15120,7 +15120,7 @@
     "generation": 8
   },
   {
-    "ID": 850,
+    "id": 850,
     "name": "Sizzlipede",
     "form": "",
     "type1": "Fire",
@@ -15135,7 +15135,7 @@
     "generation": 8
   },
   {
-    "ID": 851,
+    "id": 851,
     "name": "Centiskorch",
     "form": "",
     "type1": "Fire",
@@ -15150,7 +15150,7 @@
     "generation": 8
   },
   {
-    "ID": 852,
+    "id": 852,
     "name": "Clobbopus",
     "form": "",
     "type1": "Fighting",
@@ -15165,7 +15165,7 @@
     "generation": 8
   },
   {
-    "ID": 853,
+    "id": 853,
     "name": "Grapploct",
     "form": "",
     "type1": "Fighting",
@@ -15180,7 +15180,7 @@
     "generation": 8
   },
   {
-    "ID": 854,
+    "id": 854,
     "name": "Sinistea",
     "form": "",
     "type1": "Ghost",
@@ -15195,7 +15195,7 @@
     "generation": 8
   },
   {
-    "ID": 855,
+    "id": 855,
     "name": "Polteageist",
     "form": "",
     "type1": "Ghost",
@@ -15210,7 +15210,7 @@
     "generation": 8
   },
   {
-    "ID": 856,
+    "id": 856,
     "name": "Hatenna",
     "form": "",
     "type1": "Psychic",
@@ -15225,7 +15225,7 @@
     "generation": 8
   },
   {
-    "ID": 857,
+    "id": 857,
     "name": "Hattrem",
     "form": "",
     "type1": "Psychic",
@@ -15240,7 +15240,7 @@
     "generation": 8
   },
   {
-    "ID": 858,
+    "id": 858,
     "name": "Hatterene",
     "form": "",
     "type1": "Psychic",
@@ -15255,7 +15255,7 @@
     "generation": 8
   },
   {
-    "ID": 859,
+    "id": 859,
     "name": "Impidimp",
     "form": "",
     "type1": "Dark",
@@ -15270,7 +15270,7 @@
     "generation": 8
   },
   {
-    "ID": 860,
+    "id": 860,
     "name": "Morgrem",
     "form": "",
     "type1": "Dark",
@@ -15285,7 +15285,7 @@
     "generation": 8
   },
   {
-    "ID": 861,
+    "id": 861,
     "name": "Grimmsnarl",
     "form": "",
     "type1": "Dark",
@@ -15300,7 +15300,7 @@
     "generation": 8
   },
   {
-    "ID": 862,
+    "id": 862,
     "name": "Obstagoon",
     "form": "",
     "type1": "Dark",
@@ -15315,7 +15315,7 @@
     "generation": 8
   },
   {
-    "ID": 863,
+    "id": 863,
     "name": "Perrserker",
     "form": "",
     "type1": "Steel",
@@ -15330,7 +15330,7 @@
     "generation": 8
   },
   {
-    "ID": 864,
+    "id": 864,
     "name": "Cursola",
     "form": "",
     "type1": "Ghost",
@@ -15345,7 +15345,7 @@
     "generation": 8
   },
   {
-    "ID": 865,
+    "id": 865,
     "name": "Sirfetch'd",
     "form": "",
     "type1": "Fighting",
@@ -15360,7 +15360,7 @@
     "generation": 8
   },
   {
-    "ID": 866,
+    "id": 866,
     "name": "Mr. Rime",
     "form": "",
     "type1": "Ice",
@@ -15375,7 +15375,7 @@
     "generation": 8
   },
   {
-    "ID": 867,
+    "id": 867,
     "name": "Runerigus",
     "form": "",
     "type1": "Ground",
@@ -15390,7 +15390,7 @@
     "generation": 8
   },
   {
-    "ID": 868,
+    "id": 868,
     "name": "Milcery",
     "form": "",
     "type1": "Fairy",
@@ -15405,7 +15405,7 @@
     "generation": 8
   },
   {
-    "ID": 869,
+    "id": 869,
     "name": "Alcremie",
     "form": "",
     "type1": "Fairy",
@@ -15420,7 +15420,7 @@
     "generation": 8
   },
   {
-    "ID": 870,
+    "id": 870,
     "name": "Falinks",
     "form": "",
     "type1": "Fighting",
@@ -15435,7 +15435,7 @@
     "generation": 8
   },
   {
-    "ID": 871,
+    "id": 871,
     "name": "Pincurchin",
     "form": "",
     "type1": "Electric",
@@ -15450,7 +15450,7 @@
     "generation": 8
   },
   {
-    "ID": 872,
+    "id": 872,
     "name": "Snom",
     "form": "",
     "type1": "Ice",
@@ -15465,7 +15465,7 @@
     "generation": 8
   },
   {
-    "ID": 873,
+    "id": 873,
     "name": "Frosmoth",
     "form": "",
     "type1": "Ice",
@@ -15480,7 +15480,7 @@
     "generation": 8
   },
   {
-    "ID": 874,
+    "id": 874,
     "name": "Stonjourner",
     "form": "",
     "type1": "Rock",
@@ -15495,7 +15495,7 @@
     "generation": 8
   },
   {
-    "ID": 875,
+    "id": 875,
     "name": "Eiscue",
     "form": "Ice Face",
     "type1": "Ice",
@@ -15510,7 +15510,7 @@
     "generation": 8
   },
   {
-    "ID": 875,
+    "id": 875,
     "name": "Eiscue",
     "form": "Noice Face",
     "type1": "Ice",
@@ -15525,7 +15525,7 @@
     "generation": 8
   },
   {
-    "ID": 876,
+    "id": 876,
     "name": "Indeedee",
     "form": "Male",
     "type1": "Psychic",
@@ -15540,7 +15540,7 @@
     "generation": 8
   },
   {
-    "ID": 876,
+    "id": 876,
     "name": "Indeedee",
     "form": "Female",
     "type1": "Psychic",
@@ -15555,7 +15555,7 @@
     "generation": 8
   },
   {
-    "ID": 877,
+    "id": 877,
     "name": "Morpeko",
     "form": "Full Belly Mode",
     "type1": "Electric",
@@ -15570,7 +15570,7 @@
     "generation": 8
   },
   {
-    "ID": 877,
+    "id": 877,
     "name": "Morpeko",
     "form": "Hangry Mode",
     "type1": "Electric",
@@ -15585,7 +15585,7 @@
     "generation": 8
   },
   {
-    "ID": 878,
+    "id": 878,
     "name": "Cufant",
     "form": "",
     "type1": "Steel",
@@ -15600,7 +15600,7 @@
     "generation": 8
   },
   {
-    "ID": 879,
+    "id": 879,
     "name": "Copperajah",
     "form": "",
     "type1": "Steel",
@@ -15615,7 +15615,7 @@
     "generation": 8
   },
   {
-    "ID": 880,
+    "id": 880,
     "name": "Dracozolt",
     "form": "",
     "type1": "Electric",
@@ -15630,7 +15630,7 @@
     "generation": 8
   },
   {
-    "ID": 881,
+    "id": 881,
     "name": "Arctozolt",
     "form": "",
     "type1": "Electric",
@@ -15645,7 +15645,7 @@
     "generation": 8
   },
   {
-    "ID": 882,
+    "id": 882,
     "name": "Dracovish",
     "form": "",
     "type1": "Water",
@@ -15660,7 +15660,7 @@
     "generation": 8
   },
   {
-    "ID": 883,
+    "id": 883,
     "name": "Arctovish",
     "form": "",
     "type1": "Water",
@@ -15675,7 +15675,7 @@
     "generation": 8
   },
   {
-    "ID": 884,
+    "id": 884,
     "name": "Duraludon",
     "form": "",
     "type1": "Steel",
@@ -15690,7 +15690,7 @@
     "generation": 8
   },
   {
-    "ID": 885,
+    "id": 885,
     "name": "Dreepy",
     "form": "",
     "type1": "Dragon",
@@ -15705,7 +15705,7 @@
     "generation": 8
   },
   {
-    "ID": 886,
+    "id": 886,
     "name": "Drakloak",
     "form": "",
     "type1": "Dragon",
@@ -15720,7 +15720,7 @@
     "generation": 8
   },
   {
-    "ID": 887,
+    "id": 887,
     "name": "Dragapult",
     "form": "",
     "type1": "Dragon",
@@ -15735,7 +15735,7 @@
     "generation": 8
   },
   {
-    "ID": 888,
+    "id": 888,
     "name": "Zacian",
     "form": "Crowned Sword",
     "type1": "Fairy",
@@ -15750,7 +15750,7 @@
     "generation": 8
   },
   {
-    "ID": 888,
+    "id": 888,
     "name": "Zacian",
     "form": "Hero of Many Battles",
     "type1": "Fairy",
@@ -15765,7 +15765,7 @@
     "generation": 8
   },
   {
-    "ID": 889,
+    "id": 889,
     "name": "Zamazenta",
     "form": "Crowned Shield",
     "type1": "Fighting",
@@ -15780,7 +15780,7 @@
     "generation": 8
   },
   {
-    "ID": 889,
+    "id": 889,
     "name": "Zamazenta",
     "form": "Hero of Many Battles",
     "type1": "Fighting",
@@ -15795,7 +15795,7 @@
     "generation": 8
   },
   {
-    "ID": 890,
+    "id": 890,
     "name": "Eternatus",
     "form": "",
     "type1": "Poison",
@@ -15810,7 +15810,7 @@
     "generation": 8
   },
   {
-    "ID": 890,
+    "id": 890,
     "name": "Eternatus",
     "form": "Eternamax",
     "type1": "Poison",
@@ -15825,7 +15825,7 @@
     "generation": 8
   },
   {
-    "ID": 891,
+    "id": 891,
     "name": "Kubfu",
     "form": "",
     "type1": "Fighting",
@@ -15840,7 +15840,7 @@
     "generation": 8
   },
   {
-    "ID": 892,
+    "id": 892,
     "name": "Urshifu",
     "form": "Single Strike Style",
     "type1": "Fighting",
@@ -15855,7 +15855,7 @@
     "generation": 8
   },
   {
-    "ID": 892,
+    "id": 892,
     "name": "Urshifu",
     "form": "Rapid Strike Style",
     "type1": "Fighting",
@@ -15870,7 +15870,7 @@
     "generation": 8
   },
   {
-    "ID": 893,
+    "id": 893,
     "name": "Zarude",
     "form": "",
     "type1": "Dark",
@@ -15885,7 +15885,7 @@
     "generation": 8
   },
   {
-    "ID": 894,
+    "id": 894,
     "name": "Regieleki",
     "form": "",
     "type1": "Electric",
@@ -15900,7 +15900,7 @@
     "generation": 8
   },
   {
-    "ID": 895,
+    "id": 895,
     "name": "Regidrago",
     "form": "",
     "type1": "Dragon",
@@ -15915,7 +15915,7 @@
     "generation": 8
   },
   {
-    "ID": 896,
+    "id": 896,
     "name": "Glastrier",
     "form": "",
     "type1": "Ice",
@@ -15930,7 +15930,7 @@
     "generation": 8
   },
   {
-    "ID": 897,
+    "id": 897,
     "name": "Spectrier",
     "form": "",
     "type1": "Ghost",
@@ -15945,7 +15945,7 @@
     "generation": 8
   },
   {
-    "ID": 898,
+    "id": 898,
     "name": "Calyrex",
     "form": "",
     "type1": "Psychic",
@@ -15960,7 +15960,7 @@
     "generation": 8
   },
   {
-    "ID": 898,
+    "id": 898,
     "name": "Calyrex",
     "form": "Ice Rider",
     "type1": "Psychic",
@@ -15975,7 +15975,7 @@
     "generation": 8
   },
   {
-    "ID": 898,
+    "id": 898,
     "name": "Calyrex",
     "form": "Shadow Rider",
     "type1": "Psychic",
@@ -15990,7 +15990,7 @@
     "generation": 8
   },
   {
-    "ID": 899,
+    "id": 899,
     "name": "Wyrdeer",
     "form": "",
     "type1": "Normal",
@@ -16005,7 +16005,7 @@
     "generation": 8
   },
   {
-    "ID": 900,
+    "id": 900,
     "name": "Kleavor",
     "form": "",
     "type1": "Bug",
@@ -16020,7 +16020,7 @@
     "generation": 8
   },
   {
-    "ID": 901,
+    "id": 901,
     "name": "Ursaluna",
     "form": "",
     "type1": "Normal",
@@ -16035,7 +16035,7 @@
     "generation": 8
   },
   {
-    "ID": 902,
+    "id": 902,
     "name": "Basculegion",
     "form": "Male",
     "type1": "Water",
@@ -16050,7 +16050,7 @@
     "generation": 8
   },
   {
-    "ID": 902,
+    "id": 902,
     "name": "Basculegion",
     "form": "Female",
     "type1": "Water",
@@ -16065,7 +16065,7 @@
     "generation": 8
   },
   {
-    "ID": 903,
+    "id": 903,
     "name": "Sneasler",
     "form": "",
     "type1": "Poison",
@@ -16080,7 +16080,7 @@
     "generation": 8
   },
   {
-    "ID": 904,
+    "id": 904,
     "name": "Overqwil",
     "form": "",
     "type1": "Dark",
@@ -16095,7 +16095,7 @@
     "generation": 8
   },
   {
-    "ID": 905,
+    "id": 905,
     "name": "Enamorus",
     "form": "Incarnate forme",
     "type1": "Fairy",
@@ -16110,7 +16110,7 @@
     "generation": 8
   },
   {
-    "ID": 905,
+    "id": 905,
     "name": "Enamorus",
     "form": "Therian forme",
     "type1": "Fairy",
