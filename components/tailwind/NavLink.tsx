@@ -13,10 +13,10 @@ const NavLink = ({ link, title }: Props) => {
   return (
     <Link href={link} passHref>
       <a
-        className={`mr-2 rounded p-4 font-semibold hover:bg-zinc-100 hover:text-blue-400 md:mr-4 ${
+        className={`mr-2 p-3 font-semibold hover:bg-neutral-100 hover:text-blue-400 md:mr-4 ${
           active
-            ? " rounded-b-none border-b-2 border-b-blue-500 font-bold text-blue-500 decoration-blue-500"
-            : "text-zinc-500"
+            ? "border-b-2 border-b-blue-500 font-bold text-blue-500 decoration-blue-500"
+            : "text-neutral-500"
         }`}>
         {title}
       </a>

@@ -1,5 +1,4 @@
 import { Text } from "@chakra-ui/react"
-import { type } from "os"
 
 interface Props {
   title: string

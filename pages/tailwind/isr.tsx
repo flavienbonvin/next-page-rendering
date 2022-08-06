@@ -1,6 +1,7 @@
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetStaticProps } from "next/types"
 import Meta from "../../components/Meta"
+import PokemonGrid from "../../components/tailwind/PokemonsGrid"
 
 interface Props {
   pokemons: Pokemon[]
@@ -9,11 +10,12 @@ interface Props {
 
 const ISR = ({ pokemons, date }: Props) => {
   return (
-    <>
+    <div className="container mx-auto p-3">
       <Meta title="Pokedex with Tailwind and ISR" />
-      <p>ISR</p>
+      <h1 className="mb-10 text-3xl font-bold">Pokemon list</h1>
       <p>Last build: {date}</p>
-    </>
+      <PokemonGrid pokemons={pokemons} />
+    </div>
   )
 }
 
