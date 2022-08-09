@@ -12,7 +12,12 @@ const PresentationText = ({
   bulletPoints,
 }: Props) => {
   return (
-    <Box mb={10} bg="gray.100" p={4} borderRadius="xl" maxW="70%">
+    <Box
+      mb={10}
+      bg="gray.100"
+      p={4}
+      borderRadius="xl"
+      maxW={["full", null, "70%"]}>
       <Text>
         This page was built using the following data fetching strategy:
         <Text as="b" mx={1}>
