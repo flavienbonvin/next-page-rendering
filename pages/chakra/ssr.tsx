@@ -1,8 +1,12 @@
-import { ChakraProvider, Container, Heading } from "@chakra-ui/react"
+import { ChakraProvider, Container } from "@chakra-ui/react"
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetServerSideProps } from "next/types"
+import PageHeader from "../../components/chakra/PageHeader"
 import PokemonGrid from "../../components/chakra/PokemonsGrid"
+import PresentationText from "../../components/chakra/PresentationText"
 import Meta from "../../components/Meta"
+import { SSR_BULLETS, SSR_EXPLAINATION, SSR_METHOD } from "../../constants/doc"
+import { NEXT_DOC_SSR } from "../../constants/routes"
 
 interface Props {
   pokemons: Pokemon[]
@@ -22,7 +26,16 @@ const SSR = ({ pokemons }: Props) => {
 const Page = ({ pokemons }: Props) => {
   return (
     <Container pt={3} maxW="container.xl">
-      <Heading pb={8}>Pokemon list</Heading>
+      <PageHeader
+        linkText="NextJS SSR doc"
+        docLink={NEXT_DOC_SSR}
+        method={SSR_METHOD}
+      />
+      <PresentationText
+        pageStrategy="SSR"
+        bulletPoints={SSR_BULLETS}
+        explainationText={SSR_EXPLAINATION}
+      />
       <PokemonGrid pokemons={pokemons} />
     </Container>
   )

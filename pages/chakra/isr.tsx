@@ -1,8 +1,12 @@
-import { ChakraProvider, Container, Heading, Text } from "@chakra-ui/react"
+import { ChakraProvider, Container } from "@chakra-ui/react"
 import { Pokemon, PrismaClient } from "@prisma/client"
 import type { GetStaticProps } from "next/types"
+import PageHeader from "../../components/chakra/PageHeader"
 import PokemonGrid from "../../components/chakra/PokemonsGrid"
+import PresentationText from "../../components/chakra/PresentationText"
 import Meta from "../../components/Meta"
+import { ISR_BULLETS, ISR_EXPLAINATION, ISR_METHOD } from "../../constants/doc"
+import { NEXT_DOC_ISR } from "../../constants/routes"
 
 interface Props {
   pokemons: Pokemon[]
@@ -23,8 +27,17 @@ const ISR = ({ pokemons, date }: Props) => {
 const Page = ({ pokemons, date }: Props) => {
   return (
     <Container pt={3} maxW="container.xl">
-      <Heading pb={8}>Pokemon list</Heading>
-      <Text>Last build: {date}</Text>
+      <PageHeader
+        date={date}
+        method={ISR_METHOD}
+        linkText="NextJS ISR doc"
+        docLink={NEXT_DOC_ISR}
+      />
+      <PresentationText
+        pageStrategy="ISR"
+        bulletPoints={ISR_BULLETS}
+        explainationText={ISR_EXPLAINATION}
+      />
       <PokemonGrid pokemons={pokemons} />
     </Container>
   )

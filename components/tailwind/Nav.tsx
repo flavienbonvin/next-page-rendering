@@ -16,13 +16,13 @@ const Nav = () => {
       </div>
       <div className="mb-4 ml-0 md:mb-0 md:ml-4 md:inline">
         <NavLink title="SSG Tailwind" link={ROUTE_TAIL_SSG} />
-        <NavLink title="SSR Tailwind" link={ROUTE_TAIL_SSR} />
         <NavLink title="ISR Tailwind" link={ROUTE_TAIL_ISR} />
+        <NavLink title="SSR Tailwind" link={ROUTE_TAIL_SSR} />
       </div>
       <div className="ml-0 md:ml-4 md:mb-0 md:inline">
         <NavLink title="SSG Chakra" link={ROUTE_CHARKA_SSG} />
-        <NavLink title="SSR Chakra" link={ROUTE_CHAKRA_SSR} />
         <NavLink title="ISR Chakra" link={ROUTE_CHAKRA_ISR} />
+        <NavLink title="SSR Chakra" link={ROUTE_CHAKRA_SSR} />
       </div>
     </nav>
   )
