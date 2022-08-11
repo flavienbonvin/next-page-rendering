@@ -1,5 +1,6 @@
 import { Pokemon } from "@prisma/client"
 import Image from "next/image"
+import Divider from "./atoms/Divider"
 import PokemonStat from "./PokemonStat"
 
 interface Props {
@@ -23,7 +24,7 @@ const PokemonCard = ({ pokemon }: Props) => {
         </h2>
         <pre className="inline-block text-xs text-neutral-600">N° {number}</pre>
       </div>
-      <div className="mt-4 w-full border border-neutral-300" />
+      <Divider />
       <Image src={pokemon.sprite} height={128} width={128} alt={pokemon.name} />
       <div className="flex gap-4">
         <div className="w-[40%] border-8 border-double border-neutral-700 p-2">
