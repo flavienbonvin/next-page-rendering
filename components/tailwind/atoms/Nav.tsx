@@ -5,8 +5,8 @@ import {
   ROUTE_CHARKA_SSG,
   ROUTE_CHAKRA_SSR,
   ROUTE_CHAKRA_ISR,
-} from "../../constants/routes"
-import NavLink from "./NavLink"
+} from "../../../constants/routes"
+import NavLink from "../NavLink"
 
 const Nav = () => {
   return (

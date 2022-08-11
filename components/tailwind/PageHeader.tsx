@@ -1,3 +1,5 @@
+import { LinkButton } from "./atoms/Button"
+
 interface Props {
   linkText: string
   docLink: string
@@ -15,14 +17,12 @@ const PageHeader = ({ linkText, docLink, method, date }: Props) => {
             <pre className="inline-block text-sm">(last build: {date})</pre>
           )}
         </div>
-        <a href={docLink} target="_blank" rel="noopener noreferrer">
-          {linkText}
-        </a>
+        <LinkButton href={docLink} text={linkText} />
       </div>
       <div>
-        <p className="inline-block">
+        <div className="inline-block">
           Method to use: <pre className="inline-block text-sm">{method}</pre>
-        </p>
+        </div>
       </div>
     </div>
   )

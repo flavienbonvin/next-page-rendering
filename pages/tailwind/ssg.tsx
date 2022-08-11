@@ -14,7 +14,7 @@ interface Props {
 const SSG = ({ pokemons }: Props) => {
   return (
     <div className="container mx-auto p-3">
-      <Meta title="Pokedex with Tailwind and ISR" />
+      <Meta title="Pokedex with Tailwind and SSG" />
       <PageHeader
         method={SSG_METHOD}
         linkText="NextJS SSG doc"
