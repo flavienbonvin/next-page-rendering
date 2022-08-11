@@ -14,7 +14,7 @@ const PresentationText = ({
   return (
     <Box
       mb={10}
-      bg="gray.100"
+      bg="blackAlpha.50"
       p={4}
       borderRadius="xl"
       maxW={["full", null, "70%"]}>
