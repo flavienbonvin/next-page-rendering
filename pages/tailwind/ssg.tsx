@@ -4,7 +4,7 @@ import PokemonGrid from "../../components/tailwind/PokemonsGrid"
 import Meta from "../../components/Meta"
 import PresentationText from "../../components/tailwind/PresentationText"
 import { SSG_BULLETS, SSG_EXPLAINATION, SSG_METHOD } from "../../constants/doc"
-import PageHeader from "../../components/chakra/PageHeader"
+import PageHeader from "../../components/tailwind/PageHeader"
 import { NEXT_DOC_SSG } from "../../constants/routes"
 
 interface Props {
