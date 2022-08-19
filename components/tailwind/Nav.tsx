@@ -18,9 +18,9 @@ const Nav = () => {
   ]
 
   const chakraLinks = [
-    { title: "SSG Tailwind", link: ROUTE_CHARKA_SSG },
-    { title: "ISR Tailwind", link: ROUTE_CHAKRA_ISR },
-    { title: "SSR Tailwind", link: ROUTE_CHAKRA_SSR },
+    { title: "SSG Chakra", link: ROUTE_CHARKA_SSG },
+    { title: "ISR Chakra", link: ROUTE_CHAKRA_ISR },
+    { title: "SSR Chakra", link: ROUTE_CHAKRA_SSR },
   ]
 
   return (
